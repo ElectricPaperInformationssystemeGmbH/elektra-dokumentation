@@ -137,6 +137,10 @@
 .footer .footer__item {
   margin: 0;
 }
+/* leere Titel-Zeile der Footer-Spalte ausblenden (sonst Leerzeile oben) */
+.footer .footer__title:empty {
+  display: none;
+}
 
 /* ============================ Startseite ============================ */
 
