@@ -47,9 +47,14 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
+/* Titel-Schriftzug in Logo-Grau */
 .navbar__title {
-  color: var(--ifm-color-primary);
+  color: #54575a;
   font-weight: 700;
+}
+
+[data-theme='dark'] .navbar__title {
+  color: #c7cbd0;
 }
 
 /* Links im Fließtext dezent unterstreichen beim Hover, Akzentfarbe */

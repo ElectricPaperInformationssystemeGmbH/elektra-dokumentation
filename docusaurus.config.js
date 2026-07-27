@@ -78,19 +78,7 @@ const config = {
           src: 'img/logo.svg',
           srcDark: 'img/logo-dark.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'handbuchSidebar',
-            position: 'left',
-            label: 'Handbuch',
-          },
-          {
-            href: 'https://elektra.software/',
-            label: 'Elektra-Onlinehilfe',
-            position: 'right',
-          },
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
