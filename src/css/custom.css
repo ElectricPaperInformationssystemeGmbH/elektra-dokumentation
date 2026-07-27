@@ -126,6 +126,19 @@
   vertical-align: middle;
 }
 
+/* Handbuch-Tabellen haben keine echte Kopfzeile:
+   erste Zeile wie eine normale Zeile darstellen (nicht fett, linksbündig). */
+.markdown table thead th {
+  font-weight: var(--ifm-font-weight-normal);
+  text-align: left;
+  background-color: transparent;
+}
+/* Inhalt in Tabellenzeilen oben ausrichten (Bild + Text sauber nebeneinander) */
+.markdown table th,
+.markdown table td {
+  vertical-align: top;
+}
+
 /* Aktiver Sidebar-Eintrag: Akzentbalken links */
 .menu__link--active:not(.menu__link--sublist) {
   border-left: 3px solid var(--elektra-accent);
