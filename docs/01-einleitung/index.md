@@ -9,6 +9,11 @@ Dieses Handbuch ist eine gekürzte Fassung des vollständigen **Elektra**-Handbu
 
 Themen für zentrale Projektleitung, Systemkonfiguration und IT-Betrieb sind nicht Teil dieses Dokuments und in den dafür vorgesehenen Handbüchern beschrieben.
 
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
+
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 

@@ -25,6 +25,11 @@ Ein wichtiges Herzstück von **Elektra** ist das verteilte Aufgaben-Management. 
 
 - Im Folgenden werden die einzelnen Aspekte genauer betrachtet.
 
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
+
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 

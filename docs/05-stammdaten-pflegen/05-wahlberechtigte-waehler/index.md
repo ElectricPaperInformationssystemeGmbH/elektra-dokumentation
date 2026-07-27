@@ -29,3 +29,8 @@ Haben Sie das Privileg zur Bearbeitung von vorhandenen Wählern, können Sie die
 | **Hinweis** ![](img/image9.png) |
 | --- |
 | Sollten Sie keinen Zugriff auf die Bearbeitung von Wählern haben, können Sie trotzdem über die **Wahlfunktionen 2 Wahlanfragen bearbeiten** und **3 Wahlunterlagen generieren** mit diesen interagieren. Alle Aktivitäten in Wählerstammdaten werden vom System in einem Audit-Trail zu Nachweiszwecken vermerkt. |
+
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />

@@ -19,6 +19,11 @@ Wenn Sie im Hauptmenü (**Triptychon**) den Bereich Stammdaten anklicken, zeigt 
 
 Die folgenden Abschnitte beschreiben diese Bereiche der Reihe nach – beginnend mit den Standort-Einstellungen als zentraler Grundlage, auf der alle weiteren Angaben aufbauen.
 
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
+
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 

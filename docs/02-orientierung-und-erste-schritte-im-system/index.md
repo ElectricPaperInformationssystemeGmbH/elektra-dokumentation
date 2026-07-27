@@ -7,6 +7,11 @@ sidebar_position: 0
 
 In diesem Kapitel lernen Sie den Zugang zu **Elektra** sowie die grundlegende Bedienung des Systems kennen. Sie erfahren, wie Sie sich anmelden und welche Rolle Sie im System einnehmen, wie sich das Hauptmenü nach dem Login gliedert und wie Sie über das **Triptychon** aus Stammdaten, Aufgaben und Wahlfunktionen in die verschiedenen Funktionsbereiche Ihres Standortes gelangen. Abschließend werden die wiederkehrenden Bedienkonzepte der Benutzeroberfläche vorgestellt, die Ihnen in allen weiteren Kapiteln begegnen werden.
 
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
+
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 

@@ -18,3 +18,8 @@ Um die Angaben zu editieren, klicken Sie auf **Standort-Details bearbeiten**.
 *Abb.  – Standort-Übersicht mit Bearbeiten-Funktion*
 
 Schauen wir die einzelnen Panels im Bearbeitungsmodus einmal an. Der Bearbeitungsdialog besteht aktuell aus **fünf** Unterabschnitten. Bitte beachten Sie, dass an Ihrem Standort ggf. nur zwei Panels angezeigt werden. In diesem Fall werden die übrigen Panels aufgrund der Gegebenheiten des Wahlprojektes nicht benötigt.
+
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />

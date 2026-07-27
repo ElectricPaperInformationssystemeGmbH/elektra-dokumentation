@@ -36,3 +36,8 @@ Die Wahlfunktion **Wähleranfragen bearbeiten** bildet insbesondere folgende Anw
 - Sicherstellung des korrekten Wahlkanals bei hybriden Wahlen (z. B. First-Vote-Counts, Online-First).
 
 - Verbuchung der Stimmzettelausgabe bzw. Wahlteilnahme bei Urnenwahlen.
+
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />

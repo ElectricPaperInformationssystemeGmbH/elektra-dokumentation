@@ -72,3 +72,8 @@ Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus S
 *Abb.  – Triptychon*
 
 Klicken Sie auf eine der drei Kacheln, um das darunter angezeigte Funktionsangebot zu wechseln. Im Folgenden werden die Grundfunktionen der drei Bereiche vorgestellt; weiterführende Informationen finden Sie über den Verweis am Ende des jeweiligen Abschnitts.
+
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />

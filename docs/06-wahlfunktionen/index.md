@@ -28,6 +28,11 @@ Die Wahlfunktionen, auch als **WFU** bezeichnet, basieren auf den im System hint
 
 **Hinweis:** Die Verfügbarkeit der einzelnen Wahlfunktionen richtet sich danach, welche **Wahlkanäle** an Ihrem Standort aktiviert sind. Ist beispielsweise **keine Urnenwahl** vorgesehen, steht die Wahlfunktion **4) „Urnenwahl protokollieren“** nicht zur Auswahl.
 
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
+
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 

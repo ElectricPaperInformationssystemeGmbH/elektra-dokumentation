@@ -34,3 +34,8 @@ Die Liste ist als durchsuch- und sortierbare Tabelle aufgebaut. Über **Zeige ..
 Darüber hinaus liefern folgende, nur in der Übersicht verfügbare Spalten weitere Auskünfte: Kandidaten-Titel Macro und Kandidateninfo Macro (Vorschau, wie Name bzw. ein Textblock mit Alter, Beruf und Wohnort später auf dem Stimmzettel erscheinen), UUID (technische Kennung des Datensatzes) sowie Erstellt am/Geändert am (Zeitpunkt und bearbeitende Person der letzten Änderung).
 
 Über die Schaltfläche **Kandidat zum Standort** **hinzufügen** legen Sie einen neuen Kandidaten an. Über **Dokument(e) für Kandidaten aus Vorlage erzeugen** erstellen Sie Dokumente aus einer Vorlage gesammelt für mehrere bzw. alle Kandidaten auf einmal, anstatt dies einzeln je Zeile zu tun.
+
+<!-- doccards:auto -->
+## In diesem Kapitel
+
+<DocCardList />
