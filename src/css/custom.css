@@ -78,12 +78,21 @@
    mittig ausgerichtet und gleich gerahmt -> ruhiges, konsistentes Bild. */
 .markdown p > img {
   display: block;
-  margin: 1.5rem 0;
+  margin: 1.5rem 0 0.2rem;
   max-width: 100%;
   height: auto;
   border: 1px solid var(--ifm-color-emphasis-300);
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+}
+
+/* Bildunterschrift direkt unter dem Bild (kursiv im Quelltext) – eng anliegend */
+.markdown p > img + em {
+  display: block;
+  margin-top: 0.1rem;
+  font-size: 0.88em;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-600);
 }
 
 /* Eingebetteter Vimeo-Player: responsiv im 16:9-Format */
