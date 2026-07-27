@@ -68,12 +68,28 @@
   padding-bottom: 0.3rem;
 }
 
-/* Screenshots im Fließtext dezent rahmen (wie im Elektra-Wiki) */
-.markdown img {
+/* Screenshots im Fließtext: einheitlich zentriert und gerahmt.
+   Sehr breite Screenshots werden auf die Spaltenbreite begrenzt, alle
+   mittig ausgerichtet und gleich gerahmt -> ruhiges, konsistentes Bild. */
+.markdown p > img {
+  display: block;
+  margin: 1.5rem auto;
   max-width: 100%;
+  height: auto;
   border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+}
+
+/* Icons und kleine Bilder in Tabellen: natürliche Größe, kein Rahmen */
+.markdown td img,
+.markdown th img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  vertical-align: middle;
 }
 
 /* Aktiver Sidebar-Eintrag: Akzentbalken links */
