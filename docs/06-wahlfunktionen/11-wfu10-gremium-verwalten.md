@@ -11,13 +11,13 @@ Um Kandidierende nach der Wahl in eine Gremienmitgliedschaft zu übernehmen, ruf
 
 ![](img/image228.png)
 
-*Abb. 182 – Übersicht der Wahlfunktionen*
+*Übersicht der Wahlfunktionen*
 
 Scrollen Sie anschließend nach unten, bis die **Sitzverteilungs-Tabelle** angezeigt wird.
 
 ![](img/image229.png)
 
-*Abb. 183 – Kandidaten ins Gremium übernehmen*
+*Kandidaten ins Gremium übernehmen*
 
 Dort können Sie wählen, ob Sie **einzelne Kandidierende** (1) oder **alle Kandidierenden gleichzeitig** (2) in das Gremium übernehmen möchten.
 
@@ -35,13 +35,13 @@ In der obersten Zeile (**Gremienmitgliedsart**, **Gremienrolle/Funktionen** und 
 
 ![](img/image230.png)
 
-*Abb. 184 – Modaldialog: Gremium-Mitglied hinzufügen*
+*Modaldialog: Gremium-Mitglied hinzufügen*
 
 Zusätzlich können Sie angeben, **ab wann die Mitgliedschaft gilt** („Sitz gilt von“) und **wann sie endet** („Sitz gilt bis einschließlich“).
 
 ![](img/image231.png)
 
-*Abb. 185 – Gremium-Mitglied hinzufügen: Amtszeit*
+*Gremium-Mitglied hinzufügen: Amtszeit*
 
 **Übernahme von allen Kandidierenden**
 
@@ -49,7 +49,7 @@ Alternativ zur individuellen Übernahme einzelner Kandidierender können Sie auc
 
 ![](img/image232.png)
 
-*Abb. 186 – Alle Kandidaten ins Gremium übernehmen*
+*Alle Kandidaten ins Gremium übernehmen*
 
 Anschließend werden sämtliche Kandidierende übernommen. Personen, die einen Sitz im Gremium erhalten haben, werden automatisch mit der Gremienmitgliedsart „**gewähltes Mitglied**“ angelegt, während Personen ohne Sitz automatisch als **Ersatzmitglieder** erfasst werden.
 
@@ -59,16 +59,16 @@ Anschließend werden sämtliche Kandidierende übernommen. Personen, die einen S
 
 Um das angelegte Gremium zu verwalten, rufen Sie die Wahlfunktion **10) Gremium verwalten** auf..
 
-*Abb. 187 – Aufruf WFU10*
+*Aufruf WFU10*
 
 ![](img/image234.png)
 
 Dort erhalten Sie eine Übersicht über alle bislang erfassten Gremienmitgliedschaften. Um eine bestehende Mitgliedschaft zu bearbeiten, wählen Sie das Stift-Symbol aus.
 
-*Abb. 188 – Schaltfläche Gremium-Mitgliedschaft ändern*
+*Schaltfläche Gremium-Mitgliedschaft ändern*
 
 ![](img/image235.png)
 
 Wenn Sie eine neue Mitgliedschaft für eine Person anlegen möchten, die in ELEKTRA nicht als Kandidierende erfasst wurde, wählen Sie die Schaltfläche **„Neue Person als Gremium-Mitglied hinzufügen“**.
 
-*Abb. 189 – Neue Person in das Gremium aufnehmen*
+*Neue Person in das Gremium aufnehmen*

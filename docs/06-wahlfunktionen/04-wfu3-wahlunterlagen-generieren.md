@@ -15,13 +15,13 @@ Der Aufbau der Wahlfunktion beginnt wie die meisten Wahlfunktionen mit einer Arb
 
 Nachdem Sie die Wahlfunktion 3) „**Briefwahlunterlagen generieren**“ aufgerufen haben, finden Sie im oberen Bereich die **Wählersuche**. Die Funktionsweise wurde bereits im Kapitel **6.3** **Wähleranfragen bearbeiten** erläutert.
 
-*Abb. 141 – WFU3: Wählersuche*
+*WFU3: Wählersuche*
 
 ![](img/image180.png)
 
 Nachdem Sie eine Suche ausgelöst haben, werden die Treffer unterhalb der Suchleiste angezeigt. Anschließend können Sie hier eine Aktion für den Wähler auswählen.
 
-*Abb. 142 – WFU 3: Wähler markieren*
+*WFU 3: Wähler markieren*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -35,7 +35,7 @@ Alle Personen, die Sie zuvor über die Schaltfläche **„Briefwahl-Unterlagen�
 
 ![](img/image181.png)
 
-*Abb. 143 – WFU3: Wähler zur Erzeugung der Wahlunterlagen auswählen*
+*WFU3: Wähler zur Erzeugung der Wahlunterlagen auswählen*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -43,13 +43,13 @@ Alle Personen, die Sie zuvor über die Schaltfläche **„Briefwahl-Unterlagen�
 
 ![](img/image182.png)
 
-*Abb. 144 – WFU3: Mehrfachauswahl von Wählern*
+*WFU3: Mehrfachauswahl von Wählern*
 
 Wählen Sie anschließend die Vorlage aus, die für die Erstellung der Briefwahlunterlage genutzt werden soll. Zur Auswahl stehen **„Briefwahlunterlage“** und **„Briefwahlunterlage + finaler Stimmzettel“**. Letztere Option enthält zusätzlich den Stimmzettel, der zuletzt innerhalb der Wahlfunktion **„1) Stimmzettel erstellen“** zum Druck freigegeben wurde, sodass Sie das vollständige Paket direkt an den Wähler ausgeben können.
 
 ![](img/image183.png)
 
-*Abb. 145 – WFU3: Auswahl der Vorlage*
+*WFU3: Auswahl der Vorlage*
 
 Klicken Sie auf die Schaltfläche **„Unterlage erstellen“**, um die Unterlagen für die ausgewählten Personen als PDF zu erzeugen. Dabei wird für jede ausgewählte Person eine eigene Seite im PDF angelegt.
 
@@ -57,16 +57,16 @@ In der darunterliegenden Tabelle **„Unterlagen-Ausdrucke“** finden Sie ansch
 
 ![](img/image184.png)
 
-*Abb. 146 – WFU3: Tabelle Unterlagen-Ausdrucke*
+*WFU3: Tabelle Unterlagen-Ausdrucke*
 
 Sobald Sie auf **„Als ausgegeben markieren“** geklickt haben, erscheint ein Übereilungsschutz. Bestätigen Sie in diesem Dialog mit **„Ja, als ausgegeben markieren“**, um den Status zu setzen.
 
 ![](img/image185.png)
 
-*Abb. 147 - WFU3: Übereilungsschutz Unterlagen ausgegeben*
+*WFU3: Übereilungsschutz Unterlagen ausgegeben*
 
 Bitte beachten Sie, dass in der Standardansicht der Tabelle **„Unterlagen-Ausdrucke“** nur noch nicht ausgegebene Unterlagen angezeigt werden. Als ausgegeben markierte Unterlagen werden nur für einen Tag nach der Ausgabe angezeigt. Nach Ablauf dieser Zeit können Sie über den Filter im Kopfbereich der Tabelle die Option **„Alle Ausdrucke anzeigen“** auswählen, um auch frühere Unterlagen einzusehen.
 
 ![](img/image186.png)
 
-*Abb. 148 – WFU3: Ältere Ausdrucke anzeigen*
+*WFU3: Ältere Ausdrucke anzeigen*

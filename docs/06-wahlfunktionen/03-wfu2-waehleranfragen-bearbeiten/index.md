@@ -9,7 +9,7 @@ Die Wahlfunktion **2) „Wähleranfragen bearbeiten“**, im Folgenden auch **W�
 
 ![](img/image148.png)
 
-*Abb.  – WFU2: Wählerservice-Übersicht*
+*WFU2: Wählerservice-Übersicht*
 
 Der Wählerservice ist in der Benutzeroberfläche auf zwei Wegen erreichbar:
 

@@ -21,7 +21,7 @@ Technisch gibt es zusätzlich den Status **überfällig**, der automatisch verge
 
 ![](img/image53.png)
 
-*Abb.  – Aufgabenübersicht mit Phasen und Status*
+*Aufgabenübersicht mit Phasen und Status*
 
 - Die Stati werden je Phase in den Kreisdiagrammen dargestellt.
 

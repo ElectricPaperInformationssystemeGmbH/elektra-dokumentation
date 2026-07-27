@@ -9,23 +9,23 @@ Mit dieser Wahlfunktion erzeugen Sie unter Verwendung des eingebauten Reportgene
 
 ![](img/image137.png)
 
-Sichten Sie die angebotenen Arbeitshilfen.  *Abb.* *99* *– WFU1: Wahlvorschläge und Stimmzettel erstellen*
+Sichten Sie die angebotenen Arbeitshilfen.  *WFU1: Wahlvorschläge und Stimmzettel erstellen*
 
 ![](img/image129.png)
 
 Prüfen Sie, ob die gemeldeten Fehler oder Warnungen des Plausibilitätsmoduls beheben können. Fehler werden in roter Farbe dargestellt und verhindern die Nutzung der Wahlfunktion und müssen daher zwingend vorher behoben werden.
 
-*Abb. 100 – Fehler in Wahlfunktion 1*
+*Fehler in Wahlfunktion 1*
 
 ![](img/image130.png)
 
-Warnungen werden in gelber Farbe dargestellt. Diese blockieren zwar nicht die Verwendung der Wahlfunktion, sollten jedoch trotzdem eingehend geprüft werden    *Abb.* *101* *– WFU1: Plausibilitätsprüfung (Fehler und Warnungen)*
+Warnungen werden in gelber Farbe dargestellt. Diese blockieren zwar nicht die Verwendung der Wahlfunktion, sollten jedoch trotzdem eingehend geprüft werden    *WFU1: Plausibilitätsprüfung (Fehler und Warnungen)*
 
 ![](img/image138.png)
 
 Wählen Sie den Bezirk (bei Einheitswahl ist nur ein Eintrag vorhanden), für den Sie einen Aushang erzeugen wollen.
 
-*Abb. 102 – Dialog Stimmzettel erstellen öffnen*
+*Dialog Stimmzettel erstellen öffnen*
 
 Und befüllen Sie die Dialogbox:
 
@@ -41,13 +41,13 @@ Und befüllen Sie die Dialogbox:
 
 ![](img/image139.png)
 
-*Abb. 103 – Textblöcke im Dialog Stimmzettelentwurf*
+*Textblöcke im Dialog Stimmzettelentwurf*
 
 Im Feld **Kandidaten** wählen Sie nun die zugesagten Kandidaten Ihres Standortes aus, die auf Briefwahlstimmzettel erscheinen sollen.
 
 ![](img/image140.png)
 
-*Abb. 104 - Kandidatenauswahl*
+*Kandidatenauswahl*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -59,7 +59,7 @@ Im Feld **Kandidaten** wählen Sie nun die zugesagten Kandidaten Ihres Standorte
 
 **Neue Wahlvorschlag/Stimmzettel- Entwürfe jetzt erstellen**: Hier entscheiden Sie, ob Sie die Daten nur in der Dialogbox eintragen wollten, oder ob mit Speichern der Daten auch ein neuer Entwurf erzeugt und der Liste hinzugefügt werden soll.
 
-*Abb. 105 – Neuen Entwurf erstellen*
+*Neuen Entwurf erstellen*
 
 ![](img/image142.png)
 
@@ -67,15 +67,15 @@ Sie finden den nun frisch erzeugten Entwurf in der Liste wieder. Es kann einen M
 
 ![](img/image143.png)
 
-*Abb.  – WFU1: Liste der Wahlvorschlags- und Stimmzettelentwürfe*
+*WFU1: Liste der Wahlvorschlags- und Stimmzettelentwürfe*
 
 - Sichten Sie den Inhalt, indem Sie die Vorschau aufrufen oder einen Download anfertigen und die Datei mit Ihren Wahlteam-Mitgliedern sorgfältig prüfen.
 
 ![](img/image144.png)
 
-*Abb. 107 – Vorschau aufrufen*
+*Vorschau aufrufen*
 
-*Abb.  – WFU1: Stimmzettel-Vorschau*
+*WFU1: Stimmzettel-Vorschau*
 
 - Wenn Sie Fehler feststellen, korrigieren Sie die entsprechenden Angaben. Kandidatenangaben korrigieren Sie in den Stammdaten für Kandidaten. Überschriften und Texte korrigieren Sie in der Dialogbox (Schritt 3).
 
@@ -95,7 +95,7 @@ Sie finden den nun frisch erzeugten Entwurf in der Liste wieder. Es kann einen M
 
 Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
 
-*Abb.  – WFU1: Statusleiste der Entwürfe*
+*WFU1: Statusleiste der Entwürfe*
 
   - Nach der Erzeugung haben die PDF-Dateien den Status ‚Entwurf‘.
 
@@ -107,7 +107,7 @@ Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
 
 ![](img/image147.png)
 
-*Abb. 110 – Status setzen*
+*Status setzen*
 
 - Wiederholen Sie diesen Schritte 3-7 nach Ende der Rückmeldefristen. **Erst dann** gilt es den endgültigen Stimmzettel zu erzeugen und im Statusnetz auf „**Frei zum Druck**“ zu stellen!
 

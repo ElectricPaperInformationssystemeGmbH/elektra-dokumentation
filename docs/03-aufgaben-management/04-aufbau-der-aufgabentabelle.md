@@ -9,7 +9,7 @@ sidebar_position: 4
 
 ![](img/image55.png)
 
-*Abb. 37 – Übersicht Aufgabenphase*
+*Übersicht Aufgabenphase*
 
 - **Art:** Hier wird dargestellt, zu welcher **Aufgabenkategorie** die Aufgabe gehört. Dies bieten einen schnellen Überblick, was in etwa bei der Aufgabe zu tun ist. Folgende Aufgabenkategorien sind standardmäßig in **Elektra** vorhanden:
 
@@ -44,7 +44,7 @@ sidebar_position: 4
 
 ![](img/image72.png)
 
-*Abb.  – PDF-Vorschau eines Hilfsmittels*
+*PDF-Vorschau eines Hilfsmittels*
 
 - **Letzte Bearbeitung:** Zeigt an, welcher **Nutzer** zu welchem Zeitpunkt die Aufgabe zuletzt bearbeitet hat.
 

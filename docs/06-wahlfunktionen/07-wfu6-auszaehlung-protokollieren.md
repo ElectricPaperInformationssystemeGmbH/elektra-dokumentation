@@ -13,7 +13,7 @@ Im Anschluss wird eine **Liste angezeigt**, über die die **Niederschriften**, g
 
 ![](img/image200.png)
 
-*Abb.  – WFU6: Niederschriften je Bezirk*
+*WFU6: Niederschriften je Bezirk*
 
 Um eine Auszählung zu protokollieren, gehen Sie wie folgt vor:
 
@@ -23,20 +23,20 @@ Wählen Sie den Standort bzw. den Bezirk aus. Kicken Sie auf  um den folgenden D
 
 - Füllen Sie den Dialog aus:
 
-| ![](img/image202.png) Abb.  – WFU6: Niederschrift-Dialog ausfüllen | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. |
+| ![](img/image202.png) WFU6: Niederschrift-Dialog ausfüllen | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. |
 | --- | --- |
 
 ![](img/image203.png)
 
 Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf ‚In Bearbeitung‘
 
-*Abb.  – WFU6: Dokumentenliste und Drop-Zone*
+*WFU6: Dokumentenliste und Drop-Zone*
 
 ![](img/image204.png)
 
 ![](img/image205.png)
 
-Nun wählen Sie ‚Vorlage generieren‘ um die Vorlage auszuwählen und ein personalisiertes Dokument zu erhalten:      *Abb.* *160* *– WFU6: Auszählungsprotokoll generieren*
+Nun wählen Sie ‚Vorlage generieren‘ um die Vorlage auszuwählen und ein personalisiertes Dokument zu erhalten:      *WFU6: Auszählungsprotokoll generieren*
 
 - Bearbeiten Sie das Dokument entsprechend, drucken Sie es aus. Unterzeichnen Sie es.
 
@@ -52,7 +52,7 @@ Der Status in der Liste ändert sich dadurch automatisch auf
 
 Wie für die meisten Wahlfunktionen, können **Status** und **Kommentare** gesetzt werden.
 
-*Abb.  – WFU6: Ergebnisse aller Bezirke zusammenführen*
+*WFU6: Ergebnisse aller Bezirke zusammenführen*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -60,4 +60,4 @@ Wie für die meisten Wahlfunktionen, können **Status** und **Kommentare** geset
 
 ![](img/image208.png)
 
-*Abb.  – WFU6: Urnenwahlprotokolle aus WFU4*
+*WFU6: Urnenwahlprotokolle aus WFU4*

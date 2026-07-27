@@ -9,7 +9,7 @@ Die folgende Übersicht zeigt den Bereich Wahlfunktionen des Triptychons:
 
 ![](img/image29.png)
 
-*Abb.  – Wahlfunktionen*
+*Wahlfunktionen*
 
 Die Wahlfunktionen sind im Arbeitsbereich in mehreren Reihen von links nach rechts angeordnet und durch eine vorangestellte Nummer logisch sortiert. Dadurch ergibt sich eine klare Reihenfolge, die sich am typischen Ablauf der Wahl orientiert.
 

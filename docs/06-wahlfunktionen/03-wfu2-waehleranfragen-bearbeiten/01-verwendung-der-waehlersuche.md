@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ![](img/image149.png)
 
-Wahlbüro auswählen  Abb.  – WFU2: Bedienschema Wähleranfragen
+Wahlbüro auswählen  WFU2: Bedienschema Wähleranfragen
 
 Zu Beginn wählen Sie das **Wahlbüro**, für das die Wähleranfrage bearbeitet werden soll. Sie dient dazu,
 
@@ -25,19 +25,19 @@ Zu Beginn wählen Sie das **Wahlbüro**, für das die Wähleranfrage bearbeitet 
 
 Suchbegrifflichkeit eingeben und Wähler suchen.
 
-*Abb.  – WFU2: Wählersuche*
+*WFU2: Wählersuche*
 
 - Um die Suche zu starten, geben Sie **mindestens drei Zeichen** in das Suchfeld ein und bestätigen Sie die Eingabe mit der **Enter-Taste**. Zur Identifikation der gesuchten Person zeigt die Tabelle weitere Merkmale an: die **laufende Nummer (Nr.)**, den **vollständigen Namen**, das **Geburtsdatum** und die **Adresse**.
 
 ![](img/image151.png)
 
-*Abb.  – WFU2: Wählersuche*
+*WFU2: Wählersuche*
 
 - Aus **Datenschutzgründen** ist die Trefferliste auf eine begrenzte Anzahl von Einträgen reduziert. Führen die eingegebenen Suchkriterien zu zu vielen Treffern, wird eine entsprechende **Hinweismeldung** angezeigt.
 
 ![](img/image152.png)
 
-*Abb.  – WFU2: Begrenzte Trefferliste*
+*WFU2: Begrenzte Trefferliste*
 
 - In diesem Fall verfeinern Sie die Suche durch zusätzliche Merkmale.
 

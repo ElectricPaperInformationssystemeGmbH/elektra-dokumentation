@@ -9,7 +9,7 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 
 ![](img/image197.png)
 
-*Abb.  – WFU5: Onlinewahl-Übersicht*
+*WFU5: Onlinewahl-Übersicht*
 
 | **Status** | Zeigt den aktuellen Status der Onlinewahl am Standort an. Mögliche Statuswerte sind: **Onlinewahl nicht initialisiert, Onlinewahl erzeugt, Onlinewahl beendet und Onlinewahl ausgewertet.** |
 | --- | --- |
@@ -26,7 +26,7 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 
 ![](img/image198.png)
 
-*Abb.  – WFU5: Detaildaten der Onlinewahl*
+*WFU5: Detaildaten der Onlinewahl*
 
 | **Onlinewahl ID** | Technische Kennung der Onlinewahlkabine zur eindeutigen Identifikation. Die Onlinewahl-ID dient ausschließlich **zu Informationszwecken** und hat keine unmittelbare praktische Relevanz für die Bedienung. |
 | --- | --- |
@@ -41,4 +41,4 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 
 ![](img/image199.png)
 
-*Abb.  – WFU5: Stimmenverteilung je Kandidat*
+*WFU5: Stimmenverteilung je Kandidat*

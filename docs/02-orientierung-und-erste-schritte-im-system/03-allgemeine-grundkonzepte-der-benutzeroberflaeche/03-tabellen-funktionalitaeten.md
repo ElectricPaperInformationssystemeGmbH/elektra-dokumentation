@@ -13,7 +13,7 @@ Im oberen Bereich der Tabelle (Tabellenkopf) befinden sich grundlegende Steuerun
 
 ![](img/image40.png)
 
-*Abb.  – Tabellenkopf*
+*Tabellenkopf*
 
 - **Überschrift der Tabelle:** Im oberen Bereich der Tabelle wird die Bezeichnung angezeigt. Sie dient der Orientierung und zeigt an, in welchem Kontext Sie sich befinden.
 
@@ -39,7 +39,7 @@ Der Spaltenkopf ist der obere Bereich der Tabelle, in dem die einzelnen Spalten 
 
 ![](img/image43.png)
 
-*Abb.  – Spaltenkopf der Tabelle*
+*Spaltenkopf der Tabelle*
 
 - **Spaltenbezeichnung:** Die Spaltenbezeichnung gibt an, welche Art von Informationen in der jeweiligen Spalte dargestellt wird, beispielsweise Kontaktdaten, Status oder Datumsangaben.
 
@@ -61,7 +61,7 @@ Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enth
 
 ![](img/image46.png)
 
-*Abb.  – Tabelleninhalt (Kandidatentabelle)*
+*Tabelleninhalt (Kandidatentabelle)*
 
 - **Interaktion mit dem Datensatz**: In der ersten Spalte stehen Schaltflächen zur Bearbeitung des jeweiligen Datensatzes zur Verfügung, in der Regel dargestellt durch ein Stift-Symbol. Durch Anklicken wird ein Absprung in einen anderen Kontext ausgelöst, beispielsweise in eine Bearbeitungsmaske oder eine Detailansicht.
 
@@ -75,7 +75,7 @@ Der Fußbereich der Tabelle enthält Informationen zur aktuellen Anzeige sowie F
 
 ![](img/image47.png)
 
-*Abb.  – Fußbereich der Tabelle*
+*Fußbereich der Tabelle*
 
 - **Anzeige der Einträge:** Im linken Bereich wird angezeigt, wie viele Datensätze insgesamt in der Tabelle vorhanden sind und welcher Ausschnitt aktuell dargestellt wird.
 

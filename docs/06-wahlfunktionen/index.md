@@ -9,7 +9,7 @@ Die Wahlfunktionen, auch als **WFU** bezeichnet, basieren auf den im System hint
 
 ![](img/image127.png)
 
-*Abb.  – Übersicht der Wahlfunktionen (WFU)*
+*Übersicht der Wahlfunktionen (WFU)*
 
 | **Wahlfunktion** | **Zweck** |
 | --- | --- |

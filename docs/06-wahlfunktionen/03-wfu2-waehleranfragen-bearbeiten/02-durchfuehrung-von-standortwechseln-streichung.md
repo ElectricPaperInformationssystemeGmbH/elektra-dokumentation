@@ -11,7 +11,7 @@ sidebar_position: 2
 
 ![](img/image153.png)
 
-*Abb. 116 – WFU2: Wahlrecht exportieren*
+*WFU2: Wahlrecht exportieren*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -19,19 +19,19 @@ sidebar_position: 2
 
 ![](img/image154.png)
 
-*Abb. 117 – Wahlrecht exportieren Mehrfachauswahl*
+*Wahlrecht exportieren Mehrfachauswahl*
 
 Unterhalb der Tabelle ist die Aktion **„Wahlrecht exportieren“** vorausgewählt. Klicken Sie auf die Schaltfläche **Ausführen**.
 
 ![](img/image155.png)
 
-*Abb. 118 – Ausführung des Wahlrechtsexports*
+*Ausführung des Wahlrechtsexports*
 
 Es öffnet sich ein Bestätigungsdialog. Prüfen Sie, ob die richtigen Personen ausgewählt sind, und klicken Sie anschließend auf **„Wahlrecht exportieren“**.
 
 ![](img/image156.png)
 
-*Abb. 119 – Übereilungsschutz Wahlrechtexport*
+*Übereilungsschutz Wahlrechtexport*
 
 Nach der Bestätigung erscheinen zwei Fenster:
 
@@ -41,7 +41,7 @@ Nach der Bestätigung erscheinen zwei Fenster:
 
 ![](img/image157.png)
 
-*Abb. 120 - Abholtoken*
+*Abholtoken*
 
 Das erzeugte Dokument umfasst pro gestrichener Person **zwei Seiten**:
 

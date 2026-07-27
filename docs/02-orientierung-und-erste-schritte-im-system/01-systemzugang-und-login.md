@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ![](img/image4.png)
 
-*Abb.  – Benachrichtigung über den neu angelegten Zugang*
+*Benachrichtigung über den neu angelegten Zugang*
 
 In der Regel wird Ihr Benutzerkonto durch die Projektleitung angelegt. Sobald dies geschehen ist, erhalten Sie automatisch eine E-Mail an die hinterlegte E-Mail-Adresse.
 
@@ -19,19 +19,19 @@ Diese E-Mail enthält die Schaltfläche „**Passwort zurücksetzen**“. Klicke
 
 ![](img/image5.png)
 
-*Abb.  – Dialog Passwort zurücksetzen*
+*Dialog Passwort zurücksetzen*
 
 Anschließend öffnet sich in Ihrem Browser ein Dialog, in dem Ihre E-Mail-Adresse bereits vorausgefüllt ist. Klicken Sie erneut auf „**Passwort zurücksetzen**“.
 
 ![](img/image6.png)
 
-*Abb.  – E-Mail mit Link zum Festlegen des eigenen Passworts*
+*E-Mail mit Link zum Festlegen des eigenen Passworts*
 
 Anschließend erhalten Sie eine weitere E-Mail mit einem persönlichen Link. Öffnen Sie diesen Link, indem Sie ihn anklicken oder in die Adresszeile Ihres Browsers kopieren.
 
 ![](img/image7.png)
 
-*Abb.  – Neues Passwort festlegen*
+*Neues Passwort festlegen*
 
 Es öffnet sich eine Eingabemaske, in der Sie Ihr neues Passwort sowohl im Feld „**Neues Passwort**“ als auch im Feld „**Passwort bestätigen**“ eingeben.
 
@@ -45,7 +45,7 @@ Alternativ kann Ihr Zugang – sofern die Projektleitung dies vorgesehen hat –
 
 ![](img/image8.png)
 
-*Abb.  – Registrierungsformular*
+*Registrierungsformular*
 
 Am oberen Ende sehen Sie das Logo des Wahlprojektes. Darunter wird der Zeitraum angezeigt, in dem eine Registrierung möglich ist. Es folgt der Bereich zur Eingabe der persönlichen Informationen. Hierzu zählen die Felder Anrede, Titel, Vorname, Nachname, Telefon sowie die Angabe der Erreichbarkeit. Alle Felder, die mit einem roten Sternchen gekennzeichnet sind, sind Pflichtfelder und müssen ausgefüllt werden.
 
@@ -59,7 +59,7 @@ Abschließend geben Sie Ihre E-Mail-Adresse sowie ein Passwort ein, das Sie kün
 
 ![](img/image10.png)
 
-*Abb.  – Bestätigungs-E-Mail nach der Registrierung*
+*Bestätigungs-E-Mail nach der Registrierung*
 
 Im Anschluss erhalten Sie eine E-Mail an Ihre hinterlegte E-Mail-Adresse. Klicken Sie in dieser E-Mail auf die Schaltfläche „**Bestätigen**“, um die Registrierung abzuschließen. Sobald Ihr Account durch eine Administratorin oder einen Administrator freigegeben wurde, können Sie **Elektra** nutzen und werden darüber per E-Mail informiert.
 
@@ -67,7 +67,7 @@ Im Anschluss erhalten Sie eine E-Mail an Ihre hinterlegte E-Mail-Adresse. Klicke
 
 ![](img/image11.png)
 
-*Abb.  – Interner Login-Dialog mit möglichen Fehlermeldungen*
+*Interner Login-Dialog mit möglichen Fehlermeldungen*
 
 Unabhängig davon, auf welchem der beiden beschriebenen Wege Ihr Zugang eingerichtet wurde, melden Sie sich für die laufende Nutzung über die interne Login-Maske am System an. Verwenden Sie hierzu die E-Mail-Adresse, an die Sie zuvor die Benachrichtigung über die Einrichtung Ihres Benutzerkontos erhalten haben.
 
@@ -79,15 +79,15 @@ Wenn Sie sich mehrfach vergeblich eingeloggt haben, wird Ihnen der Zugang zeitwe
 
 ![](img/image12.png)
 
-*Abb.  – Passwort vergessen und zurücksetzen*
+*Passwort vergessen und zurücksetzen*
 
 Nutzen Sie die Schaltfläche Passwort vergessen, um das Passwort Ihres Nutzerkontos zurückzusetzen.
 
 Anschließend öffnet sich ein Dialog, indem Sie Ihre E-Mail-Adresse eingeben, die mit Ihrem **Elektra**-Konto verknüpft ist. Klicken Sie auf Passwort zurücksetzen.
 
-Anschließend erhalten Sie eine E-Mail mit einem enthaltenen Link. Öffnen Sie diesen, indem Sie ihn anklicken oder in die Adresszeile Ihres Browsers kopieren. (siehe Abb. 4)
+Anschließend erhalten Sie eine E-Mail mit einem enthaltenen Link. Öffnen Sie diesen, indem Sie ihn anklicken oder in die Adresszeile Ihres Browsers kopieren. (siehe folgende Abbildung)
 
-Anschließend öffnet sich eine Maske. Geben Sie hier Ihr neues Passwort ein (sowohl in das Feld Neues Passwort als auch Passwort bestätigen). (siehe Abb. 5)
+Anschließend öffnet sich eine Maske. Geben Sie hier Ihr neues Passwort ein (sowohl in das Feld Neues Passwort als auch Passwort bestätigen). (siehe folgende Abbildung)
 
 Klicken Sie anschließend auf Passwort neu setzen. Danach können Sie sich mit Ihrem neuen Passwort anmelden.
 
@@ -99,7 +99,7 @@ Für die Einrichtung benötigen Sie ein zweites Gerät, in der Regel ein Smartph
 
 ![](img/image13.png)
 
-*Abb.  – Einrichtung der Zwei-Faktor-Authentifizierung*
+*Einrichtung der Zwei-Faktor-Authentifizierung*
 
 Die App erzeugt anschließend einen **Code**, der regelmäßig erneuert wird. Geben Sie diesen Code in das Feld **„****Pin-Code** **bestätigen“** ein und klicken Sie auf **„Speichern“**, um die Einrichtung abzuschließen.
 
@@ -113,7 +113,7 @@ Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftig
 
 ![](img/image14.png)
 
-*Abb.  – Anmeldung über Keycloak*
+*Anmeldung über Keycloak*
 
 - Mit dem Klick auf “Mit **Keycloak** verbinden” springt **Elektra** zur externen Login-Maske.
 

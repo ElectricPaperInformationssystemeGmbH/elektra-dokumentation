@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Schematischer Ablauf und Ihre Rolle im System
 
-*Abb.  – Schematischer Wahlablauf*
+*Schematischer Wahlablauf*
 
 Die Durchführung von verteilten Wahlen verläuft nach einem klar definierten Rahmen aus mehreren Phasen. Bevor Standorte einbezogen werden, plant die zentrale Projektleitung den Zeitrahmen auf Basis der Wahlstatuten, richtet die technische Umgebung ein und bestückt das System mit den notwendigen Stammdaten, Vorlagen und dem Aufgabenkatalog für die Standorte. Als Standortverantwortlicher kommen Sie ab folgendem Punkt ins Spiel:
 

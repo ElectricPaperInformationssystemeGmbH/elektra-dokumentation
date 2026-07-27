@@ -13,13 +13,13 @@ Wahlbezirke sind geografische oder sachlogische Einheiten, die bei Wahlen genutz
 
 ![](img/image93.png)
 
-*Abb.  – Wahlbezirke verwalten*
+*Wahlbezirke verwalten*
 
 Sofern die Bearbeitung bzw. das Anlegen von Stimmbezirken freigegeben wurde, können Sie diese mit Hilfe der Maske „**Bezirk ändern**“ editieren:
 
 ![](img/image94.png)
 
-*Abb.  – Maske Bezirk ändern*
+*Maske Bezirk ändern*
 
 **Kürzel**: Alphanumerisches Kennzeichen zur Sortierung der Bezirke
 

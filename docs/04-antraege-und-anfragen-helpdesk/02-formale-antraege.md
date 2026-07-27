@@ -9,7 +9,7 @@ Wenn die Projektleitung formelle Anträge für das Wahlprojekt vorgesehen hat, g
 
 ![](img/image82.png)
 
-*Abb.  – Auswahl formaler Anträge (Dropdown)*
+*Auswahl formaler Anträge (Dropdown)*
 
 Es öffnet sich der Dialog zur Bearbeitung des Antrags
 
@@ -17,7 +17,7 @@ Es handelt sich dabei um eine Feedback-Aufgabe mit Hilfsmitteln und Antwortfelde
 
 ![](img/image83.png)
 
-*Abb.  – Formaler Antrag als Feedback-Aufgabe*
+*Formaler Antrag als Feedback-Aufgabe*
 
 **Anfragen an den Standort**
 

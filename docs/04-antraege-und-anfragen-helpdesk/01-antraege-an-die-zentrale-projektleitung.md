@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ![](img/image80.png)
 
-*Abb. 46 – Antrag an die zentrale Projektleitung stellen*
+*Antrag an die zentrale Projektleitung stellen*
 
 Die Felder sind soweit selbsterklärend. Anfragen sind technisch gesehen Aufgaben und damit Allgemeingut das als Information zwischen den Beteiligten Akteuren liegt.
 

@@ -11,11 +11,11 @@ In beiden Fällen öffnet sich der Dialog **Kandidat hinzufügen**, welcher im F
 
 ![](img/image112.png)
 
-*Abb.  – Kandidat hinzufügen (Ansicht ohne Eingaben)*
+*Kandidat hinzufügen (Ansicht ohne Eingaben)*
 
 ![](img/image113.png)
 
-*Abb.  – Kandidat ändern: Status, Person und Motivation*
+*Kandidat ändern: Status, Person und Motivation*
 
 **Kandidatenstatus**: Ein Dropdown-Menü zur Kennzeichnung des aktuellen Standes der Kandidatur. Zur Auswahl stehen: Vorgeschlagen, Angefragt, lt. Statuten nicht wählbar, abgesagt und zugesagt.
 
@@ -23,7 +23,7 @@ Der Status **zugesagt** ist mit einer Systemlogik hinterlegt, so dass nur Kandid
 
 ![](img/image114.png)
 
-*Abb.  – Verwaltung der Kandidatenstatus-Werte*
+*Verwaltung der Kandidatenstatus-Werte*
 
 Welche Status-Werte zur Auswahl stehen und wie sie farblich dargestellt werden, wird projektweit von der Projektleitung festgelegt und ist an dieser Stelle nicht durch Standortverantwortliche änderbar.
 
@@ -31,7 +31,7 @@ Welche Status-Werte zur Auswahl stehen und wie sie farblich dargestellt werden, 
 
 ![](img/image115.png)
 
-*Abb.  – Verwaltung der Dokumentationsstatus-Werte*
+*Verwaltung der Dokumentationsstatus-Werte*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -61,7 +61,7 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 
 ![](img/image116.png)
 
-*Abb.  – Kandidat ändern: Nutzerbild und interne Notiz*
+*Kandidat ändern: Nutzerbild und interne Notiz*
 
 **Nutzerbild**: Uploadmöglichkeit für ein Kandidatenbild inklusive Zuschneide- und Rotationsfunktion. Unterstützt werden Bilder im JPEG- oder PNG-Format (mit systemseitiger Dateigrößenbeschränkung; alle hochgeladenen Dateien durchlaufen einen Virenscanner). Ein bereits hochgeladenes Bild kann heruntergeladen oder gelöscht werden; wurde kein Bild hochgeladen, zeigt das System stattdessen eine geschlechtsspezifische Ersatzdarstellung (Mann/Frau/Divers/unbekannt) an – diese Bilder bzw. Ersatzbilder werden auch in nachgelagerten Prozessen wie der Erstellung von Stimmzetteln und Wahlvorschlägen verwendet.
 
@@ -69,7 +69,7 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 
 ![](img/image117.png)
 
-*Abb.  – Kandidat ändern: Adresse*
+*Kandidat ändern: Adresse*
 
 **Organisation/Institution/Abteilung**: Freitextfeld für eine zusätzliche Adresszeile, sofern der Kandidat einer Organisation, Institution oder Abteilung zugeordnet werden soll.
 
@@ -81,7 +81,7 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 
 ![](img/image118.png)
 
-*Abb.  – Kandidat ändern: Kontakt*
+*Kandidat ändern: Kontakt*
 
 **E-Mail**, **Telefon**, **Fax**, **Mobil**, **Mobil (Privat)**: Felder zur Erfassung der Kontaktdaten des Kandidaten.
 
@@ -89,7 +89,7 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 
 ![](img/image119.png)
 
-*Abb.  – Kandidat ändern: Dokumente*
+*Kandidat ändern: Dokumente*
 
 **Dokumente**: Ein Uploadbereich (per Drag-and-drop oder Dateiauswahl) für beliebige Dokumente zum Kandidaten, inklusive einer Übersichtstabelle (Name/Vorschau/Aktion) der bereits abgelegten Dokumente. Es können maximal 10 Dateien hinterlegt werden.
 

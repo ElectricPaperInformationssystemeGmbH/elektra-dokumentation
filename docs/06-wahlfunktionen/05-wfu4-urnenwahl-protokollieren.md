@@ -13,7 +13,7 @@ Zentrales Element dieser Wahlfunktion ist die Liste der Urnenwahlprotokolle. Das
 
 ![](img/image187.png)
 
-*Abb.  – WFU4: Urnenwahl protokollieren (Übersicht)*
+*WFU4: Urnenwahl protokollieren (Übersicht)*
 
 Wie immer gilt: Grün, Orange oder rot sind Status-Informationen. Dunkelblau sind die „**Stifte**“ zum Bearbeiten der Dialogbox mit den Angaben und Notizen.
 
@@ -25,7 +25,7 @@ Wählen Sie einen Eintrag aus der Matrix, in dem Sie auf den blauen Stift klicke
 
 - Bearbeiten Sie den Inhalt im Dialog:
 
-| ![](img/image189.png) Abb.  – WFU4: Protokoll-Dialog ausfüllen | **Wahllokal an dem Tag:** Wählen Sie, ob für diesen Tag ein Protokoll entstehen soll, um die Wahlhandlung in diesem Wahlraum zu protokollieren.  **GESCHLOSSEN:**  Wählen Sie diesen Eintrag, wenn an diesem Tag keine Wahlhandlung stattfinden kann. **Wahlteam-Mitglieder:** Welche Vertreter des Wahlvorstands sind mit der Durchführung und Protokollierung beauftragt? **Notizen / besondere Vorkommnisse:** Hier haben Sie Raum zum Festhalten besonderer Begebenheiten. **Wie wurde mit der Wahlurne am Ende des Wahltags verfahren?** Dokumentieren Sie, wie mit der Wahlurne umgegangen wurde. **Fertige Dokumente:**  DROP-ZONE für das Hochladen von fertig unterzeichneten Protokollen. |
+| ![](img/image189.png) WFU4: Protokoll-Dialog ausfüllen | **Wahllokal an dem Tag:** Wählen Sie, ob für diesen Tag ein Protokoll entstehen soll, um die Wahlhandlung in diesem Wahlraum zu protokollieren.  **GESCHLOSSEN:**  Wählen Sie diesen Eintrag, wenn an diesem Tag keine Wahlhandlung stattfinden kann. **Wahlteam-Mitglieder:** Welche Vertreter des Wahlvorstands sind mit der Durchführung und Protokollierung beauftragt? **Notizen / besondere Vorkommnisse:** Hier haben Sie Raum zum Festhalten besonderer Begebenheiten. **Wie wurde mit der Wahlurne am Ende des Wahltags verfahren?** Dokumentieren Sie, wie mit der Wahlurne umgegangen wurde. **Fertige Dokumente:**  DROP-ZONE für das Hochladen von fertig unterzeichneten Protokollen. |
 | --- | --- |
 
 - Speichern Sie den Inhalt des Dialogs.
@@ -44,7 +44,7 @@ Schließen Sie den Bearbeitungsdialog, in dem Sie auf SPEICHERN klicken. Entspre
 
 Erzeugen Sie das Protokoll Klicken Sie auf das Dropdown und wählen Sie die Protokollvorlage aus.    Es erscheint ein Dialog, der ggf. weitere Variablen abfragt, die in die Vorlage eingefügt werden sollen. Klicken Sie hier auf **Generieren**.
 
-*Abb.  – WFU4: Protokoll erzeugen und hochladen*
+*WFU4: Protokoll erzeugen und hochladen*
 
 - Ergänzen Sie das Protokoll – wo nötig und unterzeichnen Sie es. Notfalls fügen Sie Anlagen hinzu.
 
@@ -54,7 +54,7 @@ Erzeugen Sie das Protokoll Klicken Sie auf das Dropdown und wählen Sie die Prot
 
 Durch das Hochladen der Datei, stellt sich der Status des Feldes in der Matrix automatisch auf **fertig**.
 
-*Abb.  – WFU4: Protokoll hochladen*
+*WFU4: Protokoll hochladen*
 
 **Gesamt-Status, Notizen, Kommentare.**
 
@@ -62,4 +62,4 @@ Wie bei die meisten Wahlfunktionen können Sie den Status pflegen, Notizen einge
 
 ![](img/image196.png)
 
-*Abb.  – WFU4: Status und Kommentare pflegen*
+*WFU4: Status und Kommentare pflegen*

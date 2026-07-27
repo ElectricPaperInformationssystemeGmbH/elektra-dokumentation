@@ -9,25 +9,25 @@ Wie zuvor erwähnt, kann in den **Projektvorgaben** bzw. **Privilegien** festgel
 
 ![](img/image104.png)
 
-*Abb.  – Import- und Export-Funktionen für Wählerdaten*
+*Import- und Export-Funktionen für Wählerdaten*
 
 Die Idee ist, dass in diesem Falle die Pflege des Wählerverzeichnisses nicht durch zentrale Meldedaten unterfüttert ist, sondern vielmehr in Eigenregie am **Standort** organisiert werden muss. Dies ist z.B. bei MAV-Wahlen der Fall. Um die Funktion zu nutzen, laden Sie zunächst eine Musterdatei mit **Download Wahlberechtigte** herunter.  Sie erhalten eine Excel-Datei mit sämtlichen Angaben und Feldern gemäß Vorgabe.
 
 ![](img/image105.png)
 
-*Abb.  – Wählerdaten hoch- und herunterladen*
+*Wählerdaten hoch- und herunterladen*
 
 Öffnen Sie die Vorlage mit Excel.
 
 ![](img/image106.png)
 
-*Abb.  – Wähler-Importvorlage in Excel öffnen*
+*Wähler-Importvorlage in Excel öffnen*
 
 Der Aufbau der Wähler-Importvorlage sieht wie folgt aus:
 
 ![](img/image107.png)
 
-*Abb.  – Aufbau der Wähler-Importvorlage*
+*Aufbau der Wähler-Importvorlage*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -43,7 +43,7 @@ Der Aufbau der Wähler-Importvorlage sieht wie folgt aus:
 
 ![](img/image108.png)
 
-*Abb. 71 - Spaltenreihenfolge der Importvorlage*
+*Spaltenreihenfolge der Importvorlage*
 
 Eine detaillierte Erläuterung zu der Bedeutung der einzelnen Spalten der Importdatei finden Sie im Anhang.
 

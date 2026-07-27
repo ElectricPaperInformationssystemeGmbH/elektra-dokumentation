@@ -11,19 +11,19 @@ Im Folgenden wird Ihnen im Detail gezeigt, wie der Bearbeitungsdialog einer Aufg
 
 ![](img/image73.png)
 
-*Abb. 39 - Aufgabenbeschreibung*
+*Aufgabenbeschreibung*
 
 - **Bearbeitungsstatus:** Wählen Sie den aktuellen Bearbeitungsstatus der Aufgabe aus: offen, in Bearbeitung, erledigt oder überfällig. Darüber hinaus kann für die Aufgabe ebenfalls die Option **Auf alle verfügbaren Standorte anwenden** zur Verfügung stehen. Diese Funktion wird in der Regel für Aufgaben freigeschaltet, die einen rein informatorischen Charakter haben. Wenn Sie diese Option auswählen, wird der Status der Aufgabe, der hier gesetzt wird, auf alle Standorte des Wahlprojektes übertragen, auf die Sie zugreifen können.
 
 ![](img/image74.png)
 
-*Abb. 40 - Bearbeitungsstatus*
+*Bearbeitungsstatus*
 
 - **Notiz zur Aufgabe**: Ein Freitextfeld für Ihre Notiz zur Aufgabe. Es steht allen am Standort mit Nutzerzugriff berechtigten Mitgliedern zur Verfügung; da Aufgaben als Gemeingut verstanden werden, ist nicht ohne Weiteres nachvollziehbar, wer die Notiz erfasst hat.
 
 ![](img/image75.png)
 
-*Abb. 41 – Notiz zur Aufgabe*
+*Notiz zur Aufgabe*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -33,7 +33,7 @@ Im Folgenden wird Ihnen im Detail gezeigt, wie der Bearbeitungsdialog einer Aufg
 
 ![](img/image76.png)
 
-*Abb. 42 - Hilfsinformationen*
+*Hilfsinformationen*
 
 - **Feedback:** Sofern zur Aufgabe eine Datenabfrage (Feedback) hinterlegt ist, erscheinen hier die einzelnen Fragen. Die Fragen können unterschiedliche Typen haben (z. B. Checkbox, Text, Datum, Dokumenten-Upload) und werden von der Projektleitung als optional oder als Pflichtfeld markiert.
 
@@ -54,10 +54,10 @@ Pflichtfragen sind mit einem roten Sternchen und dem Zusatz **(Pflichtfeld)** ge
 
 ![](img/image77.png)
 
-*Abb. 43 – Feedback: Dokumenten-Upload*
+*Feedback: Dokumenten-Upload*
 
 **Kommentare:** Kommentare sind eine Tabelle von Notizen, die mit Zeitstempel und User-Name erfasst werden.
 
 ![](img/image78.png)
 
-*Abb. 44 - Kommentarbereich*
+*Kommentarbereich*

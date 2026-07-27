@@ -11,19 +11,19 @@ sidebar_position: 3
 
 ![](img/image158.png)
 
-*Abb. 121 – Wahlrecht importieren*
+*Wahlrecht importieren*
 
 Geben Sie in das darunterliegende Eingabefeld den **Abholtoken** der betreffenden Person ein, welcher beim vorherigen Export generiert wurde. Diesen finden Sie unter anderem auf dem Antrag auf Ausübung des Wahlrechts in einer anderen Kirchengemeinde.
 
 ![](img/image159.png)
 
-*Abb. 122 – Nachweis der Streichung inklusive des Abholtokens*
+*Nachweis der Streichung inklusive des Abholtokens*
 
 Klicken Sie anschließend auf die Schaltfläche „**Abholtoken suchen**“.
 
 ![](img/image160.png)
 
-*Abb. 123 – Abholtoken suchen*
+*Abholtoken suchen*
 
 Danach öffnet sich die Tabelle mit den Wahlberechtigten, die diesen Abholtoken haben. Bitte beachten Sie, dass sich mehrere Wahlberechtigte einen Abholtoken teilen können, falls sie gemeinsam aus dem vorherigen Wählerverzeichnis entfernt wurden.
 
@@ -31,7 +31,7 @@ In der Tabelle können Sie nun die Wählenden auswählen, die ihr Wahlrecht an I
 
 ![](img/image161.png)
 
-*Abb. 124 – Wahlrechtimport: Auswahl eines Wählers*
+*Wahlrechtimport: Auswahl eines Wählers*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -39,10 +39,10 @@ In der Tabelle können Sie nun die Wählenden auswählen, die ihr Wahlrecht an I
 
 ![](img/image162.png)
 
-*Abb. 125 – Wahlrechtimport: Merhfachauswahl*
+*Wahlrechtimport: Merhfachauswahl*
 
 Daraufhin öffnet sich der Übereilungsschutz, welchen Sie mit der Schaltfläche „**Wahlrecht importieren**“ bestätigen können.
 
 ![](img/image163.png)
 
-*Abb. 126 – Wahlrechtimport: Übereilungsschutz*
+*Wahlrechtimport: Übereilungsschutz*

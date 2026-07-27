@@ -9,7 +9,7 @@ sidebar_position: 3
 
 Das Panel Wahlmodalitäten & Zustelloptionen legt fest, welche Wahlkanäle an Ihrem Standort angeboten werden und auf welchen Wegen die Zugänge zur Onlinewahl zugestellt werden.
 
-*Abb. 55 – Wahlmodalitäten & Zustelloptionen*
+*Wahlmodalitäten & Zustelloptionen*
 
 **Vorgesehene Wahlkanäle**: Wenn die Wahlkanäle nicht auf Zentralebene fest vorgegeben wurden, kann auf Standortebene für **Urnenwahl (Wahldatum T0)**, **Allgemeine Briefwahl**, **Briefwahl auf Antrag**, **Allgemeine Onlinewahl** und **Onlinewahl auf Antrag** jeweils separat mit Ja/Nein entschieden werden. Eine logische Prüfung der Kombinationen findet nicht statt.
 

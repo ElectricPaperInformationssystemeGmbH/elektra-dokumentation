@@ -9,4 +9,4 @@ sidebar_position: 3
 
 Jede Aufgabe muss zu einer Phase gehören. Phasen werden über ein Kürzel sortiert, so dass sich eine logische Reihenfolge ergibt. Phasen werden in der Aufgabenliste als Panel dargestellt. Die Panels können auf- und zugeklappt werden.
 
-*Abb.  – Phasen-Konzept der Aufgaben*
+*Phasen-Konzept der Aufgaben*

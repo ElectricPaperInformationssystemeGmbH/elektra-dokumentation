@@ -11,6 +11,6 @@ Dennach ist es möglich, Personen aus dem Wählerverzeichnis in Kandidaten umzuw
 
 ![](img/image109.png)
 
-*Abb.  – Wähler zu Kandidat wandeln*
+*Wähler zu Kandidat wandeln*
 
 Die Maske zur Anlage des Kandidaten ist vorbefüllt mit den Daten des Wählers. Erfassen Sie im Anschluss weitere Daten, die für die Kandidatur notwendig sind. Der Aufbau der entsprechenden Maske wird innerhalb des nächsten Kapitels behandelt.
