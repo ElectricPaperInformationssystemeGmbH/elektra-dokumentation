@@ -12,7 +12,17 @@ Themen für zentrale Projektleitung, Systemkonfiguration und IT-Betrieb sind nic
 <!-- doccards:auto -->
 ## In diesem Kapitel
 
-<DocCardList />
+### [Ziel des Handbuchs](./01-ziel-des-handbuchs.md)
+
+Dieses Handbuch soll Ihnen als Standortverantwortlichem einen schnellen und verständlichen Einstieg in **Elektra** ermöglichen.
+
+### [Konzept und Idee](./02-konzept-und-idee.md)
+
+Wie **Elektra** die verteilte Abwicklung von Wahlen über mehrere Standorte, Gemeinden oder Betriebe hinweg auf einer gemeinsamen Datenbasis organisiert.
+
+### [Schematischer Ablauf und Ihre Rolle im System](./03-schematischer-ablauf-und-ihre-rolle-im-system.md)
+
+Die Phasen einer verteilten Wahl im Überblick – und ab wann Sie als Standortverantwortlicher ins Spiel kommen.
 
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
