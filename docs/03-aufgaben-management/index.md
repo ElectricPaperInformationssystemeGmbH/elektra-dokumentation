@@ -28,4 +28,8 @@ Ein wichtiges Herzstück von **Elektra** ist das verteilte Aufgaben-Management. 
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 
-- [Aufgaben](https://vimeo.com/1079705067) – Aufgabenheft nutzen, Helpdesk sowie Anträge und Anfragen stellen und bearbeiten.
+### Aufgaben
+
+<Vimeo id="1079705067" title="Aufgaben" />
+
+Aufgabenheft nutzen, Helpdesk sowie Anträge und Anfragen stellen und bearbeiten.

@@ -10,5 +10,14 @@ In diesem Kapitel lernen Sie den Zugang zu **Elektra** sowie die grundlegende Be
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 
-- [Erste Schritte](https://vimeo.com/1079722476) – Registrierung, Anmeldung mit Zwei-Faktor-Authentifizierung und Benutzerprofil.
-- [Benutzeroberfläche und wiederkehrende Bedienelemente](https://vimeo.com/1079724141) – Überblick über Navigation und typische, immer wiederkehrende Bedienelemente.
+### Erste Schritte
+
+<Vimeo id="1079722476" title="Erste Schritte" />
+
+Registrierung, Anmeldung mit Zwei-Faktor-Authentifizierung und Benutzerprofil.
+
+### Benutzeroberfläche und wiederkehrende Bedienelemente
+
+<Vimeo id="1079724141" title="Benutzeroberfläche und wiederkehrende Bedienelemente" />
+
+Überblick über Navigation und typische, immer wiederkehrende Bedienelemente.

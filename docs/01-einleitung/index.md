@@ -12,4 +12,8 @@ Themen für zentrale Projektleitung, Systemkonfiguration und IT-Betrieb sind nic
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 
-- [Quick Tour: Elektra kompakt erklärt](https://vimeo.com/1085965643) – In rund elf Minuten die wichtigsten Grundlagen von Elektra im Überblick.
+### Quick Tour: Elektra kompakt erklärt
+
+<Vimeo id="1085965643" title="Quick Tour: Elektra kompakt erklärt" />
+
+In rund elf Minuten die wichtigsten Grundlagen von Elektra im Überblick.

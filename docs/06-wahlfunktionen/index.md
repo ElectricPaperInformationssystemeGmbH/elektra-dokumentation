@@ -31,16 +31,80 @@ Die Wahlfunktionen, auch als **WFU** bezeichnet, basieren auf den im System hint
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 
-- [Wahlfunktionen allgemein](https://vimeo.com/1080079395) – Wiederkehrende Werkzeuge: Arbeitshilfen, Plausibilitätsmodul, Listen, Kommentare, Status.
-- [WFU1 – Wahlvorschläge und Stimmzettel erstellen](https://vimeo.com/1095842650) – Stimmzettel erzeugen, im gewünschten Design generieren und für den Druck freigeben.
-- [WFU2 – Wähleranfragen bearbeiten](https://vimeo.com/1087930171) – Wähleranfragen strukturiert bearbeiten, inkl. Prüfungen und Wahlteilnahme.
-- [Wählerservice](https://vimeo.com/1101805055) – Abgrenzung zwischen Wählerservice und Wahlfunktion 2.
-- [WFU3 – Wahlunterlagen generieren](https://vimeo.com/1087930283) – Wahlunterlagen als Seriendruck erstellen und den Versand dokumentieren.
-- [WFU4 – Urnenwahl protokollieren](https://vimeo.com/1095528250) – Wahlprotokolle vorbereiten, ausfüllen und als unterzeichnete Dokumente hochladen.
-- [WFU5 – Onlinewahl prüfen](https://vimeo.com/1095852860) – Reine Ansichtsfunktion zur Einsicht der Onlinewahlergebnisse.
-- [WFU6 – Auszählung protokollieren](https://vimeo.com/1095528383) – Urnenöffnung und Auszählung je Bezirk dokumentieren.
-- [WFU7 – Stimmen erfassen](https://vimeo.com/1095528463) – Stimmen je Bezirk und Wahlkanal erfassen und zuordnen, Protokolle erzeugen.
-- [WFU8 – Sitze zuteilen](https://vimeo.com/1095842718) – Sitze nach Rangfolge zuteilen, manuelle Anpassungen, Protokoll erstellen.
-- [WFU9 – Ergebnisse melden](https://vimeo.com/1095842810) – Abschließende Dokumentation und Übermittlung der Wahlergebnisse.
-- [Dokumente](https://vimeo.com/1095852942) – Alle erzeugten und hochgeladenen Dokumente des Standorts mit Filterfunktionen.
-- [Tutorial: Standortwechsel](https://vimeo.com/1099893207) – Standortwechsel eines Wählers korrekt durchführen.
+### Wahlfunktionen allgemein
+
+<Vimeo id="1080079395" title="Wahlfunktionen allgemein" />
+
+Wiederkehrende Werkzeuge: Arbeitshilfen, Plausibilitätsmodul, Listen, Kommentare, Status.
+
+### WFU1 – Wahlvorschläge und Stimmzettel erstellen
+
+<Vimeo id="1095842650" title="WFU1 – Wahlvorschläge und Stimmzettel erstellen" />
+
+Stimmzettel erzeugen, im gewünschten Design generieren und für den Druck freigeben.
+
+### WFU2 – Wähleranfragen bearbeiten
+
+<Vimeo id="1087930171" title="WFU2 – Wähleranfragen bearbeiten" />
+
+Wähleranfragen strukturiert bearbeiten, inkl. Prüfungen und Wahlteilnahme.
+
+### Wählerservice
+
+<Vimeo id="1101805055" title="Wählerservice" />
+
+Abgrenzung zwischen Wählerservice und Wahlfunktion 2.
+
+### WFU3 – Wahlunterlagen generieren
+
+<Vimeo id="1087930283" title="WFU3 – Wahlunterlagen generieren" />
+
+Wahlunterlagen als Seriendruck erstellen und den Versand dokumentieren.
+
+### WFU4 – Urnenwahl protokollieren
+
+<Vimeo id="1095528250" title="WFU4 – Urnenwahl protokollieren" />
+
+Wahlprotokolle vorbereiten, ausfüllen und als unterzeichnete Dokumente hochladen.
+
+### WFU5 – Onlinewahl prüfen
+
+<Vimeo id="1095852860" title="WFU5 – Onlinewahl prüfen" />
+
+Reine Ansichtsfunktion zur Einsicht der Onlinewahlergebnisse.
+
+### WFU6 – Auszählung protokollieren
+
+<Vimeo id="1095528383" title="WFU6 – Auszählung protokollieren" />
+
+Urnenöffnung und Auszählung je Bezirk dokumentieren.
+
+### WFU7 – Stimmen erfassen
+
+<Vimeo id="1095528463" title="WFU7 – Stimmen erfassen" />
+
+Stimmen je Bezirk und Wahlkanal erfassen und zuordnen, Protokolle erzeugen.
+
+### WFU8 – Sitze zuteilen
+
+<Vimeo id="1095842718" title="WFU8 – Sitze zuteilen" />
+
+Sitze nach Rangfolge zuteilen, manuelle Anpassungen, Protokoll erstellen.
+
+### WFU9 – Ergebnisse melden
+
+<Vimeo id="1095842810" title="WFU9 – Ergebnisse melden" />
+
+Abschließende Dokumentation und Übermittlung der Wahlergebnisse.
+
+### Dokumente
+
+<Vimeo id="1095852942" title="Dokumente" />
+
+Alle erzeugten und hochgeladenen Dokumente des Standorts mit Filterfunktionen.
+
+### Tutorial: Standortwechsel
+
+<Vimeo id="1099893207" title="Tutorial: Standortwechsel" />
+
+Standortwechsel eines Wählers korrekt durchführen.

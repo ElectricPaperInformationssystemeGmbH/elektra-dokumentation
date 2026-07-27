@@ -22,8 +22,32 @@ Die folgenden Abschnitte beschreiben diese Bereiche der Reihe nach – beginnend
 <!-- videos:auto -->
 ## Videos zu diesem Kapitel
 
-- [Standort, Wahlräume, Bezirke](https://vimeo.com/1080076879) – Anlegen und Verwalten dieser organisatorischen Einheiten und ihrer Verknüpfungen.
-- [Wahlteam](https://vimeo.com/1080076986) – Wahlteammitglieder hinzufügen und verwalten.
-- [Kandidaten](https://vimeo.com/1080077075) – Kandidaten-Onboarding, Verwaltung und automatische Dokumentenerstellung.
-- [Wähler](https://vimeo.com/1080079239) – Wählerverzeichnis verwalten, filtern, bearbeiten und Wähler zu Kandidaten machen.
-- [Tutorial: Registrierungsantrag](https://vimeo.com/1099893188) – Registrierungsantrag für Wahlteam-Mitglieder erstellen.
+### Standort, Wahlräume, Bezirke
+
+<Vimeo id="1080076879" title="Standort, Wahlräume, Bezirke" />
+
+Anlegen und Verwalten dieser organisatorischen Einheiten und ihrer Verknüpfungen.
+
+### Wahlteam
+
+<Vimeo id="1080076986" title="Wahlteam" />
+
+Wahlteammitglieder hinzufügen und verwalten.
+
+### Kandidaten
+
+<Vimeo id="1080077075" title="Kandidaten" />
+
+Kandidaten-Onboarding, Verwaltung und automatische Dokumentenerstellung.
+
+### Wähler
+
+<Vimeo id="1080079239" title="Wähler" />
+
+Wählerverzeichnis verwalten, filtern, bearbeiten und Wähler zu Kandidaten machen.
+
+### Tutorial: Registrierungsantrag
+
+<Vimeo id="1099893188" title="Tutorial: Registrierungsantrag" />
+
+Registrierungsantrag für Wahlteam-Mitglieder erstellen.
