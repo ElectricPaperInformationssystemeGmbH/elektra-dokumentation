@@ -126,6 +126,23 @@
   vertical-align: middle;
 }
 
+/* Screenshots in Tabellenzellen MIT Bildunterschrift (Bild gefolgt von <br />):
+   linksbündig, geblockt, gerahmt – Unterschrift als kompakter Untertitel darunter. */
+.markdown td img:has(+ br) {
+  display: block;
+  margin: 0.2rem 0 0.15rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+  vertical-align: initial;
+}
+.markdown td br + em {
+  display: block;
+  font-size: 0.88em;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-600);
+}
+
 /* Aktiver Sidebar-Eintrag: Akzentbalken links */
 .menu__link--active:not(.menu__link--sublist) {
   border-left: 3px solid var(--elektra-accent);

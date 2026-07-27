@@ -22,7 +22,7 @@ Wählen Sie den Standort bzw. den Bezirk aus. Kicken Sie auf  um den folgenden D
 
 - Füllen Sie den Dialog aus:
 
-| ![](img/image202.png) WFU6: Niederschrift-Dialog ausfüllen | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. |
+| ![](img/image202.png)<br />*WFU6: Niederschrift-Dialog ausfüllen* | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. |
 | --- | --- |
 
 ![](img/image203.png)
