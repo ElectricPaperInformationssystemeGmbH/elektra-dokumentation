@@ -126,6 +126,34 @@
   vertical-align: middle;
 }
 
+/* Bild + Text nebeneinander (z.B. hoher Screenshot links, Erklärung rechts) */
+.figSide {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 1rem 0 1.5rem;
+}
+.figSide__img {
+  flex: 0 0 auto;
+}
+.figSide__img img {
+  display: block;
+  margin: 0;
+  max-width: 320px;
+  height: auto;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+}
+.figSide__text {
+  flex: 1 1 320px;
+  min-width: 260px;
+}
+.figSide__text > :first-child {
+  margin-top: 0;
+}
+
 /* Handbuch-Tabellen haben keine echte Kopfzeile:
    erste Zeile wie eine normale Zeile darstellen (nicht fett, linksbündig). */
 .markdown table thead th {

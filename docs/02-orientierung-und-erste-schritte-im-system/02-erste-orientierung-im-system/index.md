@@ -44,9 +44,18 @@ Unterhalb der Liste stehen Ihnen weitere Funktionen zur Verfügung. Mit der Scha
 
 Der dunkelblaue Bereich links enthält den Menübaum sowie folgende zusätzliche Merkmale:
 
+<div className="figSide">
+<div className="figSide__img">
+
 ![](img/image24.png)
 
+</div>
+<div className="figSide__text">
+
 **Elektra Logo**: Ein Klick auf das Logo bringt Sie zurück zu der Ansicht, die Sie direkt nach dem Login sehen. Für Standort-Benutzer ist das in der Regel die Aufgaben-Übersicht. **Eingeloggt als**: Zeigt den Namen des aktuellen Nutzers an. **Wählerservice**: Bietet eine Übersicht über die Wahlräume, auf die Sie gemäß Ihrer Berechtigungen Zugriff haben. **Wiki**: Enthält von der Projektleitung bereitgestellte Artikel, z. B. zur Nutzung von **Elektra** oder zum Ablauf des Wahltages. **Wahlprojekt-Menübaum**: Abhängig von der zugewiesenen Rolle stellt der Menübaum unterschiedliche Funktionsbereiche zur Verfügung, die direkt aufgerufen werden können. Haben Sie Zugriff auf eine begrenzte Anzahl von Standorten, werden diese hier angezeigt und können direkt ausgewählt werden. **Profil**: Zeigt Ihnen die personenbezogenen Daten Ihres Profils an sowie Einstellungsmöglichkeiten, wie regelmäßig Benachrichtigungen zugestellt werden sollen. **Abmelden**: Beendet die aktuelle Sitzung. **Versionsnummer:** Zeigt die aktuelle Programmversion
+
+</div>
+</div>
 
 **Arbeitsbereich**
 
