@@ -41,7 +41,6 @@ Eine Übersicht der Daten bietet der Summenblock. Hier ist auch der natürliche 
 Eine Übersicht der erfassten Stimmen finden Sie hier:
 
 ![](img/image211.png)
-
 *WFU7: Übersicht der erfassten Stimmen*
 
 - Erfassen Sie mögliche **Notizen** und **Kommentare**

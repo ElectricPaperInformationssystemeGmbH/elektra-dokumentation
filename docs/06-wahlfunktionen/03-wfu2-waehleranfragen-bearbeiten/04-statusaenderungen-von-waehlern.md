@@ -8,13 +8,11 @@ sidebar_position: 4
 - Wählen Sie die Person aus der Liste aus, indem Sie auf die Schaltfläche **Auswählen** klicken.
 
 ![](img/image164.png)
-
 *WFU2: Person aus Trefferliste auswählen*
 
 - Daraufhin öffnet sich die **Detailansicht** der ausgewählten Person. Bei Bedarf können Sie die Angaben erneut überprüfen. Links finden Sie die Adressdaten, rechts Informationen zu Standortwechsel oder Notizen.
 
 ![](img/image165.png)
-
 *WFU2: Detailansicht der Person*
 
 ![](img/image166.png)
@@ -64,7 +62,6 @@ Grüne Schaltflächen zeigen bereits gesetzte Statusinformationen an.  *WFU2: St
 - Alle bereits durchgeführten Aktionen werden im **Wähler-Log** dokumentiert und können dort nachvollzogen werden.Sehen Sie bereits erfolgten Aktivitäten im Wähler-Log:
 
 ![](img/image174.png)
-
 *WFU2: Wähler-Log*
 
 | **Hinweis** ![](img/image9.png) |
@@ -81,7 +78,6 @@ Klicken Sie auf **„Briefwahl-Unterlagen beantragen“** und bestätigen Sie de
 *Status setzen: Briefwahlunterlagen beantragen*
 
 ![](img/image170.png)
-
 *Übereilungsschutz: Briefwahlantrag*
 
 ![](img/image176.png)
@@ -92,7 +88,6 @@ Nach Freischaltung des nächsten Schritts erstellen Sie die personalisierte Brie
 - Laden Sie das erzeugte Dokument herunter (**1**), prüfen Sie es sorgfältig und drucken Sie es aus. Händigen Sie danach den **Briefwahlschein** sowie die übrigen **Wahlunterlagen (z. B. Briefwahlstimmzettel)** der Person aus oder **versenden** Sie diese per Post. Setzen Sie anschließend den Status „**Briefwahl-Unterlagen ausgegeben / verschickt**“ (**2**).
 
 ![](img/image177.png)
-
 *WFU2: Dokument herunterladen und Status verbuchen*
 
 ![](img/image178.png)

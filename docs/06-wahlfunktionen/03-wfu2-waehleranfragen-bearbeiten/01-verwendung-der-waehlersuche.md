@@ -29,13 +29,11 @@ Suchbegrifflichkeit eingeben und Wähler suchen.
 - Um die Suche zu starten, geben Sie **mindestens drei Zeichen** in das Suchfeld ein und bestätigen Sie die Eingabe mit der **Enter-Taste**. Zur Identifikation der gesuchten Person zeigt die Tabelle weitere Merkmale an: die **laufende Nummer (Nr.)**, den **vollständigen Namen**, das **Geburtsdatum** und die **Adresse**.
 
 ![](img/image151.png)
-
 *WFU2: Wählersuche*
 
 - Aus **Datenschutzgründen** ist die Trefferliste auf eine begrenzte Anzahl von Einträgen reduziert. Führen die eingegebenen Suchkriterien zu zu vielen Treffern, wird eine entsprechende **Hinweismeldung** angezeigt.
 
 ![](img/image152.png)
-
 *WFU2: Begrenzte Trefferliste*
 
 - In diesem Fall verfeinern Sie die Suche durch zusätzliche Merkmale.

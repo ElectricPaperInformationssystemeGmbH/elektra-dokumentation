@@ -13,7 +13,6 @@ Wenn von Ihrer Wahlleitung freigeschaltet, gibt es die Möglichkeit, Helpdeskanf
 - Druck,- Produktion und Versand
 
 ![](img/image84.png)
-
 *Helpdesk-Ticketübersicht*
 
 Da Helpdesk-Tickets Aufgaben sind, die zwischen bestimmten Fachverantwortlichen und den Standort hin- und her fließen, ist die Bearbeitung identisch mit der Bearbeitung von Aufgaben.

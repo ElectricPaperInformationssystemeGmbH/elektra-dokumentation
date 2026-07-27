@@ -40,13 +40,11 @@ Und befüllen Sie die Dialogbox:
 **Wasserzeichen**: Ein Wasserzeichen kann in grauer Farbe in großen Lettern hinter den Stimmblock erscheinen. Hier geben Sie den Text ein. **WICHTIG:** Lassen Sie das Feld leer, wenn Sie den endgültigen Stimmzettel für den Massendruck erzeugen!
 
 ![](img/image139.png)
-
 *Textblöcke im Dialog Stimmzettelentwurf*
 
 Im Feld **Kandidaten** wählen Sie nun die zugesagten Kandidaten Ihres Standortes aus, die auf Briefwahlstimmzettel erscheinen sollen.
 
 ![](img/image140.png)
-
 *Kandidatenauswahl*
 
 | **Hinweis** ![](img/image9.png) |
@@ -66,13 +64,11 @@ Im Feld **Kandidaten** wählen Sie nun die zugesagten Kandidaten Ihres Standorte
 Sie finden den nun frisch erzeugten Entwurf in der Liste wieder. Es kann einen Moment dauern, bis dieser Hintergrundprozess abgeschlossen wurde. Das System zeigt ein Reload-Symbol. Ggf. klicken Sie den Reload-Button.
 
 ![](img/image143.png)
-
 *WFU1: Liste der Wahlvorschlags- und Stimmzettelentwürfe*
 
 - Sichten Sie den Inhalt, indem Sie die Vorschau aufrufen oder einen Download anfertigen und die Datei mit Ihren Wahlteam-Mitgliedern sorgfältig prüfen.
 
 ![](img/image144.png)
-
 *Vorschau aufrufen*
 
 *WFU1: Stimmzettel-Vorschau*
@@ -97,7 +93,6 @@ Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
 - Sind Sie mit ihrem Dokument zufrieden, so dass es als Aushang verwendet werden kann, setzen Sie den Status von Entwurf auf „**Verbindlicher Aushang/Wahlvorschlag**“. Dazu klicken Sie in die Spalte ‚Alle nächsten Status‘ auf die Schaltfläche.
 
 ![](img/image147.png)
-
 *Status setzen*
 
 - Wiederholen Sie diesen Schritte 3-7 nach Ende der Rückmeldefristen. **Erst dann** gilt es den endgültigen Stimmzettel zu erzeugen und im Statusnetz auf „**Frei zum Druck**“ zu stellen!

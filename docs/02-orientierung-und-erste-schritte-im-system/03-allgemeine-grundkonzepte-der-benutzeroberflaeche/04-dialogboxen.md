@@ -12,7 +12,6 @@ Beim Öffnen einer Dialogbox wird der Hintergrund der Anwendung abgedunkelt, sod
 Wählen Sie **Speichern** aus, um die Änderungen zu übernehmen.
 
 ![](img/image48.png)
-
 *Modaldialog (Standort-Details)*
 
 Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere wenn viele Felder oder umfangreiche Informationen dargestellt werden (bspw. innerhalb des Dialogs zur Bearbeitung der Standort-Details). Jedes Panel kann über ein Pfeilsymbol in der oberen rechten Ecke ein- oder ausgeklappt werden. Zusätzlich steht zu Beginn eines solchen Dialogs die Funktion „**Alle Panels schließen / öffnen**“ zur Verfügung, mit der alle Panels gleichzeitig geöffnet oder geschlossen werden können.
@@ -22,7 +21,6 @@ Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere w
 | Um schnell zu einem bestimmten Panel zu gelangen, empfiehlt es sich, zunächst alle Panels einzuklappen und anschließend gezielt den gewünschten Bereich zu öffnen. |
 
 ![](img/image49.png)
-
 *Modaldialog mit zugeklappten Panels*
 
 **Eingabefelder in den Dialogboxen**
@@ -50,13 +48,11 @@ Felder, die mit einem roten Sternchen gekennzeichnet sind, sind Pflichtfelder (b
 Im oberen Bereich des Dialogs können Plausibilitätsmeldungen angezeigt werden. Diese weisen auf fehlende oder fehlerhafte Eingaben hin und unterstützen bei der vollständigen und korrekten Erfassung der Daten. Diese Meldungen beziehen sich nicht zwingend auf ein einzelnes Eingabefeld, sondern können auch übergreifende Sachverhalte betreffen.
 
 ![](img/image51.png)
-
 *Plausibilitätsmeldungen im Dialog*
 
 Zusätzlich werden Eingabefelder rot hervorgehoben, wenn durch die Eingabe eine Plausibilitätsverletzung in diesem Feld vorliegt, beispielsweise wenn ein erforderliches Mindestalter nicht eingehalten wird.
 
 ![](img/image52.png)
-
 *Rot markiertes Pflichtfeld bei Plausibilitätsverletzung*
 
 **Zusammenfassung**

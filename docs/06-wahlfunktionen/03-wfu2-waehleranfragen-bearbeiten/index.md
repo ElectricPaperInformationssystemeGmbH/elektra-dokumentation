@@ -8,7 +8,6 @@ sidebar_position: 0
 Die Wahlfunktion **2) „Wähleranfragen bearbeiten“**, im Folgenden auch **Wählerservice** genannt, dient der strukturierten Bearbeitung von Anfragen von Wählern. Sie ist bewusst von der Verwaltung der Wählerstammdaten (Bereich **„Wähler“**) getrennt, so dass auch Wahlhelfer diese Aufgabe übernehmen können, ohne Zugriff auf sensible Stammdaten zu erhalten.
 
 ![](img/image148.png)
-
 *WFU2: Wählerservice-Übersicht*
 
 Der Wählerservice ist in der Benutzeroberfläche auf zwei Wegen erreichbar:

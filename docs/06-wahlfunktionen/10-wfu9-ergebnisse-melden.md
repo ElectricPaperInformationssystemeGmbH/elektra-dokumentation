@@ -13,31 +13,26 @@ Die Wahl ist beendet. Nun müssen zusammenfassende Meldungen und die Wahlstatist
 - Notizen/besondere Vorkommnisse.
 
 ![](img/image219.png)
-
 *WFU9: Ergebnismeldung (Übersicht)*
 
 - Dann rufen Sie die Funktion ‚Vorlage generieren‘ auf und laden das Word-Dokument.  Darin enthalten sind alle Angaben über die Sitzverteilung, die Kandidatenstatistik und eine demografische Wähleranalyse.  Sitzverteilung (Einheitswahl):
 
 ![](img/image220.png)
-
 *WFU9: Ergebnis-Word-Dokument (Einheitswahl)*
 
 Sitzverteilung (Bezirkswahl):
 
 ![](img/image221.png)
-
 *WFU9: Ergebnis-Dokument (Bezirkswahl)*
 
 Zusätzlich steht eine Kandidaten-Statistik zur Verfügung:
 
 ![](img/image222.png)
-
 *WFU9: Kandidaten-Statistik*
 
 Ergänzend liefert die demografische Wähleranalyse folgende Übersicht:
 
 ![](img/image223.png)
-
 *WFU9: Demografische Wähleranalyse*
 
 - Bearbeiten Sie das Word-Dokument nach Belieben.
@@ -49,5 +44,4 @@ Ergänzend liefert die demografische Wähleranalyse folgende Übersicht:
 - Abschließend können Sie wie immer Status und Kommentare setzen.
 
 ![](img/image227.png)
-
 *WFU9: Status und Kommentare setzen*

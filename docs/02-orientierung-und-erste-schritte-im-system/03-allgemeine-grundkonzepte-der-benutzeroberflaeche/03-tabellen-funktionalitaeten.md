@@ -12,7 +12,6 @@ Tabellen sind ein zentrales Element der Benutzeroberfläche und dienen der struk
 Im oberen Bereich der Tabelle (Tabellenkopf) befinden sich grundlegende Steuerungselemente. Hier können Sie festlegen, wie viele Einträge gleichzeitig angezeigt werden, sowie über ein Suchfeld eine Volltextsuche über die angezeigten Inhalte durchführen. Zusätzlich stehen Funktionen zur Auswahl der angezeigten Spalten sowie zum Export der Daten zur Verfügung.
 
 ![](img/image40.png)
-
 *Tabellenkopf*
 
 - **Überschrift der Tabelle:** Im oberen Bereich der Tabelle wird die Bezeichnung angezeigt. Sie dient der Orientierung und zeigt an, in welchem Kontext Sie sich befinden.
@@ -35,7 +34,6 @@ Im oberen Bereich der Tabelle (Tabellenkopf) befinden sich grundlegende Steuerun
 Der Spaltenkopf ist der obere Bereich der Tabelle, in dem die einzelnen Spalten benannt sowie Funktionen zur Sortierung und Filterung der angezeigten Daten bereitgestellt werden.
 
 ![](img/image43.png)
-
 *Spaltenkopf der Tabelle*
 
 - **Spaltenbezeichnung:** Die Spaltenbezeichnung gibt an, welche Art von Informationen in der jeweiligen Spalte dargestellt wird, beispielsweise Kontaktdaten, Status oder Datumsangaben.
@@ -55,7 +53,6 @@ Zum Entfernen eines gesetzten Filters klicken Sie auf das „**x**“ neben dem 
 Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enthalten sind. Jede Zeile entspricht dabei einem Datensatz und enthält neben den angezeigten Informationen auch verschiedene Interaktionsmöglichkeiten.
 
 ![](img/image46.png)
-
 *Tabelleninhalt (Kandidatentabelle)*
 
 - **Interaktion mit dem Datensatz**: In der ersten Spalte stehen Schaltflächen zur Bearbeitung des jeweiligen Datensatzes zur Verfügung, in der Regel dargestellt durch ein Stift-Symbol. Durch Anklicken wird ein Absprung in einen anderen Kontext ausgelöst, beispielsweise in eine Bearbeitungsmaske oder eine Detailansicht.
@@ -67,7 +64,6 @@ Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enth
 Der Fußbereich der Tabelle enthält Informationen zur aktuellen Anzeige sowie Funktionen zur Navigation innerhalb der Datensätze.
 
 ![](img/image47.png)
-
 *Fußbereich der Tabelle*
 
 - **Anzeige der Einträge:** Im linken Bereich wird angezeigt, wie viele Datensätze insgesamt in der Tabelle vorhanden sind und welcher Ausschnitt aktuell dargestellt wird.

@@ -14,7 +14,6 @@ Sofern an Ihrem Standort eine Urnenwahl oder eine Briefwahl an Ort und Stelle du
 Im Bearbeitungsdialog können die folgenden Daten zum Wahlraum gepflegt werden:
 
 ![](img/image96.png)
-
 *Wahlraum bearbeiten*
 
 **Kürzel**: Ein Textfeld zur Eingabe eines kurzen Codes oder einer Nummer zur Identifizierung des Wahlraums.

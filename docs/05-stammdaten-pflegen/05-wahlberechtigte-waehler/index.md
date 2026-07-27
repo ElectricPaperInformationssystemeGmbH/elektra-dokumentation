@@ -10,7 +10,6 @@ Aktiv Wahlberechtigte werden in das System in der Regel aus Quellsystemen (Melde
 Für die Interaktion steht wie für alle Entitäten eine Tabellenanzeige mit Suchmöglichkeit und eine Bearbeitungsmaske bereit.
 
 ![](img/image102.png)
-
 *Wähler verwalten (Tabelle)*
 
 Ober- und Unterhalb der Tabelle finden Sie ggf. mehrere Interaktionsmöglichkeiten:

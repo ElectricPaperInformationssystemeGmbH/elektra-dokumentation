@@ -12,7 +12,6 @@ Es erfolgt wie immer eine Auflistung von Warnungen und Fehlern aus dem Plausibil
 Im Anschluss wird eine **Liste angezeigt**, über die die **Niederschriften**, gegebenenfalls **je Bezirk**, erstellt werden können. In der Regel stehen hierfür **mehrere Vorlagen** zur Verfügung. Dazu zählt unter anderem eine **Zählhilfe (Strichliste)** mit den Namen der Kandidatinnen und Kandidaten, die die Erfassung der Stimmen aus der Urnen- oder Briefwahl erleichtert. Darüber hinaus kann über diesen Bereich auch das **Auszählungsprotokoll** bzw. die **Auszählungsniederschrift** erstellt werden.
 
 ![](img/image200.png)
-
 *WFU6: Niederschriften je Bezirk*
 
 Um eine Auszählung zu protokollieren, gehen Sie wie folgt vor:
@@ -58,5 +57,4 @@ Wie für die meisten Wahlfunktionen, können **Status** und **Kommentare** geset
 | Sofern an Ihrem Standort eine Urnenwahl durchgeführt wird, steht am Ende der Seite eine Übersicht der in Wahlfunktion 4 erzeugten Urnenwahlprotokolle zur Verfügung. Diese dient ausschließlich zu Informationszwecken und unterstützt dabei, relevante Angaben für das Auszählungsprotokoll der Wahlfunktion 6 zu übernehmen. |
 
 ![](img/image208.png)
-
 *WFU6: Urnenwahlprotokolle aus WFU4*

@@ -14,7 +14,6 @@ Im Wesentlichen lässt sich die Benutzeroberfläche von **Elektra** in drei Absc
 - Arbeitsbereich
 
 ![](img/image15.png)
-
 *Benutzeroberfläche*
 
 In den folgenden Abschnitten werden die wesentlichen interaktiven Elemente der einzelnen Bereiche vorgestellt.
@@ -39,7 +38,6 @@ Die Benachrichtigungsfunktion (Glockensymbol) ermöglicht Ihnen den Zugriff auf 
 Unterhalb der Liste stehen Ihnen weitere Funktionen zur Verfügung. Mit der Schaltfläche „Weitere Benachrichtigungen laden" können zusätzliche, ältere Einträge nachgeladen werden. Über die Schaltfläche **Alle Einträge löschen** haben Sie die Möglichkeit, die vorhandenen Benachrichtigungen vollständig zu entfernen.
 
 ![](img/image23.png)
-
 *Übersicht alle Benachrichtigungen*
 
 **Seitenmenü**
@@ -56,7 +54,6 @@ Der Arbeitsbereich ist der zentrale Bereich von **Elektra**, in dem alle für di
 **Standort-Kopf nach dem Einloggen**
 
 ![](img/image25.png)
-
 *Standortkopf*
 
 - Im **Standort-Kopf** wird zunächst angezeigt, welcher Standort aktuell ausgewählt ist. Dies ist insbesondere dann relevant, wenn Sie für mehrere Standorte tätig sind oder wenn übergeordnete Rollen, wie die Wahlleitung, Einblick in verschiedene Standorte nehmen. Verwenden Sie das Stift-Symbol, um direkt den Stammdaten-Dialog des Standortes aufzurufen.
@@ -65,7 +62,6 @@ Der Arbeitsbereich ist der zentrale Bereich von **Elektra**, in dem alle für di
 Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus Stammdaten, Aufgaben und Wahlfunktionen, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes:
 
 ![](img/image26.png)
-
 *Triptychon*
 
 Klicken Sie auf eine der drei Kacheln, um das darunter angezeigte Funktionsangebot zu wechseln. Im Folgenden werden die Grundfunktionen der drei Bereiche vorgestellt; weiterführende Informationen finden Sie über den Verweis am Ende des jeweiligen Abschnitts.

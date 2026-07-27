@@ -14,13 +14,11 @@ Im folgenden Kapitel wird Ihnen Schritt für Schritt erläutert, wie Sie Kandida
 Die Kandidatenübersicht ist die zentrale Ansicht, über die Sie alle an Ihrem Standort erfassten Kandidatinnen und Kandidaten einsehen und verwalten. Sie erreichen sie über die Kachel **Kandidaten** im Bereich „Pflegen Sie Vorgaben und Stammdaten“.
 
 ![](img/image110.png)
-
 *Kachel „Kandidaten“ im Überblick*
 
 Die Liste ist als durchsuch- und sortierbare Tabelle aufgebaut. Über **Zeige ... Einträge** legen Sie fest, wie viele Kandidaten pro Seite angezeigt werden, über das Suchfeld können Sie die Liste nach einem beliebigen Begriff filtern. Die Schaltfläche **Spalten auswählen** blendet einzelne Spalten ein- oder aus, über **Kopieren**, **XLS**, **PDF** und **Drucken** lässt sich der aktuelle Tabelleninhalt exportieren. Da die Tabelle mehr Spalten enthält, als gleichzeitig auf den Bildschirm passen, scrollen Sie mit der horizontalen Scrollleiste am unteren Rand der Tabelle (oder per gedrückter mittlerer Maustaste) nach rechts, um weitere Spalten einzusehen.
 
 ![](img/image111.png)
-
 *Kandidatenübersicht: Stamm- und Kontaktdaten*
 
 **Aktionen**: Über das Stift-Symbol öffnen Sie den Dialog **Kandidat ändern**, der im folgenden Abschnitt beschrieben wird.

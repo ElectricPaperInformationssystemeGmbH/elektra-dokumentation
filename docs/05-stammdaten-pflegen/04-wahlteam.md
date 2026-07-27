@@ -8,7 +8,6 @@ sidebar_position: 4
 Im Wahlteam werden die Adressdaten und Kontaktdaten von Mitarbeitenden und Ehrenamtlichen erfasst, die am Gelingen der Wahl aktiv mitwirken. Die hier erfassten Informationen werden in den Wahlfunktionen im Rahmen von Protokollen und Vordrucken verwendet.
 
 ![](img/image97.png)
-
 *Wahlteam-Übersicht*
 
 - Die Liste sollte neben einem Standortverantwortlichen auch die Mitglieder des Wahlvorstands umfassen. Auch Wahlhelfer werden hier erfasst

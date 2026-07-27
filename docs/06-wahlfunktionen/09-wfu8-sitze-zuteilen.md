@@ -10,13 +10,11 @@ Die Wahlfunktion **WFU8 Sitze zuteilen** gibt Ihnen eine Übersicht über die na
 Auch diese Wahlfunktion beginnt mit Arbeitshilfen, die als PDF-Datei heruntergeladen werden können. Zentrale Regeln für die Sitzzuteilung oder andere textuelle Hinweise können von der Wahlleitung eingeblendet werden. Dann folgen Meldungen aus dem Plausibilitätsmodul.
 
 ![](img/image212.png)
-
 *WFU8: Arbeitshilfen zur Sitzzuteilung*
 
 Zentral für diesen Dialog ist die Liste der Standorte/Bezirke mit dem Status, der Möglichkeit zum Aufrufen des Dialogs und Mechanismus zum Generieren der Protokoll-Datei:
 
 ![](img/image213.png)
-
 *WFU8: Standorte und Bezirke mit Status*
 
 ![](img/image201.png)
@@ -52,11 +50,9 @@ Der Status in der Liste ändert sich dadurch automatisch auf
 Das System fasst die Ergebnisse in einem Panel übersichtlich zusammen.
 
 ![](img/image217.png)
-
 *WFU8: Zusammenfassung der Sitzzuteilung*
 
 Wie für die meisten Wahlfunktionen, kann hier der **Gesamtstatus** für die Wahlfunktion sowie **Kommentare** gesetzt werden.
 
 ![](img/image218.png)
-
 *WFU8: Gesamtstatus und Kommentare*

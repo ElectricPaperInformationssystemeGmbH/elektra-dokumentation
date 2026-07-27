@@ -8,7 +8,6 @@ sidebar_position: 6
 Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortliche können daher lediglich Einsicht nehmen. In diesem Abschnitt erhalten Sie eine **zusammenfassende Übersicht zur Onlinewahl am ausgewählten Standort**. Die dargestellten Tabellen zeigen sowohl den **aktuellen Status und die grundlegenden Rahmendaten** der Onlinewahl als auch, nach Abschluss der Online-Auszählung, **statistische Kennzahlen und Ergebnisse**. Die Übersicht dient der Kontrolle des Wahlverlaufs sowie der Nachvollziehbarkeit der Onlinewahl.
 
 ![](img/image197.png)
-
 *WFU5: Onlinewahl-Übersicht*
 
 | **Status** | Zeigt den aktuellen Status der Onlinewahl am Standort an. Mögliche Statuswerte sind: **Onlinewahl nicht initialisiert, Onlinewahl erzeugt, Onlinewahl beendet und Onlinewahl ausgewertet.** |
@@ -25,7 +24,6 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 - Unterhalb dessen finden Sie die Übersicht, in der Sie weitere Daten zu der Onlinewahl finden. Dieser Bereich ist vor allem relevant nachdem die Onlinewahl bereits ausgezählt wurde.
 
 ![](img/image198.png)
-
 *WFU5: Detaildaten der Onlinewahl*
 
 | **Onlinewahl ID** | Technische Kennung der Onlinewahlkabine zur eindeutigen Identifikation. Die Onlinewahl-ID dient ausschließlich **zu Informationszwecken** und hat keine unmittelbare praktische Relevanz für die Bedienung. |
@@ -40,5 +38,4 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 - Am Seitenende finden Sie eine Übersicht der auf die einzelnen Kandidaten verteilten Online-Stimmen.
 
 ![](img/image199.png)
-
 *WFU5: Stimmenverteilung je Kandidat*

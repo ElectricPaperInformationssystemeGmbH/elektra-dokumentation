@@ -8,7 +8,6 @@ sidebar_position: 0
 Die Wahlfunktionen, auch als **WFU** bezeichnet, basieren auf den im System hinterlegten Vorgaben und Stammdaten. Neben Abfragemöglichkeiten (Wählerservice, Wähleranfragen bearbeiten) entstehen hier die für die Wahlakte notwendigen Dokumentationen.
 
 ![](img/image127.png)
-
 *Übersicht der Wahlfunktionen (WFU)*
 
 | **Wahlfunktion** | **Zweck** |

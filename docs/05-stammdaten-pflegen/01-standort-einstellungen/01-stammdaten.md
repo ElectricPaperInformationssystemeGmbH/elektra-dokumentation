@@ -8,7 +8,6 @@ sidebar_position: 1
 Das Panel Stammdaten enthält die zentralen Grunddaten des Standorts – von der organisatorischen Zuordnung über die Kontaktangaben bis zur Anschrift und der Ansprechperson für die Wahl. Die hier dargestellten Informationen kommen in der Regel aus zentralen Importen.
 
 ![](img/image87.png)
-
 *Bearbeitungsdialog Standort Stammdaten*
 
 **Standort-Gruppe**: Zuordnung zu einer organisatorischen Mittel-Ebene in der Territorialstruktur. Auswahl als Dropdown. Die Pflege der Auswahlwerte erfolgt durch die zentrale Projektleitung bzw. das Meldewesen.
@@ -34,7 +33,6 @@ Das Panel Stammdaten enthält die zentralen Grunddaten des Standorts – von der
 Im unteren Bereich des Panels Stammdaten folgen zwei weitere Abschnitte: die vollständige **Anschrift** des Standorts sowie eine **Ansprechperson für die Wahl**.
 
 ![](img/image88.png)
-
 *Ansprechperson für die Wahl*
 
 **Adresse**: Organisation/Institution/Abteilung, Strasse, Nummer, Nummerzusatz, Postleitzahl, Stadt sowie **Öffnungszeiten** als mehrzeiliges Freitextfeld.

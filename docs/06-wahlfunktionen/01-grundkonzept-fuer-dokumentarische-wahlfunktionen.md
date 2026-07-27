@@ -10,7 +10,6 @@ Die meisten Wahlfunktionen (1,4,6,7,8,9) arbeiten nach einem allgemeinen Grundpr
 **So geht’s – Angebot von Arbeitshilfen:** Für die Wahlfunktion gibt es eine Erläuterung zum Ausdrucken sowie ggf. Checklisten, damit beim Durchführen der entsprechenden Wahlfunktion keine Fehler entstehen.
 
 ![](img/image128.png)
-
 *Grundkonzept: Kopfbereich einer Wahlfunktion*
 
 **Warnungen, Fehler, Hinweise (Plausibilitätsmodul):** In dieser Sektion listet das Plausibilitäts-Modul alle Fehler und Warnungen auf, die es beim Durchlaufen der Prüfroutinen entdeckt. Dabei wird unterschieden:
@@ -32,7 +31,6 @@ Die meisten Wahlfunktionen (1,4,6,7,8,9) arbeiten nach einem allgemeinen Grundpr
 **Dialogbox zur Datenerfassung:** Die Wahlfunktionen **1, 4 sowie 6 bis 9** basieren auf der Erfassung von Daten in einer Dialogbox. Diese Dialogbox wird über die blaue Schaltfläche mit dem Stift-Symbol geöffnet. Die erfassten Daten bilden die Grundlage für die spätere Generierung von Protokollen und Dokumenten. Die konkrete Ausgestaltung und Nutzung der Dialogbox wird in den jeweiligen Abschnitten zu den einzelnen Wahlfunktionen beschrieben.
 
 ![](img/image132.png)
-
 *Grundkonzept: Aktionsschaltflächen*
 
 ![](img/image133.png)
@@ -58,5 +56,4 @@ Der Status erledigt sollte nur gesetzt werden, wenn mindestens eine Datei hochge
 **Kommentar-Mechanismus:** Die Kommentarfunktion hält BENUTZER und DATUM eines Kommentares fest.
 
 ![](img/image136.png)
-
 *Grundkonzept: Kommentare*

@@ -6,7 +6,6 @@ sidebar_position: 1
 # Anträge an die Zentrale Projektleitung
 
 ![](img/image80.png)
-
 *Antrag an die zentrale Projektleitung stellen*
 
 Die Felder sind soweit selbsterklärend. Anfragen sind technisch gesehen Aufgaben und damit Allgemeingut das als Information zwischen den Beteiligten Akteuren liegt.

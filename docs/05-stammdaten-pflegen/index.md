@@ -12,7 +12,6 @@ Um die Stammdaten eines Standortes aufzurufen, wechseln Sie innerhalb des **Trip
 Während einige Angaben von der Wahlprojektleitung nach Datenlage vorab im System eingestellt sind, gibt es andere Angaben, wo Ihre Expertise am Standort benötigt wird.
 
 ![](img/image85.png)
-
 *Stammdatenpflege am Standort*
 
 Wenn Sie im Hauptmenü (**Triptychon**) den Bereich Stammdaten anklicken, zeigt das System eine Übersicht über die hier zu bearbeiteten Entitäten, jeweils mit der Zahl der existierenden Einträge dahinter. Ist ein Bereich ausgegraut, wurde er aus den Standortvorgaben oder den Projektvorgaben abgeschaltet. Hier z.B. der Bereich **Bezirke.**

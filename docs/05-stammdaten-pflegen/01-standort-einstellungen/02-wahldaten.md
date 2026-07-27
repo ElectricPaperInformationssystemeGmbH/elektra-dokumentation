@@ -8,7 +8,6 @@ sidebar_position: 2
 Das Panel Wahldaten enthält die zentralen Parameter der Wahl an Ihrem Standort – vom zu wählenden Gremium über die Anzahl der zu besetzenden Sitze bis zu den Wahlterminen und dem Wahlmodus.
 
 ![](img/image89.png)
-
 *Wahldaten*
 
 **Name des Gremiums**: Wählen Sie über das Dropdown-Menü aus, welches Gremium an Ihrem Standort gewählt wird. Steht innerhalb des Wahlprojekts nur ein einzelnes Gremium zur Auswahl, ist dieses bereits vorausgewählt. In diesem Fall kann die Auswahl nicht geändert werden.

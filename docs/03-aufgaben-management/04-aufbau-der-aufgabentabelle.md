@@ -8,7 +8,6 @@ sidebar_position: 4
 - Innerhalb einer Aufgabenphase sind eine oder mehrere Aufgaben enthalten. Diese werden tabellarisch dargestellt:
 
 ![](img/image55.png)
-
 *Übersicht Aufgabenphase*
 
 - **Art:** Hier wird dargestellt, zu welcher **Aufgabenkategorie** die Aufgabe gehört. Dies bieten einen schnellen Überblick, was in etwa bei der Aufgabe zu tun ist. Folgende Aufgabenkategorien sind standardmäßig in **Elektra** vorhanden:
@@ -42,7 +41,6 @@ sidebar_position: 4
 **Hilfsmittel:** Listet die zur Aufgabe hinterlegten Hilfsmittel auf, jeweils mit Typ und Titel. Wurde kein Hilfsmittel hinterlegt, bleibt die Spalte leer. Wurde ein PDF-Dokument hinterlegt, können Sie es über die Schaltfläche „Vorschau" direkt einsehen.
 
 ![](img/image72.png)
-
 *PDF-Vorschau eines Hilfsmittels*
 
 - **Letzte Bearbeitung:** Zeigt an, welcher **Nutzer** zu welchem Zeitpunkt die Aufgabe zuletzt bearbeitet hat.

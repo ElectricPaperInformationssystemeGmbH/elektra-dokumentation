@@ -10,13 +10,11 @@ Nach der konstituierenden Sitzung muss die Besetzung des Gremiums in **E****lekt
 Um Kandidierende nach der Wahl in eine Gremienmitgliedschaft zu übernehmen, rufen Sie zunächst die Wahlfunktion **9) Ergebnisse melden** auf.
 
 ![](img/image228.png)
-
 *Übersicht der Wahlfunktionen*
 
 Scrollen Sie anschließend nach unten, bis die **Sitzverteilungs-Tabelle** angezeigt wird.
 
 ![](img/image229.png)
-
 *Kandidaten ins Gremium übernehmen*
 
 Dort können Sie wählen, ob Sie **einzelne Kandidierende** (1) oder **alle Kandidierenden gleichzeitig** (2) in das Gremium übernehmen möchten.
@@ -32,13 +30,11 @@ In der obersten Zeile (**Gremienmitgliedsart**, **Gremienrolle/Funktionen** und 
 - Unter **Gremienrechten** legen Sie fest, welche Befugnisse das Mitglied im Gremium besitzt.
 
 ![](img/image230.png)
-
 *Modaldialog: Gremium-Mitglied hinzufügen*
 
 Zusätzlich können Sie angeben, **ab wann die Mitgliedschaft gilt** („Sitz gilt von“) und **wann sie endet** („Sitz gilt bis einschließlich“).
 
 ![](img/image231.png)
-
 *Gremium-Mitglied hinzufügen: Amtszeit*
 
 **Übernahme von allen Kandidierenden**
@@ -46,7 +42,6 @@ Zusätzlich können Sie angeben, **ab wann die Mitgliedschaft gilt** („Sitz gi
 Alternativ zur individuellen Übernahme einzelner Kandidierender können Sie auch alle Personen gleichzeitig in das Gremium übertragen. Wählen Sie dazu die Schaltfläche **„Alle ins Gremium übernehmen“**.
 
 ![](img/image232.png)
-
 *Alle Kandidaten ins Gremium übernehmen*
 
 Anschließend werden sämtliche Kandidierende übernommen. Personen, die einen Sitz im Gremium erhalten haben, werden automatisch mit der Gremienmitgliedsart „**gewähltes Mitglied**“ angelegt, während Personen ohne Sitz automatisch als **Ersatzmitglieder** erfasst werden.

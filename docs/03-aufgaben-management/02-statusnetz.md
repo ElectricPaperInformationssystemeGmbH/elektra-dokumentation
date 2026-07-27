@@ -17,7 +17,6 @@ Technisch gibt es zusätzlich den Status **überfällig**, der automatisch verge
 - Der **Aufgabenbereich** Ihres Standortes beginnt mit der Übersicht des Bearbeitungsstatus. Darüber hinaus werden Ihnen verschiedene Filterfunktionalitäten angeboten, über welche Sie das **Aufgabenheft** einschränken können.
 
 ![](img/image53.png)
-
 *Aufgabenübersicht mit Phasen und Status*
 
 - Die Stati werden je Phase in den Kreisdiagrammen dargestellt.

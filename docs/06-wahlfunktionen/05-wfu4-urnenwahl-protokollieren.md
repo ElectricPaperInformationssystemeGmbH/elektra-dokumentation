@@ -12,7 +12,6 @@ Zentrales Element dieser Wahlfunktion ist die Liste der Urnenwahlprotokolle. Das
 .
 
 ![](img/image187.png)
-
 *WFU4: Urnenwahl protokollieren (Übersicht)*
 
 Wie immer gilt: Grün, Orange oder rot sind Status-Informationen. Dunkelblau sind die „**Stifte**“ zum Bearbeiten der Dialogbox mit den Angaben und Notizen.
@@ -60,5 +59,4 @@ Durch das Hochladen der Datei, stellt sich der Status des Feldes in der Matrix a
 Wie bei die meisten Wahlfunktionen können Sie den Status pflegen, Notizen eingeben und Kommentare mit Zeitstempel und Namenskennzeichen anlegen:
 
 ![](img/image196.png)
-
 *WFU4: Status und Kommentare pflegen*

@@ -10,7 +10,6 @@ sidebar_position: 1
 **Erstzugang und Passwortvergabe**
 
 ![](img/image4.png)
-
 *Benachrichtigung über den neu angelegten Zugang*
 
 In der Regel wird Ihr Benutzerkonto durch die Projektleitung angelegt. Sobald dies geschehen ist, erhalten Sie automatisch eine E-Mail an die hinterlegte E-Mail-Adresse.
@@ -18,19 +17,16 @@ In der Regel wird Ihr Benutzerkonto durch die Projektleitung angelegt. Sobald di
 Diese E-Mail enthält die Schaltfläche „**Passwort zurücksetzen**“. Klicken Sie darauf, um Ihr eigenes Passwort festzulegen.
 
 ![](img/image5.png)
-
 *Dialog Passwort zurücksetzen*
 
 Anschließend öffnet sich in Ihrem Browser ein Dialog, in dem Ihre E-Mail-Adresse bereits vorausgefüllt ist. Klicken Sie erneut auf „**Passwort zurücksetzen**“.
 
 ![](img/image6.png)
-
 *E-Mail mit Link zum Festlegen des eigenen Passworts*
 
 Anschließend erhalten Sie eine weitere E-Mail mit einem persönlichen Link. Öffnen Sie diesen Link, indem Sie ihn anklicken oder in die Adresszeile Ihres Browsers kopieren.
 
 ![](img/image7.png)
-
 *Neues Passwort festlegen*
 
 Es öffnet sich eine Eingabemaske, in der Sie Ihr neues Passwort sowohl im Feld „**Neues Passwort**“ als auch im Feld „**Passwort bestätigen**“ eingeben.
@@ -43,7 +39,6 @@ Alternativ kann Ihr Zugang – sofern die Projektleitung dies vorgesehen hat –
 - Alternativ zum oben beschriebenen Erstzugang durch die Projektleitung kann Ihr Zugang zu **Elektra** über ein Registrierungsformular eingerichtet werden. Die Nutzung dieses Formulars muss durch die Projektleitung vorgesehen werden und kommt daher nicht in jedem Wahlprojekt zum Einsatz. Ob dies bei Ihnen der Fall ist, wird Ihnen im Vorfeld mitgeteilt; den Link zum Formular erhalten Sie dann von Ihrer Projektleitung.
 
 ![](img/image8.png)
-
 *Registrierungsformular*
 
 Am oberen Ende sehen Sie das Logo des Wahlprojektes. Darunter wird der Zeitraum angezeigt, in dem eine Registrierung möglich ist. Es folgt der Bereich zur Eingabe der persönlichen Informationen. Hierzu zählen die Felder Anrede, Titel, Vorname, Nachname, Telefon sowie die Angabe der Erreichbarkeit. Alle Felder, die mit einem roten Sternchen gekennzeichnet sind, sind Pflichtfelder und müssen ausgefüllt werden.
@@ -57,7 +52,6 @@ Abschließend geben Sie Ihre E-Mail-Adresse sowie ein Passwort ein, das Sie kün
 | Fahren Sie mit Ihrem Cursor über das „i", um die Mindestanforderungen an Ihr Passwort zu sehen. |
 
 ![](img/image10.png)
-
 *Bestätigungs-E-Mail nach der Registrierung*
 
 Im Anschluss erhalten Sie eine E-Mail an Ihre hinterlegte E-Mail-Adresse. Klicken Sie in dieser E-Mail auf die Schaltfläche „**Bestätigen**“, um die Registrierung abzuschließen. Sobald Ihr Account durch eine Administratorin oder einen Administrator freigegeben wurde, können Sie **Elektra** nutzen und werden darüber per E-Mail informiert.
@@ -65,7 +59,6 @@ Im Anschluss erhalten Sie eine E-Mail an Ihre hinterlegte E-Mail-Adresse. Klicke
 - **Der interne Login-Dialog**
 
 ![](img/image11.png)
-
 *Interner Login-Dialog mit möglichen Fehlermeldungen*
 
 Unabhängig davon, auf welchem der beiden beschriebenen Wege Ihr Zugang eingerichtet wurde, melden Sie sich für die laufende Nutzung über die interne Login-Maske am System an. Verwenden Sie hierzu die E-Mail-Adresse, an die Sie zuvor die Benachrichtigung über die Einrichtung Ihres Benutzerkontos erhalten haben.
@@ -77,7 +70,6 @@ Wenn Sie sich mehrfach vergeblich eingeloggt haben, wird Ihnen der Zugang zeitwe
 - **Passwort vergessen**
 
 ![](img/image12.png)
-
 *Passwort vergessen und zurücksetzen*
 
 Nutzen Sie die Schaltfläche Passwort vergessen, um das Passwort Ihres Nutzerkontos zurückzusetzen.
@@ -97,7 +89,6 @@ Zusätzlich zum bisher beschriebenen Login kann der Zugang zu **Elektra** durch 
 Für die Einrichtung benötigen Sie ein zweites Gerät, in der Regel ein Smartphone oder Tablet. Auf diesem Gerät muss eine Authentifizierungs-App installiert sein, zum Beispiel **Microsoft Authenticator** oder **Google Authenticator**.
 
 ![](img/image13.png)
-
 *Einrichtung der Zwei-Faktor-Authentifizierung*
 
 Die App erzeugt anschließend einen **Code**, der regelmäßig erneuert wird. Geben Sie diesen Code in das Feld **„****Pin-Code** **bestätigen“** ein und klicken Sie auf **„Speichern“**, um die Einrichtung abzuschließen.
@@ -109,7 +100,6 @@ Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftig
 - **Keycloak** ist ein zentraler Anmeldedienst (Single Sign-On), über den Sie sich einmalig anmelden und automatisch Zugriff auf mehrere verbundene Systeme erhalten, ohne sich erneut authentifizieren zu müssen.
 
 ![](img/image14.png)
-
 *Anmeldung über Keycloak*
 
 - Mit dem Klick auf “Mit **Keycloak** verbinden” springt **Elektra** zur externen Login-Maske.
