@@ -41,7 +41,6 @@ Nun wählen Sie ‚Vorlage generieren‘ um die Vorlage auszuwählen und um dann
 *WFU8: Sitzzuteilungsvorlage generieren*
 
 - Bearbeiten Sie das Dokument entsprechend, drucken Sie es aus. Unterzeichnen Sie es.
-
 - Laden Sie das gescannte oder fotografierte Dokument hoch.
 
 ![](img/image206.png)

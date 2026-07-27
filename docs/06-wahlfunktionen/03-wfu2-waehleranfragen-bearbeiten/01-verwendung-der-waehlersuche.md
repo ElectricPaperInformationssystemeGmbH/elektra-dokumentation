@@ -14,7 +14,6 @@ Wahlbüro auswählen  WFU2: Bedienschema Wähleranfragen
 Zu Beginn wählen Sie das **Wahlbüro**, für das die Wähleranfrage bearbeitet werden soll. Sie dient dazu,
 
 - die Suche einzuschränken,
-
 - die Zugriffsberechtigungen des Benutzers zu prüfen,
 
 | **Hinweis** ![](img/image9.png) |

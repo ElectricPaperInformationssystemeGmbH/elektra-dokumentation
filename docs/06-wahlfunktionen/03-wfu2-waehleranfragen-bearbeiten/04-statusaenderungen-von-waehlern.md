@@ -72,7 +72,6 @@ Grüne Schaltflächen zeigen bereits gesetzte Statusinformationen an.  *WFU2: St
 | Die direkte Ausgabe einzelner Briefwahlunterlagen im Wählerservice ist nur möglich, wenn entsprechende Vorlagen im System hinterlegt sind und der Benutzer über die notwendigen Berechtigungen verfügt. In der Regel wird lediglich der Antrag erfasst. Die eigentliche Erstellung erfolgt später gesammelt über die Wahlfunktion **WFU3 „Briefwahlunterlagen generieren“**. |
 
 - **Erstellung von einzelnen Wahlunterlagen**
-
 - Im Folgenden wird erläutert, wie Wahlunterlagen für einzelne Wähler erstellt und deren Status korrekt verbucht werden. Die Beschreibung erfolgt beispielhaft anhand einer Briefwahlunterlage.
 
 ![](img/image175.png)
@@ -90,7 +89,6 @@ Klicken Sie auf **„Briefwahl-Unterlagen beantragen“** und bestätigen Sie de
 Nach Freischaltung des nächsten Schritts erstellen Sie die personalisierte Briefwahlunterlage, sofern eine entsprechende Vorlage hinterlegt ist.  *WFU2: Briefwahlunterlagen erzeugen*
 
 - Im Anschluss öffnet sich erneut ein Bestätigungsdialog. Bestätigen Sie diesen ebenfalls mit der Schaltfläche **Wahlunterlagen** erstellen.
-
 - Laden Sie das erzeugte Dokument herunter (**1**), prüfen Sie es sorgfältig und drucken Sie es aus. Händigen Sie danach den **Briefwahlschein** sowie die übrigen **Wahlunterlagen (z. B. Briefwahlstimmzettel)** der Person aus oder **versenden** Sie diese per Post. Setzen Sie anschließend den Status „**Briefwahl-Unterlagen ausgegeben / verschickt**“ (**2**).
 
 ![](img/image177.png)

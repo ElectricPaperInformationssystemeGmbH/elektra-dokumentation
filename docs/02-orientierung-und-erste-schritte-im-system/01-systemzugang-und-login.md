@@ -40,7 +40,6 @@ Mit einem Klick auf „**Passwort neu setzen**“ wird das Passwort gespeichert.
 Alternativ kann Ihr Zugang – sofern die Projektleitung dies vorgesehen hat – auch über ein Registrierungsformular selbst eingerichtet werden (siehe folgender Abschnitt).
 
 - **Verwendung des Registrierungsformulars**
-
 - Alternativ zum oben beschriebenen Erstzugang durch die Projektleitung kann Ihr Zugang zu **Elektra** über ein Registrierungsformular eingerichtet werden. Die Nutzung dieses Formulars muss durch die Projektleitung vorgesehen werden und kommt daher nicht in jedem Wahlprojekt zum Einsatz. Ob dies bei Ihnen der Fall ist, wird Ihnen im Vorfeld mitgeteilt; den Link zum Formular erhalten Sie dann von Ihrer Projektleitung.
 
 ![](img/image8.png)
@@ -106,9 +105,7 @@ Die App erzeugt anschließend einen **Code**, der regelmäßig erneuert wird. Ge
 Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftigen Anmeldungen wird zusätzlich zum Passwort der jeweils aktuelle Code aus der Authentifizierungs-App abgefragt.
 
 - **Login über Single Sign-On (Keycloak / Microsoft** **EntraID****)**
-
 - Alternativ zum internen Login kann Ihre Organisation die Anmeldung über einen externen Single-Sign-On-Dienst konfiguriert haben. In diesem Fall melden Sie sich nicht direkt in **Elektra** an, sondern über einen der folgenden Dienste:
-
 - **Keycloak** ist ein zentraler Anmeldedienst (Single Sign-On), über den Sie sich einmalig anmelden und automatisch Zugriff auf mehrere verbundene Systeme erhalten, ohne sich erneut authentifizieren zu müssen.
 
 ![](img/image14.png)
@@ -116,35 +113,21 @@ Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftig
 *Anmeldung über Keycloak*
 
 - Mit dem Klick auf “Mit **Keycloak** verbinden” springt **Elektra** zur externen Login-Maske.
-
 - **Einloggen bei Keycloak**
-
 - Sie loggen sich gegen **Keycloak** ein. **Keycloak** seinerseits prüft ihre Authentisierung und gibt Ihnen entsprechenden Zugang.
-
 - In diesem Zusammenhang kann es sein, dass die externen Identity Provider oder das interne **Keycloak**-System von Ihnen weitere Informationen im Rahmen der bereits beschriebenen Zwei-Faktor-Authentifizierung (2FA) abverlangen.
-
 - Ist stattdessen **Microsoft** **EntraID** als Anmeldeverfahren konfiguriert, läuft die Anmeldung analog ab: Klicken Sie auf die entsprechend benannte Schaltfläche, um zur externen Login-Maske zu gelangen.
-
 - **Rollen in Elektra**
-
 - Mit dem erfolgreichen Login gelangen Sie in das System und erhalten Zugriff entsprechend der gesetzten Rollen und den damit verbundenen Privilegien. **Elektra** kann diesbezüglich frei konfiguriert werden, hat aber von Haus aus mehrere Rollen sinnvoll vorbesetzt. Als Standortverantwortlicher betrifft Sie insbesondere die folgende Rolle:
-
 - **Standortverantwortliche(r) (Ihre Rolle):** Hauptnutzerrolle in **Elektra**. Standortverantwortliche sind für die operative Umsetzung der Wahl an ihrem Standort zuständig. Sie bearbeiten die im Aufgabenheft definierten Aufgaben, verwalten die standortbezogenen Stammdaten (z. B. Gemeindedaten, Pflege des Wählerverzeichnisses und Erfassung von Kandidaten) und erstellen wahlrelevante Dokumente. Darüber hinaus sind sie für die digitale Dokumentation der Stimmauszählung verantwortlich.
 
 Der Vollständigkeit halber sind nachfolgend auch die übrigen Rollen kurz aufgeführt, die es abseits Ihrer eigenen in **Elektra** geben kann:
 
 - **Master-Admin:** Zentrale Administratorrolle mit umfassenden Rechten für Systemeinstellungen, Benutzer, Rollen und Projekte.
-
 - **Meldewesen:** Pflege und Bereitstellung melderechtlicher Daten als Grundlage für Wahlberechtigung und Wählerverzeichnisse.
-
 - **Mitglied Wahlausschuss:** Unterstützt Vorbereitung und Durchführung der Wahl an einem Standort mit Zugriff auf wahlrelevante Daten und Auswertungen.
-
 - **Pfarrsekretariat:** Unterstützende Rolle auf Standortebene, u. a. bei Briefwahlanträgen sowie Anfragen von Wählerinnen und Wählern.
-
 - **Wahlamt Leitung:** Leitende Rolle im Wahlamt mit übergeordneter Verantwortung für Planung, Steuerung und Überwachung des gesamten Wahlprozesses.
-
 - **Wahlamt Mittelebene:** Koordinierende Rolle zwischen Leitung und operativer Ebene, unterstützt bei der Steuerung mehrerer Standorte oder Wahlbereiche (bspw. in einem pastoralen Raum).
-
 - **Wahlamt Sachbearbeitung Anträge:** Bearbeitet und prüft Anträge, die von Standorten über **Elektra** an die zentrale Wahlleitung gestellt werden, z. B. zur Änderung der Anzahl der zu besetzenden Sitze.
-
 - **Wahlhelfer/in:** Unterstützt die praktische Durchführung der Wahl, insbesondere am Wahltag, z. B. bei Stimmabgabe, Wählerprüfung oder Auszählung, mit stark eingeschränkten Systemrechten.

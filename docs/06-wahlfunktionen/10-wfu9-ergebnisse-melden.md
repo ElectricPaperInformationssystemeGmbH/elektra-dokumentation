@@ -8,11 +8,8 @@ sidebar_position: 10
 Die Wahl ist beendet. Nun müssen zusammenfassende Meldungen und die Wahlstatistik erstellt und abgegeben werden. Dazu erstellen Sie ein Ergebnisprotokoll. Wie bei allen Wahlfunktionen haben Sie im Kopf der Wahlfunktion das Angebot von Arbeitshilfen und Checkliste. Dann folgt die Liste der erstellten Protokolle – in der Regel nur eines.
 
 - Mit dem Button ‚Ergebnis vorbereiten/hochladen‘ füllen Sie die Dialog box mit Angaben:
-
 - Tag der Niederschrift
-
 - Wahlteam-Mitglieder die anwesend sind und das Protokoll unterzeichnen
-
 - Notizen/besondere Vorkommnisse.
 
 ![](img/image219.png)
@@ -49,7 +46,6 @@ Ergänzend liefert die demografische Wähleranalyse folgende Übersicht:
 | --- | --- | --- |
 
 - Drucken Sie es aus, unterzeichnen Sie es und laden Sie es in der Dialogbox ‚Ergebnis vorbereiten/hochladen‘ hoch.
-
 - Abschließend können Sie wie immer Status und Kommentare setzen.
 
 ![](img/image227.png)

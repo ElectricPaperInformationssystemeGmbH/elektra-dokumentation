@@ -20,23 +20,13 @@ Zusätzlich wird angezeigt, wie viele Dokumente innerhalb der jeweiligen Wahlfun
 Interessant sind in diesem Zusammenhang folgende Verweise:
 
 - 1) Stimmzettel erstellen
-
 - 2) Wähleranfragen bearbeiten / Wählerservice
-
 - 3) Wahlunterlagen generieren (Antragsbasierter Wählerservice)
-
 - 4) Urnenwahl protokollieren
-
 - 5) Onlinewahl prüfen
-
 - 6) Auszählung protokollieren
-
 - 7) Stimmen erfassen
-
 - 8) Sitze zuteilen
-
 - 9) Ergebnisse melden
-
 - 10) Gremium verwalten
-
 - Dokumente verwalten

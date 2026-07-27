@@ -16,11 +16,7 @@ Der Stammdatenbereich bietet Einsicht und Zugriff auf die Standort-Details und e
 Interessant sind in diesem Zusammenhang folgende Verweise:
 
 - Standortvorgaben
-
 - Wahlbezirke anlegen
-
 - Wahlräume anlegen
-
 - Wahl-Team festlegen
-
 - Kandidaten verwalten

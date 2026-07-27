@@ -34,11 +34,8 @@ Der Aufbau der Wähler-Importvorlage sieht wie folgt aus:
 | Der Upload von neuen Wählerdaten wird vom System unterbunden bzw. gar nicht angeboten, wenn bereits eine Onlinewahl angelegt wurde. Nach Beginn der Wahl ist das Hinzufügen und Löschen von Wählern in der Regel nicht mehr erlaubt! |
 
 - Die erste Zeile in der Excel-Datei enthält den Namen der Spalte.
-
 - Die zweite Zeile enthält das den technischen Feldnamen in der **Elektra**-Datenbank, die den Inhalt aufnehmen soll.
-
 - Es können Spalten aus der Liste herausgelöscht werden.
-
 - Auch die Reihenfolge kann geändert werden, ohne dass Einschränkungen entstehen.
 
 ![](img/image108.png)
@@ -52,11 +49,8 @@ Eine detaillierte Erläuterung zu der Bedeutung der einzelnen Spalten der Import
 Die zahlreichen Flags im Wählerverzeichnis unterliegen einer Logik, die von der Software automatisch angewendet wird. Deutlich wird Sie durch die eingeblendeten Plausibilität-Felder hinter den Wahlflags beispielsweise im Wählerservice.
 
 - Es werden nur die Wahlkanäle angeboten, die im Projekt bzw. auf Standortebene verfügbar gemacht wurden.
-
 - Es kann nur ein Kanal bis zur erfolgreichen Teilnahme geführt werden, auch wenn mehrere Anträge und Wahlmöglichkeiten vorliegen.
-
 - Die Ausgabe von Unterlagen wird unterbunden, wenn schon Wahlkanäle genutzt wurden.
-
 - Es gibt Warnungen, wenn Aufgaben wiederholt durchgeführt werden.
 
 **Historie/Audit-Log**

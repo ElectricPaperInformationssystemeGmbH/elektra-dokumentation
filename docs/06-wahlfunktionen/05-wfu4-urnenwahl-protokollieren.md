@@ -47,7 +47,6 @@ Erzeugen Sie das Protokoll Klicken Sie auf das Dropdown und wählen Sie die Prot
 *WFU4: Protokoll erzeugen und hochladen*
 
 - Ergänzen Sie das Protokoll – wo nötig und unterzeichnen Sie es. Notfalls fügen Sie Anlagen hinzu.
-
 - Laden Sie das fertige Protokoll hoch Scannen oder fotografieren Sie das Protokoll. Klicken Sie erneut auf den Stift zur Bearbeitung und laden Sie das Dokument hoch. Speichern Sie die Eingaben.
 
 ![](img/image195.png)

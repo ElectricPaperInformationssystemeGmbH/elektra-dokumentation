@@ -38,9 +38,7 @@ Der Mechanismus ist soweit identisch jedoch entstehen ggf. mehrere Ausgabedokume
 Schleifen über die Einträge in der Tabelle können je nach Vorlage aufgelöst werden:
 
 - Innerhalb des Dokuments (hier das Beispiel einer Kandidatenliste mit Kandidaten-Status)
-
 - Außerhalb des Dokuments (hier Einzelne Briefe als Word-Dokument je Kandidat)
-
 - So ist es möglich, beispielsweise Datenschutzdokumentationen oder weitere Dokumente zur Kandidatur automatisiert zu erzeugen.
 
 ![](img/image125.png)

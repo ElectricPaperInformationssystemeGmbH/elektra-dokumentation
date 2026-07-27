@@ -10,9 +10,7 @@ Nach dem erfolgreichen Login gelangen Sie als Standortverantwortliche Person ode
 Im Wesentlichen lässt sich die Benutzeroberfläche von **Elektra** in drei Abschnitte unterteilen:
 
 - Kopfbereich
-
 - Seitenmenü
-
 - Arbeitsbereich
 
 ![](img/image15.png)
@@ -62,7 +60,6 @@ Der Arbeitsbereich ist der zentrale Bereich von **Elektra**, in dem alle für di
 *Standortkopf*
 
 - Im **Standort-Kopf** wird zunächst angezeigt, welcher Standort aktuell ausgewählt ist. Dies ist insbesondere dann relevant, wenn Sie für mehrere Standorte tätig sind oder wenn übergeordnete Rollen, wie die Wahlleitung, Einblick in verschiedene Standorte nehmen. Verwenden Sie das Stift-Symbol, um direkt den Stammdaten-Dialog des Standortes aufzurufen.
-
 - Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus **Stammdaten**, **Aufgaben** und **Wahlfunktionen**, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes.
 
 Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus Stammdaten, Aufgaben und Wahlfunktionen, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes:

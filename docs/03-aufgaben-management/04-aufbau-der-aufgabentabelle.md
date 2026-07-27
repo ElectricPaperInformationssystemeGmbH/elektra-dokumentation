@@ -28,7 +28,6 @@ sidebar_position: 4
 | ![](img/image67.png) | Entscheidung |
 
 - Bitte beachten Sie, dass Icons und deren Hintergrundfarbe seitens der Projektleitung frei definierbar sind und weitere Aufgabenkategorien ergänzt werden können.
-
 - **Status & Bezeichnung:** Zeigt den aktuellen **Bearbeitungsstatus** als farbiges Symbol (**nicht begonnen, offen, in Bearbeitung, fertig** bzw. **überfällig**) sowie die Bezeichnung der Aufgabe. Über einen Klick auf die Bezeichnung öffnen Sie die Aufgabe zur Bearbeitung.
 
 **Frist:** Aufgaben in **Elektra** sind immer mit einem Zieldatum versehen, zu welchem die Aufgabe erledigt sein muss. Die Fristenanzeige ändert hierbei ihre Darstellung, je nachdem wie weit die Frist in der Zukunft liegt:
@@ -47,5 +46,4 @@ sidebar_position: 4
 *PDF-Vorschau eines Hilfsmittels*
 
 - **Letzte Bearbeitung:** Zeigt an, welcher **Nutzer** zu welchem Zeitpunkt die Aufgabe zuletzt bearbeitet hat.
-
 - **Letzter Kommentar:** Zeigt, sofern vorhanden, den zuletzt zur Aufgabe erfassten Kommentar. Ist noch kein Kommentar hinterlegt, bleibt die Spalte leer.

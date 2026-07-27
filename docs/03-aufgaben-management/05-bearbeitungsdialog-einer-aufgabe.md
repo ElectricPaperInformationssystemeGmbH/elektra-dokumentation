@@ -36,7 +36,6 @@ Im Folgenden wird Ihnen im Detail gezeigt, wie der Bearbeitungsdialog einer Aufg
 *Hilfsinformationen*
 
 - **Feedback:** Sofern zur Aufgabe eine Datenabfrage (Feedback) hinterlegt ist, erscheinen hier die einzelnen Fragen. Die Fragen können unterschiedliche Typen haben (z. B. Checkbox, Text, Datum, Dokumenten-Upload) und werden von der Projektleitung als optional oder als Pflichtfeld markiert.
-
 - Folgende Frage-Typen sind in **Elektra** verfügbar:
 
 | Checkbox | Ankreuzfeld ohne weitere Validierungen |

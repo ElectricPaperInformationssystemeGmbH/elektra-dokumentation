@@ -28,9 +28,7 @@ Wählen Sie die Schaltfläche **„Ins Gremium übernehmen“** aus. Daraufhin �
 In der obersten Zeile (**Gremienmitgliedsart**, **Gremienrolle/Funktionen** und **Gremienrechte**) wählen Sie aus Listen die Eigenschaften aus, die die jeweilige Mitgliedschaft definieren.
 
 - Unter **Gremienmitgliedsart** legen Sie fest, ob es sich beispielsweise um ein gewähltes Mitglied, ein Ersatzmitglied oder eine Entsendung handelt.
-
 - Unter **Gremienrolle/Funktion** bestimmen Sie, welche Aufgabe oder Funktion das Mitglied innerhalb des Gremiums wahrnimmt.
-
 - Unter **Gremienrechten** legen Sie fest, welche Befugnisse das Mitglied im Gremium besitzt.
 
 ![](img/image230.png)

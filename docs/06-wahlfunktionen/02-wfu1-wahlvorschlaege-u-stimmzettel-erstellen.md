@@ -78,17 +78,11 @@ Sie finden den nun frisch erzeugten Entwurf in der Liste wieder. Es kann einen M
 *WFU1: Stimmzettel-Vorschau*
 
 - Wenn Sie Fehler feststellen, korrigieren Sie die entsprechenden Angaben. Kandidatenangaben korrigieren Sie in den Stammdaten für Kandidaten. Überschriften und Texte korrigieren Sie in der Dialogbox (Schritt 3).
-
 - Einige Dinge, die Sie unbedingt prüfen sollten:
-
 - Sind alle Kandidaten vorhanden? Sind alle Kandidaten wählbar – also sind Sie aktiv wahlberechtigt? Sind sie alt genug?
-
 - Stimmen Geschlecht, Bilder, Motivationszitat, Alter?
-
 - Haben Kandidaten eventuell Einwände bezüglich des Datenschutzes formuliert? Nutzen Kandidaten die Funktion „Anschrift unterdrücken“ und spiegelt der Stimmzettel bzw. Aushang das wider?
-
 - Stellen Sie sicher, dass der Stimmzettel nur exakt **1 Seite** umfasst! Prüfen Sie, dass die Stimmzettel-Datei wegen eines Seitenumbruchs nicht etwa eine leere Seite angehängt hat.
-
 - Wenn Sie Fehler festgestellt haben, können Sie den als „Entwurf“ stehen lassen. Alternativ kann der Entwurf über das **Mülleimer-Symbol** gelöscht werden.
 
 ![](img/image146.png)
@@ -98,11 +92,8 @@ Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
 *WFU1: Statusleiste der Entwürfe*
 
   - Nach der Erzeugung haben die PDF-Dateien den Status ‚Entwurf‘.
-
   - In der Spalte „**Alle Nächster Status**“ gibt es die Schaltfläche zum Aktivieren des nächsten Status.
-
   - Wählen Sie ‚Frei zum Druck‘ erst dann, wenn sämtliche Aushänge und Rückmeldemöglichkeiten erschöpft sind. Dann erzeugen Sie den endgültigen Stimmzettel und setzen diesen Status!
-
 - Sind Sie mit ihrem Dokument zufrieden, so dass es als Aushang verwendet werden kann, setzen Sie den Status von Entwurf auf „**Verbindlicher Aushang/Wahlvorschlag**“. Dazu klicken Sie in die Spalte ‚Alle nächsten Status‘ auf die Schaltfläche.
 
 ![](img/image147.png)
@@ -110,5 +101,4 @@ Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
 *Status setzen*
 
 - Wiederholen Sie diesen Schritte 3-7 nach Ende der Rückmeldefristen. **Erst dann** gilt es den endgültigen Stimmzettel zu erzeugen und im Statusnetz auf „**Frei zum Druck**“ zu stellen!
-
 - Nun erst können Sie den Status für die Wahlfunktion WFU1 auf FERTIG stellen.

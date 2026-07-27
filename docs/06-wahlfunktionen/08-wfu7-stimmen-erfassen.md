@@ -45,5 +45,4 @@ Eine Übersicht der erfassten Stimmen finden Sie hier:
 *WFU7: Übersicht der erfassten Stimmen*
 
 - Erfassen Sie mögliche **Notizen** und **Kommentare**
-
 - Schließen Sie die WFU 7 ab, in dem Sie den **Status** auf ‚erledigt‘ setzen.

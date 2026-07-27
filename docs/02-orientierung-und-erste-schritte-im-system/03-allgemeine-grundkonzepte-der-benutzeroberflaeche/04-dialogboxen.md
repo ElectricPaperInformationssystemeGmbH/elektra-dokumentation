@@ -30,7 +30,6 @@ Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere w
 Innerhalb der **Panels** finden Sie Felder, in denen Sie Daten erfassen können. Hierbei stehen unterschiedliche Eingabetypen zur Verfügung:
 
 - **Dropdown-Felder** zur Auswahl vordefinierter Werte.
-
 - Auswahlfelder (**Ankreuzfelder**) für eine einfache Auswahl (z. B. Anrede).
 
 ![](img/image50.png)
@@ -38,7 +37,6 @@ Innerhalb der **Panels** finden Sie Felder, in denen Sie Daten erfassen können.
 Datums- und Zeitfelder, bei denen  ein mehrstufiger Kalender eingeblendet wird. So wird die Auswahl von Uhrzeit, Tag, Monat und Jahr ermöglicht (sofern für das Feld verfügbar). Alternativ können Werte auch direkt über die Tastatur eingegeben werden. Zusätzlich können vorhandene Auswahlfelder genutzt werden, um Werte schnell anzupassen.
 
 - Durch Anklicken dieser Felder wird der angezeigte Wert in definierten Schritten verändert (z. B. um 30 Minuten, 1 Stunde, 1 Tag, 1 Woche oder 1 Monat). Die Kennzeichnung „**H**“ steht dabei für den heutigen Tag.
-
 - Freitextfelder zur Eingabe individueller Inhalte.
 
 | **Hinweis** ![](img/image9.png) |
@@ -66,17 +64,11 @@ Zusätzlich werden Eingabefelder rot hervorgehoben, wenn durch die Eingabe eine 
 Sie haben in diesem Kapitel die Grundlagen für die tägliche Arbeit mit Elektra kennengelernt. Zusammengefasst wissen Sie jetzt:
 
 - Wie Sie sich in Elektra anmelden – über die interne Login-Maske, ein Registrierungsformular oder Single Sign-On (Keycloak/Microsoft EntraID) – und wie Sie bei Bedarf Ihr Passwort zurücksetzen oder die Zwei-Faktor-Authentifizierung einrichten.
-
 - Welche Rolle Sie als Standortverantwortliche Person im System einnehmen und welche weiteren Rollen es in Elektra gibt.
-
 - Was sich hinter den drei Kacheln des Triptychons verbirgt: die Aufgabenübersicht, der Stammdatenbereich und die nach dem typischen Wahlablauf sortierten Wahlfunktionen.
-
 - Das wiederkehrende „Menü, Tabelle, Maske"-Prinzip, nach dem alle Funktionen in Elektra einheitlich aufgebaut sind.
-
 - Die wichtigsten Schaltflächen und Interaktionen, die Ihnen in Tabellen und Masken immer wieder begegnen: Anlegen, Bearbeiten, Löschen, Speichern, Abbrechen sowie Dokumente erzeugen, hoch- und herunterladen.
-
 - Wie Tabellen aufgebaut sind und welche Funktionen Tabellenkopf, Spaltenkopf, Tabelleninhalt und Fußbereich bieten – von der Volltextsuche über Filter und Sortierung bis zum Export und der Seitennavigation.
-
 - Wie Dialogboxen funktionieren, wie sich Panels ein- und ausklappen lassen und wie Plausibilitätsmeldungen Sie auf fehlende oder fehlerhafte Eingaben hinweisen.
 
 Mit diesem Grundwissen sind Sie gut gerüstet, um sich im weiteren Verlauf des Handbuchs mit den konkreten Funktionsbereichen von Elektra auseinanderzusetzen – beginnend mit dem Aufgaben-Management im nächsten Kapitel.

@@ -6,7 +6,6 @@ sidebar_position: 2
 # Durchführung von Standortwechseln – Streichung
 
 - Wurde Ihnen der Antrag einer Person zugeleitet, dass diese ihr Wahlrecht nicht mehr an ihrem Ursprungsstandort wahrnehmen möchte, müssen Sie die Streichung innerhalb von **Elektra** vornehmen. Hierfür ist ein standardisierter Prozess vorgesehen, der im Folgenden erläutert wird.
-
 - Nachdem Sie die betroffene Person über die **Wählersuche** gefunden haben, wählen Sie diese über die Checkbox im linken Bereich der Tabelle aus.
 
 ![](img/image153.png)
@@ -36,7 +35,6 @@ Es öffnet sich ein Bestätigungsdialog. Prüfen Sie, ob die richtigen Personen 
 Nach der Bestätigung erscheinen zwei Fenster:
 
 - **Erfolgsmeldung:** Der Export wurde abgeschlossen. Notieren Sie das angezeigte **Abholtoken** – dieser wird benötigt, um die exportierten Wählenden an einem anderen Standort ins Wählendenverzeichnis aufzunehmen. Der Abholtoken ist ebenfalls in dem generierten Dokument vorhanden.
-
 - **Dokument-Download:** Automatisch wird ein Dokument generiert, das die Streichung aus dem Wählendenverzeichnis belegt. Speichern Sie dieses Dokument lokal und händigen Sie den betreffenden Personen die für sie vorgesehenen Seiten aus.
 
 ![](img/image157.png)
@@ -46,7 +44,6 @@ Nach der Bestätigung erscheinen zwei Fenster:
 Das erzeugte Dokument umfasst pro gestrichener Person **zwei Seiten**:
 
 - Die **Dokumentation der Streichung** inklusive der persönlichen Daten der betreffenden Person.
-
 - Den **Antrag zur Ausübung des Wahlrechts** an einer anderen Kirchengemeinde.
 
 Händigen Sie die Unterlagen an die antragstellende Person aus.

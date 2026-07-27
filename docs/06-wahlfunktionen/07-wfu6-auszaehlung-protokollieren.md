@@ -39,7 +39,6 @@ Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf ‚In Bea
 Nun wählen Sie ‚Vorlage generieren‘ um die Vorlage auszuwählen und ein personalisiertes Dokument zu erhalten:      *WFU6: Auszählungsprotokoll generieren*
 
 - Bearbeiten Sie das Dokument entsprechend, drucken Sie es aus. Unterzeichnen Sie es.
-
 - Laden Sie das gescannte oder fotografierte Dokument hoch.
 
 ![](img/image206.png)

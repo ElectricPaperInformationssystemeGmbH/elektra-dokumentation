@@ -6,7 +6,6 @@ sidebar_position: 3
 # Durchführung von Standortwechseln – Aufnahme
 
 - Wurde dem Antrag eines Wählenden, das Wahlrecht an Ihrem Standort auszuüben, stattgegeben, muss die Person in das **Wählerverzeichnis** Ihres Standortes aufgenommen werden.
-
 - Scrollen Sie innerhalb des **Wählerservices** nach unten, bis Sie den Abschnitt **Wahlrecht exportieren** sehen.
 
 ![](img/image158.png)

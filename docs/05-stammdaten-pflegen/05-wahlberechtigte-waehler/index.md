@@ -16,9 +16,7 @@ Für die Interaktion steht wie für alle Entitäten eine Tabellenanzeige mit Suc
 Ober- und Unterhalb der Tabelle finden Sie ggf. mehrere Interaktionsmöglichkeiten:
 
 - **Download Wahlberechtigte:** Ermöglicht den Download des Wählerverzeichnisses des ausgewählten Standorts. Die Exportdatei enthält neben den Wählerdaten auch die erforderlichen technischen Header. Sie dient dazu, Änderungen am Wählerverzeichnis vorzunehmen und dieses anschließend wieder hochzuladen. Ist für den Standort noch kein Wählerverzeichnis vorhanden, wird stattdessen eine Musterdatei erstellt. In diese können Sie Ihr Wählerverzeichnis einfügen und anschließend hochladen. Diese Funktion wird in der Regel nur bei MAV-Wahlen verwendet.
-
 - **Upload Wahlberechtigte:** Sofern das Wählerverzeichnis nicht zentral bereitgestellt wird, kann es über diese Funktion hochgeladen werden. Die hochzuladende Datei muss dem Format der zuvor über **Download Wahlberechtigte** erzeugten Export- bzw. Musterdatei entsprechen. Diese Funktion wird ebenfalls in der Regel nur bei MAV-Wahlen verwendet.
-
 - **Wählerverzeichnis herunterladen:** Sollte beispielsweise das Wählerverzeichnis am Wahltag in gedruckter Form vorliegen müssen, kann es über diese Funktion heruntergeladen werden. Der Export kann sowohl als CSV als auch als XLSX gespeichert werden. Aufgrund der sensiblen Daten, die in dieser Datei vorhanden sind, ist diese mit einem Passwort geschützt, welches Ihnen von der Projektleitung mitgeteilt wird.
 
 Haben Sie das Privileg zur Bearbeitung von vorhandenen Wählern, können Sie die Bearbeitungsmaske eines Wählers über das **Stift-Symbol** aufrufen.

@@ -48,9 +48,7 @@ Die meisten Wahlfunktionen (1,4,6,7,8,9) arbeiten nach einem allgemeinen Grundpr
 **Status- und Notiz-Feld:** Ein Statusnetz bietet folgende Auswahlmöglichkeiten:
 
 - Offen
-
 - In Bearbeitung
-
 - Erledigt
 
 ![](img/image135.png)
