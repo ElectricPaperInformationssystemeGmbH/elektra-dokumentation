@@ -24,3 +24,8 @@ Ein wichtiges Herzstück von **Elektra** ist das verteilte Aufgaben-Management. 
 - **Verbesserte Kommunikation**: Die Möglichkeit, Kommentare direkt zu den Aufgaben hinzuzufügen, fördert den Austausch von Ideen und Informationen zwischen den Teammitgliedern. Dies reduziert die Notwendigkeit für zusätzliche Meetings und fördert eine effizientere Kommunikation.
 
 - Im Folgenden werden die einzelnen Aspekte genauer betrachtet.
+
+<!-- videos:auto -->
+## Videos zu diesem Kapitel
+
+- [Aufgaben](https://vimeo.com/1079705067) – Aufgabenheft nutzen, Helpdesk sowie Anträge und Anfragen stellen und bearbeiten.

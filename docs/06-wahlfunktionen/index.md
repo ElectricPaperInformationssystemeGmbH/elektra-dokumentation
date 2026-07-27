@@ -27,3 +27,20 @@ Die Wahlfunktionen, auch als **WFU** bezeichnet, basieren auf den im System hint
 | **Controlling** | Hier gibt es Statistik-Informationen z.B. über die Auslastung und Nutzung der Wahllokale. |
 
 **Hinweis:** Die Verfügbarkeit der einzelnen Wahlfunktionen richtet sich danach, welche **Wahlkanäle** an Ihrem Standort aktiviert sind. Ist beispielsweise **keine Urnenwahl** vorgesehen, steht die Wahlfunktion **4) „Urnenwahl protokollieren“** nicht zur Auswahl.
+
+<!-- videos:auto -->
+## Videos zu diesem Kapitel
+
+- [Wahlfunktionen allgemein](https://vimeo.com/1080079395) – Wiederkehrende Werkzeuge: Arbeitshilfen, Plausibilitätsmodul, Listen, Kommentare, Status.
+- [WFU1 – Wahlvorschläge und Stimmzettel erstellen](https://vimeo.com/1095842650) – Stimmzettel erzeugen, im gewünschten Design generieren und für den Druck freigeben.
+- [WFU2 – Wähleranfragen bearbeiten](https://vimeo.com/1087930171) – Wähleranfragen strukturiert bearbeiten, inkl. Prüfungen und Wahlteilnahme.
+- [Wählerservice](https://vimeo.com/1101805055) – Abgrenzung zwischen Wählerservice und Wahlfunktion 2.
+- [WFU3 – Wahlunterlagen generieren](https://vimeo.com/1087930283) – Wahlunterlagen als Seriendruck erstellen und den Versand dokumentieren.
+- [WFU4 – Urnenwahl protokollieren](https://vimeo.com/1095528250) – Wahlprotokolle vorbereiten, ausfüllen und als unterzeichnete Dokumente hochladen.
+- [WFU5 – Onlinewahl prüfen](https://vimeo.com/1095852860) – Reine Ansichtsfunktion zur Einsicht der Onlinewahlergebnisse.
+- [WFU6 – Auszählung protokollieren](https://vimeo.com/1095528383) – Urnenöffnung und Auszählung je Bezirk dokumentieren.
+- [WFU7 – Stimmen erfassen](https://vimeo.com/1095528463) – Stimmen je Bezirk und Wahlkanal erfassen und zuordnen, Protokolle erzeugen.
+- [WFU8 – Sitze zuteilen](https://vimeo.com/1095842718) – Sitze nach Rangfolge zuteilen, manuelle Anpassungen, Protokoll erstellen.
+- [WFU9 – Ergebnisse melden](https://vimeo.com/1095842810) – Abschließende Dokumentation und Übermittlung der Wahlergebnisse.
+- [Dokumente](https://vimeo.com/1095852942) – Alle erzeugten und hochgeladenen Dokumente des Standorts mit Filterfunktionen.
+- [Tutorial: Standortwechsel](https://vimeo.com/1099893207) – Standortwechsel eines Wählers korrekt durchführen.

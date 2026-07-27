@@ -18,3 +18,12 @@ Während einige Angaben von der Wahlprojektleitung nach Datenlage vorab im Syste
 Wenn Sie im Hauptmenü (**Triptychon**) den Bereich Stammdaten anklicken, zeigt das System eine Übersicht über die hier zu bearbeiteten Entitäten, jeweils mit der Zahl der existierenden Einträge dahinter. Ist ein Bereich ausgegraut, wurde er aus den Standortvorgaben oder den Projektvorgaben abgeschaltet. Hier z.B. der Bereich **Bezirke.**
 
 Die folgenden Abschnitte beschreiben diese Bereiche der Reihe nach – beginnend mit den Standort-Einstellungen als zentraler Grundlage, auf der alle weiteren Angaben aufbauen.
+
+<!-- videos:auto -->
+## Videos zu diesem Kapitel
+
+- [Standort, Wahlräume, Bezirke](https://vimeo.com/1080076879) – Anlegen und Verwalten dieser organisatorischen Einheiten und ihrer Verknüpfungen.
+- [Wahlteam](https://vimeo.com/1080076986) – Wahlteammitglieder hinzufügen und verwalten.
+- [Kandidaten](https://vimeo.com/1080077075) – Kandidaten-Onboarding, Verwaltung und automatische Dokumentenerstellung.
+- [Wähler](https://vimeo.com/1080079239) – Wählerverzeichnis verwalten, filtern, bearbeiten und Wähler zu Kandidaten machen.
+- [Tutorial: Registrierungsantrag](https://vimeo.com/1099893188) – Registrierungsantrag für Wahlteam-Mitglieder erstellen.
