@@ -84,15 +84,8 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Elektra',
             items: [
-              {label: 'Onlinehilfe', href: 'https://elektra.software/'},
               {label: 'Wahlen organisieren', href: 'https://wahlen-organisieren.de/'},
-            ],
-          },
-          {
-            title: 'Rechtliches',
-            items: [
               {label: 'Impressum', href: 'https://wahlen-organisieren.de/impressum/'},
               {label: 'Datenschutz', href: 'https://wahlen-organisieren.de/datenschutz/'},
             ],

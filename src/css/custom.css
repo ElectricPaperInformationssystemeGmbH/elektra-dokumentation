@@ -119,6 +119,25 @@
   --ifm-footer-color: #e8eef4;
 }
 
+/* Footer-Links in einer Reihe nebeneinander (statt Spalten) */
+.footer .footer__links {
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.footer .footer__col {
+  flex: 0 1 auto;
+}
+.footer .footer__items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.75rem;
+  justify-content: center;
+  margin: 0;
+}
+.footer .footer__item {
+  margin: 0;
+}
+
 /* ============================ Startseite ============================ */
 
 /* Hero als abgerundete Karte mit weichem Navy-Verlauf + Lichtakzent */
