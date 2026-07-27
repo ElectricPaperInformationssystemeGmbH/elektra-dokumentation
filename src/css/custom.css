@@ -126,9 +126,9 @@
   vertical-align: middle;
 }
 
-/* Screenshots in Tabellenzellen MIT Bildunterschrift (Bild gefolgt von <br />):
-   linksbündig, geblockt, gerahmt – Unterschrift als kompakter Untertitel darunter. */
-.markdown td img:has(+ br) {
+/* Screenshots in Tabellenzellen MIT Bildunterschrift (Bild direkt gefolgt von *kursiver* Unterschrift):
+   Bild linksbündig/geblockt und gerahmt, Unterschrift als kompakter Untertitel direkt darunter. */
+.markdown td img:has(+ em) {
   display: block;
   margin: 0.2rem 0 0.15rem;
   border: 1px solid var(--ifm-color-emphasis-300);
@@ -136,8 +136,10 @@
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
   vertical-align: initial;
 }
-.markdown td br + em {
+/* Unterschrift (kursiv) direkt nach einem Bild in der Zelle */
+.markdown td img + em {
   display: block;
+  margin-top: 0;
   font-size: 0.88em;
   font-style: italic;
   color: var(--ifm-color-emphasis-600);

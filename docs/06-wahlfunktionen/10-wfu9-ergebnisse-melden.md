@@ -37,7 +37,7 @@ Ergänzend liefert die demografische Wähleranalyse folgende Übersicht:
 
 - Bearbeiten Sie das Word-Dokument nach Belieben.
 
-| ![](img/image224.png)<br />*WFU9: Ergebnisdokument bearbeiten (Seite 1)* | Die zweite Seite des Ergebnisdokuments sieht wie folgt aus: ![](img/image225.png) WFU9: Ergebnisdokument bearbeiten (Seite 2) | Die dritte Seite des Ergebnisdokuments sieht wie folgt aus: ![](img/image226.png) WFU9: Ergebnisdokument bearbeiten (Seite 3) |
+| ![](img/image224.png) *WFU9: Ergebnisdokument bearbeiten (Seite 1)* | Die zweite Seite des Ergebnisdokuments sieht wie folgt aus: ![](img/image225.png) WFU9: Ergebnisdokument bearbeiten (Seite 2) | Die dritte Seite des Ergebnisdokuments sieht wie folgt aus: ![](img/image226.png) WFU9: Ergebnisdokument bearbeiten (Seite 3) |
 | --- | --- | --- |
 
 - Drucken Sie es aus, unterzeichnen Sie es und laden Sie es in der Dialogbox ‚Ergebnis vorbereiten/hochladen‘ hoch.

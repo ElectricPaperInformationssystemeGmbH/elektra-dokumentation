@@ -23,7 +23,7 @@ Wählen Sie den Standort / Bezirk Kicken Sie auf  um den folgenden Dialog zu öf
 
 - Füllen Sie den Dialog aus:
 
-| ![](img/image214.png)<br />*WFU8: Sitzzuteilung bearbeiten* | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. Wenn ein Sitz doppelt vergeben wurde, gibt es eine Fehlermeldung: ![](img/image215.png) Bearbeiten Sie die den tatsächlichen Rang und vergeben sie Kommentare. |
+| ![](img/image214.png) *WFU8: Sitzzuteilung bearbeiten* | **Tag der Niederschrift:** Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. **Wahlteam-Mitglieder**: Wählen Sie die Vertreter des Wahlvorstands aus, die anwesend sind. **Notizen/besondere Vorkommnisse:** Dokumentieren Sie ggf. besondere Begebenheiten, die bei der Auszählung entstanden sind. **Fertige Dokumente**: Dokumenten-Liste und Drop-Zone für die Dateiauswahl. Wenn ein Sitz doppelt vergeben wurde, gibt es eine Fehlermeldung: ![](img/image215.png) Bearbeiten Sie die den tatsächlichen Rang und vergeben sie Kommentare. |
 | --- | --- |
 
 ![](img/image203.png)
