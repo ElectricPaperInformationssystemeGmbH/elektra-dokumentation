@@ -145,7 +145,12 @@
 /* Footer-Text gut lesbar auf Navy */
 .footer--dark {
   --ifm-footer-link-color: #cfe0ee;
+  --ifm-footer-link-hover-color: #ffffff;
   --ifm-footer-color: #e8eef4;
+}
+.footer--dark .footer__link-item:hover {
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 /* Footer-Links in einer Reihe nebeneinander (statt Spalten) */
