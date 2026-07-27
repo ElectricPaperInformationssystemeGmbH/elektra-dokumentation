@@ -18,14 +18,14 @@ Zusätzlich wird angezeigt, wie viele Dokumente innerhalb der jeweiligen Wahlfun
 
 Interessant sind in diesem Zusammenhang folgende Verweise:
 
-- 1) Stimmzettel erstellen
-- 2) Wähleranfragen bearbeiten / Wählerservice
-- 3) Wahlunterlagen generieren (Antragsbasierter Wählerservice)
-- 4) Urnenwahl protokollieren
-- 5) Onlinewahl prüfen
-- 6) Auszählung protokollieren
-- 7) Stimmen erfassen
-- 8) Sitze zuteilen
-- 9) Ergebnisse melden
-- 10) Gremium verwalten
-- Dokumente verwalten
+- [1) Stimmzettel erstellen](/wahlfunktionen/wfu1-wahlvorschlaege-u-stimmzettel-erstellen)
+- [2) Wähleranfragen bearbeiten / Wählerservice](/wahlfunktionen/wfu2-waehleranfragen-bearbeiten/)
+- [3) Wahlunterlagen generieren (Antragsbasierter Wählerservice)](/wahlfunktionen/wfu3-wahlunterlagen-generieren)
+- [4) Urnenwahl protokollieren](/wahlfunktionen/wfu4-urnenwahl-protokollieren)
+- [5) Onlinewahl prüfen](/wahlfunktionen/wfu5-onlinewahl-pruefen)
+- [6) Auszählung protokollieren](/wahlfunktionen/wfu6-auszaehlung-protokollieren)
+- [7) Stimmen erfassen](/wahlfunktionen/wfu7-stimmen-erfassen)
+- [8) Sitze zuteilen](/wahlfunktionen/wfu8-sitze-zuteilen)
+- [9) Ergebnisse melden](/wahlfunktionen/wfu9-ergebnisse-melden)
+- [10) Gremium verwalten](/wahlfunktionen/wfu10-gremium-verwalten)
+- [Dokumente verwalten](/wahlfunktionen/dokumente)

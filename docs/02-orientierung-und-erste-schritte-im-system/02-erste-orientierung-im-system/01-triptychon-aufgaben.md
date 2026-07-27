@@ -14,7 +14,7 @@ Als handlungsleitende Steuerung gelangen Sie nach dem Login in die obige **Aufga
 
 Interessant sind in diesem Zusammenhang folgende Verweise:
 
-- Aufgabenheft
-- Aufgaben bearbeiten
-- Helpdesk
-- Anträge
+- [Aufgabenheft](/aufgaben-management/)
+- [Aufgaben bearbeiten](/aufgaben-management/bearbeitungsdialog-einer-aufgabe)
+- [Helpdesk](/antraege-und-anfragen-helpdesk/helpdesk)
+- [Anträge](/antraege-und-anfragen-helpdesk/)
