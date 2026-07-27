@@ -5,10 +5,6 @@ sidebar_position: 0.5
 
 # Über dieses Handbuch
 
-**Elektra** – Wahlmanagement für verteilte Wahlprojekte
-
-**Kirchenwahlen (KV, PGR, KODA, MAV)** · Handbuch für Standortverantwortliche · Stand 07/2026
-
 ## Schreibkonventionen
 
 Zur besseren Übersicht gelten in dieser Dokumentation die folgenden Konventionen:
