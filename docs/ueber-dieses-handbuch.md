@@ -1,9 +1,9 @@
 ---
-title: "Über dieses Handbuch"
+title: "Hinweise & Konventionen"
 sidebar_position: 0.5
 ---
 
-# Über dieses Handbuch
+# Hinweise & Konventionen
 
 ## Schreibkonventionen
 

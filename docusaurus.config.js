@@ -72,7 +72,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Handbuch für Standortverantwortliche',
+        title: 'Onlinehilfe',
         logo: {
           alt: 'Elektra',
           src: 'img/logo.svg',

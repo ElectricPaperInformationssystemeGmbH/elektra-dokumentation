@@ -126,6 +126,26 @@
   vertical-align: middle;
 }
 
+/* Opt-in: Tabelle passt sich an ihren Inhalt an; die Bildspalte wird so breit
+   wie das Bild. Anwenden per <div className="tableFit"> … Tabelle … </div>. */
+.tableFit {
+  overflow-x: auto; /* Sicherheit: auf schmalen Bildschirmen scrollbar */
+}
+.tableFit table {
+  display: table;
+  width: auto;
+  table-layout: auto;
+}
+.tableFit table td:first-child,
+.tableFit table th:first-child {
+  width: 1%;
+  white-space: nowrap;
+}
+.tableFit table td:first-child img,
+.tableFit table th:first-child img {
+  max-width: none; /* Bild in natürlicher Größe -> Spalte richtet sich danach */
+}
+
 /* Bild + Text nebeneinander (z.B. hoher Screenshot links, Erklärung rechts) */
 .figSide {
   display: flex;

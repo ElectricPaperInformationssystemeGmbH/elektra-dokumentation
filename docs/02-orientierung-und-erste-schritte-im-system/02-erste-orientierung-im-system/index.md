@@ -20,12 +20,15 @@ In den folgenden Abschnitten werden die wesentlichen interaktiven Elemente der e
 
 **Kopfbereich**
 
+<div className="tableFit">
+
 | ![](img/image16.png) | Das **Hamburger-Menü** klappt den linken Menübereich zusammen und reduziert die Menüpunkte auf ein ICON. Das schafft Platz z.B. zur Anzeige breiterer Tabellen.                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](img/image17.png) | Mit dem **Fragezeichen-Symbol** gelangen Sie zu der **Elektra**-Onlinehilfe: [www.elektra.software](http://www.elektra.software)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ![](img/image18.png) | Eine Anzeige zeigt, in welchem Wahlprojekt Sie eingeloggt sind und wann der Wahlbeginn ist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ![](img/image19.png) | **Schnellwechsel zwischen Standorten**: Hier werden Ihnen bis zu zwei Projekte angezeigt, auf die Sie Zugriff haben. Haben Sie Zugriff auf mehr als zwei Projekte, werden die zuletzt aufgerufenen angezeigt. Wählen Sie eines der angezeigten Projekte aus, um ein Dropdown-Menü mit den zuletzt besuchten Standorten innerhalb des Projekts zu öffnen. Klicken Sie auf einen Standort, um diesen aufzurufen.                                                                                                                                                                   |
 | ![](img/image20.png) | Die **Benachrichtigungsfunktion** wird über ein Glockensymbol dargestellt. Neben der Glocke wird eine Zahl angezeigt, die angibt, wie viele Benachrichtigungen aktuell vorliegen. Benachrichtigungen werden beispielsweise angezeigt, wenn Aufgaben in Kürze fällig sind, auf einer Ihrer Anfragen geantwortet wurde oder ein Hintergrundprozess wie die Generierung von Dokumenten abgeschlossen wurde. Rechts daneben befindet sich die Schaltfläche **Abmelden**. Über diese Schaltfläche beenden Sie Ihre aktuelle Sitzung in **Elektra** und melden sich aus dem System ab. |
+
+</div>
 
 **Benachrichtigungsfunktion**
 
@@ -52,8 +55,21 @@ Der dunkelblaue Bereich links enthält den Menübaum sowie folgende zusätzliche
 </div>
 <div className="figSide__text">
 
-**Elektra Logo**: Ein Klick auf das Logo bringt Sie zurück zu der Ansicht, die Sie direkt nach dem Login sehen. Für Standort-Benutzer ist das in der Regel die Aufgaben-Übersicht. **Eingeloggt als**: Zeigt den Namen des aktuellen Nutzers an. **Wählerservice**: Bietet eine Übersicht über die Wahlräume, auf die Sie gemäß Ihrer Berechtigungen Zugriff haben. **Wiki**: Enthält von der Projektleitung bereitgestellte Artikel, z. B. zur Nutzung von **Elektra** oder zum Ablauf des Wahltages. **Wahlprojekt-Menübaum**: Abhängig von der zugewiesenen Rolle stellt der Menübaum unterschiedliche Funktionsbereiche zur Verfügung, die direkt aufgerufen werden können. Haben Sie Zugriff auf eine begrenzte Anzahl von Standorten, werden diese hier angezeigt und können direkt ausgewählt werden. **Profil**: Zeigt Ihnen die personenbezogenen Daten Ihres Profils an sowie Einstellungsmöglichkeiten, wie regelmäßig Benachrichtigungen zugestellt werden sollen. **Abmelden**: Beendet die aktuelle Sitzung. **Versionsnummer:** Zeigt die aktuelle Programmversion
+**Elektra Logo**: Ein Klick auf das Logo bringt Sie zurück zu der Ansicht, die Sie direkt nach dem Login sehen. Für Standort-Benutzer ist das in der Regel die Aufgaben-Übersicht.
 
+**Eingeloggt als**: Zeigt den Namen des aktuellen Nutzers an.
+
+**Wählerservice**: Bietet eine Übersicht über die Wahlräume, auf die Sie gemäß Ihrer Berechtigungen Zugriff haben. 
+
+**Wiki**: Enthält von der Projektleitung bereitgestellte Artikel, z. B. zur Nutzung von **Elektra** oder zum Ablauf des Wahltages. 
+
+**Wahlprojekt-Menübaum**: Abhängig von der zugewiesenen Rolle stellt der Menübaum unterschiedliche Funktionsbereiche zur Verfügung, die direkt aufgerufen werden können. Haben Sie Zugriff auf eine begrenzte Anzahl von Standorten, werden diese hier angezeigt und können direkt ausgewählt werden.
+
+**Profil**: Zeigt Ihnen die personenbezogenen Daten Ihres Profils an sowie Einstellungsmöglichkeiten, wie regelmäßig Benachrichtigungen zugestellt werden sollen. 
+
+**Abmelden**: Beendet die aktuelle Sitzung. 
+
+**Versionsnummer:** Zeigt die aktuelle Programmversion
 </div>
 </div>
 
