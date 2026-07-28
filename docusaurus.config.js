@@ -9,7 +9,7 @@ const require = createRequire(import.meta.url);
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Elektra-Onlinhilfe',
+  title: 'Elektra-Onlinehilfe',
   tagline: 'Wahlmanagement für verteilte Wahlprojekte',
   favicon: 'img/favicon.svg',
 

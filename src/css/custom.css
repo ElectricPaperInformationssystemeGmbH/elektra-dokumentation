@@ -174,6 +174,18 @@
   margin-top: 0;
 }
 
+/* Referenztabellen (Feld/Bedeutung): hier IST die erste Zeile eine echte
+   Kopfzeile -> wieder hervorheben. Anwenden per <div className="fieldTable"> … </div>. */
+.fieldTable table thead th {
+  font-weight: var(--ifm-font-weight-bold);
+  background-color: var(--ifm-color-emphasis-100);
+}
+/* erste Spalte (Feldname) etwas schmaler und nicht umbrechen lassen */
+.fieldTable table td:first-child {
+  white-space: nowrap;
+  font-weight: var(--ifm-font-weight-semibold);
+}
+
 /* Handbuch-Tabellen haben keine echte Kopfzeile:
    erste Zeile wie eine normale Zeile darstellen (nicht fett, linksbündig). */
 .markdown table thead th {

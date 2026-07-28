@@ -10,35 +10,59 @@ Das Panel Stammdaten enthält die zentralen Grunddaten des Standorts – von der
 ![](img/image87.png)
 *Bearbeitungsdialog Standort Stammdaten*
 
-**Standort-Gruppe**: Zuordnung zu einer organisatorischen Mittel-Ebene in der Territorialstruktur. Auswahl als Dropdown. Die Pflege der Auswahlwerte erfolgt durch die zentrale Projektleitung bzw. das Meldewesen.
+## Grunddaten
 
-**Kurztitel**: Dies ist der zentrale, einzeilige Titel. Im Kontext von Kirchenwahlen ist dies in der Regel die Bezeichnung der Gemeinde (Patrozinium + Ort).
+<div className="fieldTable">
 
-**Organisationseinheitsnummer**: Technisches Merkmal aus dem Datenimport. Diese Angabe kann in der Regel nicht bearbeitet werden.
+| Feld | Bedeutung |
+| --- | --- |
+| Standort-Gruppe | Zuordnung zu einer organisatorischen Mittel-Ebene in der Territorialstruktur (Dropdown). Die Auswahlwerte pflegt die zentrale Projektleitung bzw. das Meldewesen. |
+| Kurztitel | Zentraler, einzeiliger Titel – bei Kirchenwahlen in der Regel die Bezeichnung der Gemeinde (Patrozinium + Ort). |
+| Organisationseinheitsnummer | Technisches Merkmal aus dem Datenimport – *in der Regel nicht bearbeitbar*. |
+| Gremium ID | Interne Kennung des am Standort zu wählenden Gremiums (aus dem Import) – *in der Regel nicht bearbeitbar*. |
+| Text | Mehrzeiliges Freitext-Eingabefeld. |
+| Leitung des Standorts | Für den Standort/Betrieb hauptverantwortliche Person, so wie sie der Projektleitung für die zentrale Vorbefüllung bekannt ist. |
 
-**Gremium ID**: Ebenfalls ein technisches Merkmal aus dem Datenimport – die interne Kennung des am Standort zu wählenden Gremiums.
+</div>
 
-**Text**: Mehrzeiliges Freitext-Eingabefeld.
+## Kontakt & Medien
 
-**Leitung des Standorts**: Dies ist die für den Standort oder Betrieb hauptverantwortliche Person, so wie Sie der Projektleitung für die zentrale Vorbefüllung des Systems bekannt ist.
+<div className="fieldTable">
 
-**E-Mail**: E-Mailadresse, über die der Standort / die Leitung des Standortes erreicht werden kann.
+| Feld | Bedeutung |
+| --- | --- |
+| E-Mail | E-Mail-Adresse, über die der Standort bzw. die Standortleitung erreichbar ist. |
+| Telefon | Telefonnummer, über die der Standort bzw. die Standortleitung erreichbar ist. |
+| Website | Website des Standorts. |
+| Logo / Siegel | Upload eines Bildes zur Personalisierung von Schriftstücken. |
 
-**Telefon**: Telefonnummer, über die der Standort / die Leitung des Standortes erreicht werden kann.
+</div>
 
-**Website**: Website des Standorts.
-
-**Logo / Siegel**: Uploadmöglichkeit für ein Bild, das zur Personalisierung von Schriftstücken verwendet werden könnte.
-
-Im unteren Bereich des Panels Stammdaten folgen zwei weitere Abschnitte: die vollständige **Anschrift** des Standorts sowie eine **Ansprechperson für die Wahl**.
+Im unteren Bereich des Panels folgen zwei weitere Abschnitte: die vollständige **Anschrift** des Standorts sowie eine **Ansprechperson für die Wahl**.
 
 ![](img/image88.png)
 *Ansprechperson für die Wahl*
 
-**Adresse**: Organisation/Institution/Abteilung, Strasse, Nummer, Nummerzusatz, Postleitzahl, Stadt sowie **Öffnungszeiten** als mehrzeiliges Freitextfeld.
+## Anschrift
 
-**Ansprechperson für die Wahl**: Diese Person dient als zentraler Kontakt für Wahlangelegenheiten am Standort.
+<div className="fieldTable">
 
-**Person**: Anrede (unbekannt/Herr/Frau/Divers), Titel, Vorname, Nachname Zusatz, Nachname, Interne Notiz (rein internes Freitextfeld, erscheint nicht in Dokumentvorlagen).
+| Feld | Bedeutung |
+| --- | --- |
+| Adresse | Organisation/Institution/Abteilung, Straße, Nummer, Nummernzusatz, Postleitzahl, Stadt. |
+| Öffnungszeiten | Mehrzeiliges Freitextfeld. |
 
-**Kontakt**: E-Mail, Telefon, Fax, Mobil, Mobil (Privat), Erreichbar (Tage/Zeiten).
+</div>
+
+## Ansprechperson für die Wahl
+
+Diese Person dient als zentraler Kontakt für Wahlangelegenheiten am Standort.
+
+<div className="fieldTable">
+
+| Feld | Bedeutung |
+| --- | --- |
+| Person | Anrede (unbekannt/Herr/Frau/Divers), Titel, Vorname, Nachname-Zusatz, Nachname sowie eine **interne Notiz** (rein internes Freitextfeld, erscheint nicht in Dokumentvorlagen). |
+| Kontakt | E-Mail, Telefon, Fax, Mobil, Mobil (privat), Erreichbar (Tage/Zeiten). |
+
+</div>

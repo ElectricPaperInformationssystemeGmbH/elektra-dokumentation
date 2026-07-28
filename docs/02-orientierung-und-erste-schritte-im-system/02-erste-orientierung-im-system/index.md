@@ -20,9 +20,10 @@ In den folgenden Abschnitten werden die wesentlichen interaktiven Elemente der e
 
 **Kopfbereich**
 
+Im oberen Bereich sehen Sie das aktuelle Wahlprojekt und den festgelegten Wahlbeginn. Anschließend folgen diese Interaktionsschaltflächen:
 <div className="tableFit">
 
-| ![](img/image16.png) | Das **Hamburger-Menü** klappt den linken Menübereich zusammen und reduziert die Menüpunkte auf ein ICON. Das schafft Platz z.B. zur Anzeige breiterer Tabellen.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![](img/image16.png) | Das **Hamburger-Menü** klappt den linken Menübereich zusammen und reduziert die Menüpunkte auf ein Icon. Das schafft Platz z.B. zur Anzeige breiterer Tabellen.                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](img/image17.png) | Mit dem **Fragezeichen-Symbol** gelangen Sie zu der **Elektra**-Onlinehilfe: [www.elektra.software](http://www.elektra.software)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ![](img/image19.png) | **Schnellwechsel zwischen Standorten**: Hier werden Ihnen bis zu zwei Projekte angezeigt, auf die Sie Zugriff haben. Haben Sie Zugriff auf mehr als zwei Projekte, werden die zuletzt aufgerufenen angezeigt. Wählen Sie eines der angezeigten Projekte aus, um ein Dropdown-Menü mit den zuletzt besuchten Standorten innerhalb des Projekts zu öffnen. Klicken Sie auf einen Standort, um diesen aufzurufen.                                                                                                                                                                   |
@@ -83,15 +84,8 @@ Der Arbeitsbereich ist der zentrale Bereich von **Elektra**, in dem alle für di
 ![](img/image25.png)
 *Standortkopf*
 
-- Im **Standort-Kopf** wird zunächst angezeigt, welcher Standort aktuell ausgewählt ist. Dies ist insbesondere dann relevant, wenn Sie für mehrere Standorte tätig sind oder wenn übergeordnete Rollen, wie die Wahlleitung, Einblick in verschiedene Standorte nehmen. Verwenden Sie das Stift-Symbol, um direkt den Stammdaten-Dialog des Standortes aufzurufen.
-- Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus **Stammdaten**, **Aufgaben** und **Wahlfunktionen**, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes.
-
-Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus Stammdaten, Aufgaben und Wahlfunktionen, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes:
-
-![](img/image26.png)
-*Triptychon*
-
-Klicken Sie auf eine der drei Kacheln, um das darunter angezeigte Funktionsangebot zu wechseln. Im Folgenden werden die Grundfunktionen der drei Bereiche vorgestellt; weiterführende Informationen finden Sie über den Verweis am Ende des jeweiligen Abschnitts.
+1. Im **Standort-Kopf** wird zunächst angezeigt, welcher Standort aktuell ausgewählt ist. Dies ist insbesondere dann relevant, wenn Sie für mehrere Standorte tätig sind oder wenn übergeordnete Rollen, wie die Wahlleitung, Einblick in verschiedene Standorte nehmen. Verwenden Sie das Stift-Symbol, um direkt den Stammdaten-Dialog des Standortes aufzurufen.
+2. Innerhalb eines Standortes bildet das sogenannte **Triptychon**, bestehend aus **Stammdaten**, **Aufgaben** und **Wahlfunktionen**, den zentralen Einstieg in die verschiedenen Funktionsbereiche des jeweiligen Standortes. Klicken Sie auf eine der drei Kacheln, um das darunter angezeigte Funktionsangebot zu wechseln. Im Folgenden werden die Grundfunktionen der drei Bereiche vorgestellt; weiterführende Informationen finden Sie über den Verweis am Ende des jeweiligen Abschnitts.
 
 <!-- doccards:auto -->
 ## In diesem Kapitel
