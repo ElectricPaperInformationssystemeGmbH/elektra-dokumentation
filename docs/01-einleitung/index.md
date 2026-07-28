@@ -5,7 +5,7 @@ sidebar_position: 0
 
 # Einleitung
 
-Willkommen in der Onlinehilfe für **Standortverantwortliche**. Sie begleitet Sie Schritt für Schritt bei allen Aufgaben, die Sie für Ihren Standort im Wahlprojekt mit **Elektra** erledigen: vom Login und den Grundfunktionen über die Standort-Einstellungen, das Aufgaben-Management, Anträge und Anfragen sowie den Helpdesk bis hin zur Pflege der Stammdaten, dem Erstellen von Dokumenten aus Vorlagen und der Durchführung der Wahlfunktionen – von den Wahlvorschlägen über die Auszählung bis zur Ergebnismeldung und der Erfassung der Gremien.
+Willkommen in der **Elektra-Onlinehilfe** für **Standortverantwortliche**. Sie begleitet Sie Schritt für Schritt bei allen Aufgaben, die Sie für Ihren Standort im Wahlprojekt mit **Elektra** erledigen: vom Login und den Grundfunktionen über die Standort-Einstellungen, das Aufgaben-Management, Anträge und Anfragen sowie den Helpdesk bis hin zur Pflege der Stammdaten, dem Erstellen von Dokumenten aus Vorlagen und der Durchführung der Wahlfunktionen – von den Wahlvorschlägen über die Auszählung bis zur Ergebnismeldung und der Erfassung der Gremien.
 
 Nutzen Sie die Navigation links oder die Suche oben, um gezielt zum passenden Thema zu springen.
 
