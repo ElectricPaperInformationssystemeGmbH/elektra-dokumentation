@@ -32,11 +32,12 @@ In den folgenden Abschnitten werden die wesentlichen interaktiven Elemente der e
 
 **Benachrichtigungsfunktion**
 
-Die Benachrichtigungsfunktion (Glockensymbol) ermöglicht Ihnen den Zugriff auf alle systemseitigen Hinweise und Ereignisse, die für Ihre Arbeit im Wahlprojekt relevant sind. Sie dient dazu, Sie über aktuelle Entwicklungen zu informieren und einen direkten Zugriff auf zugehörige Inhalte bereitzustellen.
+Die Benachrichtigungsfunktion (Glockensymbol) ermöglicht Ihnen den Zugriff auf alle systemseitigen Hinweise und Ereignisse, die für Ihre Arbeit im Wahlprojekt relevant sind. Sie dient dazu, Sie über aktuelle Entwicklungen zu informieren und einen direkten Zugriff auf zugehörige Inhalte bereitzustellen. <br />
+Klicken Sie auf das **Glockensymbol**, um eine Übersicht der zuletzt eingegangenen Benachrichtigungen zu öffnen. Diese werden in einer Liste dargestellt und enthalten jeweils eine kurze Beschreibung sowie eine zeitliche Einordnung. Innerhalb dieser Liste können Sie beispielsweise generierte Dokumente direkt aufrufen oder zu Aufgaben springen, die in Kürze fällig sind.
+Am unteren Ende der Liste befindet sich die Schaltfläche „Alle Benachrichtigungen". Über diese gelangen Sie in eine separate Ansicht, in der sämtliche Benachrichtigungen vollständig dargestellt werden. In dieser Ansicht werden die Einträge in einer fortlaufenden Liste angezeigt.
 
-| ![](img/image21.png) | Klicken Sie auf das **Glockensymbol**, um eine Übersicht der zuletzt eingegangenen Benachrichtigungen zu öffnen. Diese werden in einer Liste dargestellt und enthalten jeweils eine kurze Beschreibung sowie eine zeitliche Einordnung. Innerhalb dieser Liste können Sie beispielsweise generierte Dokumente direkt aufrufen oder zu Aufgaben springen, die in Kürze fällig sind. |
-| --- | --- |
-| ![](img/image22.png) | Am unteren Ende der Liste befindet sich die Schaltfläche „Alle Benachrichtigungen". Über diese gelangen Sie in eine separate Ansicht, in der sämtliche Benachrichtigungen vollständig dargestellt werden. In dieser Ansicht werden die Einträge in einer fortlaufenden Liste angezeigt. |
+![](img/image22.png)
+*Kürzlich eingegangene Benachrichtigungen*
 
 Unterhalb der Liste stehen Ihnen weitere Funktionen zur Verfügung. Mit der Schaltfläche „Weitere Benachrichtigungen laden" können zusätzliche, ältere Einträge nachgeladen werden. Über die Schaltfläche **Alle Einträge löschen** haben Sie die Möglichkeit, die vorhandenen Benachrichtigungen vollständig zu entfernen.
 

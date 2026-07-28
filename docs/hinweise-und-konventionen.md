@@ -9,8 +9,6 @@ sidebar_position: 0.5
 
 Zur besseren Übersicht gelten in dieser Dokumentation die folgenden Konventionen:
 
-Programmcode ist in Courier gesetzt.
-
 **Verzeichnisse, Menüeinträge, Schaltflächen und Tasten sowie Eigennamen und Produktbezeichnungen sind fett gesetzt.**
 
 | Kästen geben weitere Beispiele, Tipps oder (Warn-)hinweise. |

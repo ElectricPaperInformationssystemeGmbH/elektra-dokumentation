@@ -5,9 +5,9 @@ sidebar_position: 0
 
 # Einleitung
 
-Dieses Handbuch ist eine gekürzte Fassung des vollständigen **Elektra**-Handbuchs. Es enthält ausschließlich die Inhalte, die für Standortverantwortliche im Wahlprojekt relevant sind: Login und Grundfunktionen, Standort-Einstellungen, Aufgaben-Management, Anträge und Anfragen sowie Helpdesk, Pflege der Stammdaten, Erstellung von Dokumenten aus Vorlagen sowie die Durchführung der Wahlfunktionen (Erstellung von Wahlvorschlägen bis zur Ergebnismeldung und Erfassung der Gremien).
+Willkommen in der Onlinehilfe für **Standortverantwortliche**. Sie begleitet Sie Schritt für Schritt bei allen Aufgaben, die Sie für Ihren Standort im Wahlprojekt mit **Elektra** erledigen: vom Login und den Grundfunktionen über die Standort-Einstellungen, das Aufgaben-Management, Anträge und Anfragen sowie den Helpdesk bis hin zur Pflege der Stammdaten, dem Erstellen von Dokumenten aus Vorlagen und der Durchführung der Wahlfunktionen – von den Wahlvorschlägen über die Auszählung bis zur Ergebnismeldung und der Erfassung der Gremien.
 
-Themen für zentrale Projektleitung, Systemkonfiguration und IT-Betrieb sind nicht Teil dieses Dokuments und in den dafür vorgesehenen Handbüchern beschrieben.
+Nutzen Sie die Navigation links oder die Suche oben, um gezielt zum passenden Thema zu springen.
 
 ## Ziel des Handbuchs
 
