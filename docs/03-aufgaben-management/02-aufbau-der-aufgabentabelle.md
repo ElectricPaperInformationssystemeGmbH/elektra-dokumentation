@@ -62,10 +62,10 @@ Aufgaben in **Elektra** sind immer mit einem Zieldatum versehen, zu welchem die 
 </div>
 
 ## Felder
-Zeigt, sofern die Aufgabe mit einer Datenabfrage (**Feedback**) hinterlegt ist, den Bearbeitungsstand der Fragen im Format „X von Y*" – also wie viele der vorgesehenen Fragen bereits beantwortet sind.
+Ist der Aufgabe eine Datenabfrage (**Feedback**) hinterlegt, zeigt diese Spalte den Bearbeitungsstand im Format „X von Y" an – also wie viele der vorgesehenen Fragen bereits beantwortet wurden. Andernfalls bleibt die Spalte leer.
 
 ## Hilfsmittel
-Listet die zur Aufgabe hinterlegten Hilfsmittel auf, jeweils mit Typ und Titel. Wurde kein Hilfsmittel hinterlegt, bleibt die Spalte leer. Wurde ein PDF-Dokument hinterlegt, können Sie es über die Schaltfläche „Vorschau" direkt einsehen.
+Listet die zur Aufgabe hinterlegten Hilfsmittel auf, jeweils mit Typ und Titel. Wurde kein Hilfsmittel hinterlegt, bleibt die Spalte leer. Wurde ein PDF-Dokument hinterlegt, können Sie es über die Schaltfläche **Vorschau** direkt einsehen.
 
 ![](img/image72.png)
 *PDF-Vorschau eines Hilfsmittels*
