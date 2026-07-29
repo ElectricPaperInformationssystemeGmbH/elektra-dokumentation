@@ -9,9 +9,9 @@ Bevor Sie mit dem Aufgabenheft arbeiten, lohnt sich ein Blick auf drei Grundkonz
 
 ## Aufgaben sind „Gemeingut“
 
-Ein wichtiges Grundprinzip. **Elektra** teilt Informationen in bestimmte Personenkreis oder Nutzerprofile ein. Dabei wird aber bewusst NICHT auf die Zuweisung von Aufgaben an Einzelpersonen abgestellt. Aufgaben sind in **Elektra** Gemeingut der beteiligten Akteure am Standort. Das bedeutet, dass die Aufgaben durch alle am Standort mit einem Nutzerzugriff berechtigten Mitglieder eingesehen und bearbeitet werden können.
+Ein wichtiges Grundprinzip. **Elektra** teilt Informationen in bestimmte Personenkreise oder Nutzerprofile ein. Dabei wird aber bewusst NICHT auf die Zuweisung von Aufgaben an Einzelpersonen abgestellt. Aufgaben sind in **Elektra** Gemeingut der beteiligten Akteure am Standort. Das bedeutet, dass die Aufgaben durch alle am Standort mit einem Nutzerzugriff berechtigten Mitglieder eingesehen und bearbeitet werden können.
 
-- Über die Spalte „Bearbeitet von" ist zwar erkennbar, wer eine Aufgabe zuletzt bearbeitet hat – nicht jedoch, welche konkrete Änderung (z. B. am Status) diese Person vorgenommen hat
+- Über die Spalte **Bearbeitet von** ist zwar erkennbar, wer eine Aufgabe zuletzt bearbeitet hat – nicht jedoch, welche konkrete Änderung (z. B. am Status) diese Person vorgenommen hat
 - Namentliche Notizen können aber über die Kommentar-Funktion gesetzt werden.
 - Aber: Wichtige Protokolle sind in Form von Formularen, Dokumenten, Checklisten auszudrucken und schriftlich zu Nachweiszwecken zu dokumentieren. Insbesondere bei den Wahlfunktionen wird darauf abgestellt, eine vollständige (digitale) Wahlakte entstehen zu lassen.
 
@@ -26,7 +26,6 @@ Jede Aufgabe muss zu einer Phase gehören. Phasen werden über ein Kürzel sorti
 
 Jede Aufgabe unterliegt einem Statusnetz:
 
-- Nicht begonnen
 - Offen
 - In Bearbeitung
 - Fertig
@@ -38,11 +37,11 @@ Technisch gibt es zusätzlich den Status **überfällig**, der automatisch verge
 ![](img/image53.png)
 *Aufgabenübersicht mit Phasen und Status*
 
-- Die Stati werden je Phase in den Kreisdiagrammen dargestellt.
-- Schaltflächen erlauben Ihnen die Aufgaben-Anzeige zu filtern:
+1. Die Stati werden je Phase in den Kreisdiagrammen dargestellt.
+2. Schaltflächen erlauben Ihnen die Aufgaben-Anzeige zu filtern:
 - Zeige alle Aufgaben. Nutzen Sie diese Schaltfläche, um zum Ausgangszustand zurückzukehren.
-- Zeige Aufgaben, die „**nicht begonnen, offen oder in Bearbeitung sind**“
+- Zeige Aufgaben, die „**offen oder in Bearbeitung sind**“
 - Zeige Aufgaben, die „**offen sind**“
 - Zeige Aufgaben, die „**in Bearbeitung**“ sind
 - Zeige Aufgaben, die erledigt  sind
-- Aufgaben können ebenfalls mit Schlagwörtern, so genannten Tags, versehen sein. Diese sind durch die Projektleitung frei definierbar. Beispielsweise könnte es Aufgaben geben, die nur im Falle einer Online- oder Urnenwahl relevant sind. Über ein eigenes Filterfeld können Sie gezielt nach diesen Tags filtern.
+3. Aufgaben können ebenfalls mit Schlagwörtern, so genannten Tags, versehen sein. Diese sind durch die Projektleitung frei definierbar. Beispielsweise könnte es Aufgaben geben, die nur im Falle einer Online- oder Urnenwahl relevant sind. Über ein eigenes Filterfeld können Sie gezielt nach diesen Tags filtern.
