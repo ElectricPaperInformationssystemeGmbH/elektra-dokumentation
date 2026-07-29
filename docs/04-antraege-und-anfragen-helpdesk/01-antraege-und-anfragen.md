@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ## Anträge an die Zentrale Projektleitung
 
-<div style={{maxWidth: '480px'}}>
+<div style={{maxWidth: '500px'}}>
 
 ![](img/image80.png)
 *Antrag an die zentrale Projektleitung stellen*
@@ -40,7 +40,7 @@ Wenn die Projektleitung formelle Anträge für das Wahlprojekt vorgesehen hat, s
 
 Nach der Auswahl öffnet sich der Dialog zur Bearbeitung des Antrags. Es handelt sich dabei um eine Feedback-Aufgabe mit Hilfsmitteln und Antwortfeldern, wie Sie es aus der Aufgabenbearbeitung kennen. Diese kann sowohl das formale Dokument als Musterdatei anbieten als auch einen Upload-Dialog, über den das unterschriebene und gescannte Dokument hochgeladen werden kann.
 
-<div style={{maxWidth: '420px'}}>
+<div style={{maxWidth: '500px'}}>
 
 ![](img/image83.png)
 *Formaler Antrag als Feedback-Aufgabe*
