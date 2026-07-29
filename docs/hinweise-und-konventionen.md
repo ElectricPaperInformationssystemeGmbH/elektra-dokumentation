@@ -32,6 +32,6 @@ Adobe® sowie das Dateiformat PDF (Portable Document Format) sind Marken bzw. ei
 
 Vimeo® ist eine Marke von Vimeo, Inc.
 
-Keycloak, uniWAHL und uniWAHL OWS sind Marken ihrer jeweiligen Rechteinhaber.
+Keycloak ist eine Marke ihrer jeweiligen Rechteinhaber.
 
 Alle anderen Warenzeichen in dieser Dokumentation können Marken und / oder eingetragene Marken ihrer jeweiligen Eigentümer sein.
