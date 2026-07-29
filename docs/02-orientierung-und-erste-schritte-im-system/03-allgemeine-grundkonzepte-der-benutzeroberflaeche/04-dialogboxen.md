@@ -11,8 +11,12 @@ Beim Öffnen einer Dialogbox wird der Hintergrund der Anwendung abgedunkelt, sod
 
 Zum Speichern, Abbrechen und Schließen der Dialogbox dienen die Schaltflächen **Speichern**, **Abbrechen** und das „**x**“ in der oberen rechten Ecke; ihre Wirkung ist unter [Grundlegende Interaktionen](./grundlegende-interaktionen) beschrieben.
 
+<div style={{maxWidth: '560px'}}>
+
 ![](img/image48.png)
 *Modaldialog (Standort-Details)*
+
+</div>
 
 ## Panels
 
@@ -22,8 +26,12 @@ Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere w
 | --- |
 | Um schnell zu einem bestimmten Panel zu gelangen, empfiehlt es sich, zunächst alle Panels einzuklappen und anschließend gezielt den gewünschten Bereich zu öffnen. |
 
+<div style={{maxWidth: '560px'}}>
+
 ![](img/image49.png)
 *Modaldialog mit zugeklappten Panels*
+
+</div>
 
 ## Eingabefelder
 
@@ -41,7 +49,7 @@ Innerhalb der **Panels** finden Sie Felder, in denen Sie Daten erfassen können.
 </div>
 
 ![](img/image50.png)
-*Eingabefelder in einer Dialogbox*
+*Datumsfeld in einer Dialogbox*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
@@ -50,6 +58,8 @@ Innerhalb der **Panels** finden Sie Felder, in denen Sie Daten erfassen können.
 ### Pflichtfelder
 
 Felder, die mit einem roten Sternchen gekennzeichnet sind, sind Pflichtfelder (bspw. der Kurztitel des Standortes). Der Dialog kann erst gespeichert werden, sobald ein Wert in das Eingabefeld eingetragen wurde.
+![](img/image301.png)
+*Pflichtfeld in einem Dialog*
 
 ## Plausibilitätsprüfungen
 
