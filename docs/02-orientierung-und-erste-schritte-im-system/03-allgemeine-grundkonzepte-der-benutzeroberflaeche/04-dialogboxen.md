@@ -54,17 +54,3 @@ Zusätzlich werden Eingabefelder rot hervorgehoben, wenn durch die Eingabe eine 
 
 ![](img/image52.png)
 *Rot markiertes Pflichtfeld bei Plausibilitätsverletzung*
-
-**Zusammenfassung**
-
-Sie haben in diesem Kapitel die Grundlagen für die tägliche Arbeit mit Elektra kennengelernt. Zusammengefasst wissen Sie jetzt:
-
-- Wie Sie sich in Elektra anmelden – über die interne Login-Maske, ein Registrierungsformular oder Single Sign-On (Keycloak/Microsoft Entra ID) – und wie Sie bei Bedarf Ihr Passwort zurücksetzen oder die Zwei-Faktor-Authentifizierung einrichten.
-- Welche Rolle Sie als Standortverantwortliche Person im System einnehmen und welche weiteren Rollen es in Elektra gibt.
-- Was sich hinter den drei Kacheln des Triptychons verbirgt: die Aufgabenübersicht, der Stammdatenbereich und die nach dem typischen Wahlablauf sortierten Wahlfunktionen.
-- Das wiederkehrende „Menü, Tabelle, Maske"-Prinzip, nach dem alle Funktionen in Elektra einheitlich aufgebaut sind.
-- Die wichtigsten Schaltflächen und Interaktionen, die Ihnen in Tabellen und Masken immer wieder begegnen: Anlegen, Bearbeiten, Löschen, Speichern, Abbrechen sowie Dokumente erzeugen, hoch- und herunterladen.
-- Wie Tabellen aufgebaut sind und welche Funktionen Tabellenkopf, Spaltenkopf, Tabelleninhalt und Fußbereich bieten – von der Volltextsuche über Filter und Sortierung bis zum Export und der Seitennavigation.
-- Wie Dialogboxen funktionieren, wie sich Panels ein- und ausklappen lassen und wie Plausibilitätsmeldungen Sie auf fehlende oder fehlerhafte Eingaben hinweisen.
-
-Mit diesem Grundwissen sind Sie gut gerüstet, um sich im weiteren Verlauf des Handbuchs mit den konkreten Funktionsbereichen von Elektra auseinanderzusetzen – beginnend mit dem Aufgaben-Management im nächsten Kapitel.
