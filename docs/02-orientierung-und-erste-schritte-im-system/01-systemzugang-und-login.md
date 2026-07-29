@@ -5,9 +5,9 @@ sidebar_position: 1
 
 # Systemzugang und Login
 
-**Elektra** wird von Ihrer Organisation in der Regel als Intranet-Anwendung bereitgestellt. **Elektra** ist dabei als Webanwendung konzipiert und wird über einen Webbrowser im Intranet aufgerufen. Sie müssen sich daher einloggen und authentifizieren. Um das zu ermöglichen, verwaltet **Elektra** die Anwender mit User-Logins. Je nach Konfiguration stehen zwei verschiedene Methoden bereit: Die interne Verwaltung der Zugänge und die externe Verwaltung in einem Nutzerkatalog (z.B. **Active** **Directory** oder **Microsoft** **EntraID**). Durch letzteres kann ein sogenanntes Single-Sign-On ermöglicht werden. Das bedeutet, dass Sie sich aus einer bereits authentisierten Umgebung per Klick – ganz ohne erneute Anmeldung – in das System begeben können.
+**Elektra** wird von Ihrer Organisation in der Regel als Intranet-Anwendung bereitgestellt. **Elektra** ist dabei als Webanwendung konzipiert und wird über einen Webbrowser im Intranet aufgerufen. Sie müssen sich daher einloggen und authentifizieren. Um das zu ermöglichen, verwaltet **Elektra** die Anwender mit User-Logins. Je nach Konfiguration stehen zwei verschiedene Methoden bereit: Die interne Verwaltung der Zugänge und die externe Verwaltung in einem Nutzerkatalog (z.B. **Active Directory** oder **Microsoft Entra ID**). Durch letzteres kann ein sogenanntes Single-Sign-On ermöglicht werden. Das bedeutet, dass Sie sich aus einer bereits authentisierten Umgebung per Klick – ganz ohne erneute Anmeldung – in das System begeben können.
 
-**Erstzugang und Passwortvergabe**
+## Erstzugang und Passwortvergabe
 
 ![](img/image4.png)
 *Benachrichtigung über den neu angelegten Zugang*
@@ -33,10 +33,8 @@ Es öffnet sich eine Eingabemaske, in der Sie Ihr neues Passwort sowohl im Feld 
 
 Mit einem Klick auf „**Passwort neu setzen**“ wird das Passwort gespeichert. Anschließend können Sie sich mit Ihrem persönlichen Passwort in **Elektra** anmelden.
 
-Alternativ kann Ihr Zugang – sofern die Projektleitung dies vorgesehen hat – auch über ein Registrierungsformular selbst eingerichtet werden (siehe folgender Abschnitt).
-
-- **Verwendung des Registrierungsformulars**
-- Alternativ zum oben beschriebenen Erstzugang durch die Projektleitung kann Ihr Zugang zu **Elektra** über ein Registrierungsformular eingerichtet werden. Die Nutzung dieses Formulars muss durch die Projektleitung vorgesehen werden und kommt daher nicht in jedem Wahlprojekt zum Einsatz. Ob dies bei Ihnen der Fall ist, wird Ihnen im Vorfeld mitgeteilt; den Link zum Formular erhalten Sie dann von Ihrer Projektleitung.
+## Verwendung des Registrierungsformulars
+Alternativ zum oben beschriebenen Erstzugang durch die Projektleitung kann Ihr Zugang zu **Elektra** über ein Registrierungsformular eingerichtet werden. Die Nutzung dieses Formulars muss durch die Projektleitung vorgesehen werden und kommt daher nicht in jedem Wahlprojekt zum Einsatz. Ob dies bei Ihnen der Fall ist, wird Ihnen im Vorfeld mitgeteilt; den Link zum Formular erhalten Sie dann von Ihrer Projektleitung.
 
 ![](img/image8.png)
 *Registrierungsformular*
@@ -56,7 +54,7 @@ Abschließend geben Sie Ihre E-Mail-Adresse sowie ein Passwort ein, das Sie kün
 
 Im Anschluss erhalten Sie eine E-Mail an Ihre hinterlegte E-Mail-Adresse. Klicken Sie in dieser E-Mail auf die Schaltfläche „**Bestätigen**“, um die Registrierung abzuschließen. Sobald Ihr Account durch eine Administratorin oder einen Administrator freigegeben wurde, können Sie **Elektra** nutzen und werden darüber per E-Mail informiert.
 
-- **Der interne Login-Dialog**
+## Der interne Login-Dialog
 
 ![](img/image11.png)
 *Interner Login-Dialog mit möglichen Fehlermeldungen*
@@ -67,7 +65,7 @@ Geben Sie anschließend Ihr persönliches Passwort in das entsprechende Eingabef
 
 Wenn Sie sich mehrfach vergeblich eingeloggt haben, wird Ihnen der Zugang zeitweise gesperrt. Dies ist ein Sicherheitsmechanismus, der sogenannte Brute-Force-Angriffe und DDOS-Attacken abwehrt.
 
-- **Passwort vergessen**
+### Passwort vergessen
 
 ![](img/image12.png)
 *Passwort vergessen und zurücksetzen*
@@ -82,7 +80,7 @@ Anschließend öffnet sich eine Maske. Geben Sie hier Ihr neues Passwort ein (so
 
 Klicken Sie anschließend auf Passwort neu setzen. Danach können Sie sich mit Ihrem neuen Passwort anmelden.
 
-- **Einrichtung der Zwei-Faktor-Authentifizierung**
+### Einrichtung der Zwei-Faktor-Authentifizierung
 
 Zusätzlich zum bisher beschriebenen Login kann der Zugang zu **Elektra** durch eine Zwei-Faktor-Authentifizierung (2FA) abgesichert sein: Neben dem Passwort wird dabei ein zweiter Bestätigungsfaktor verlangt, etwa ein Einmalcode, biometrische Daten oder ein physisches Gerät. Das erhöht die Sicherheit erheblich, da unbefugter Zugriff dadurch deutlich erschwert wird. Ist 2FA aktiviert, werden Sie nach Ihrer ersten Anmeldung automatisch zur Einrichtung weitergeleitet.
 
@@ -95,9 +93,10 @@ Die App erzeugt anschließend einen **Code**, der regelmäßig erneuert wird. Ge
 
 Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftigen Anmeldungen wird zusätzlich zum Passwort der jeweils aktuelle Code aus der Authentifizierungs-App abgefragt.
 
-- **Login über Single Sign-On (Keycloak / Microsoft** **EntraID****)**
-- Alternativ zum internen Login kann Ihre Organisation die Anmeldung über einen externen Single-Sign-On-Dienst konfiguriert haben. In diesem Fall melden Sie sich nicht direkt in **Elektra** an, sondern über einen der folgenden Dienste:
-- **Keycloak** ist ein zentraler Anmeldedienst (Single Sign-On), über den Sie sich einmalig anmelden und automatisch Zugriff auf mehrere verbundene Systeme erhalten, ohne sich erneut authentifizieren zu müssen.
+## Login über Single Sign-On (Keycloak / Microsoft Entra ID)
+Alternativ zum internen Login kann Ihre Organisation die Anmeldung über einen externen Single-Sign-On-Dienst konfiguriert haben. In diesem Fall melden Sie sich nicht direkt in **Elektra** an, sondern über einen der folgenden Dienste:
+
+**Keycloak** ist ein zentraler Anmeldedienst (Single Sign-On), über den Sie sich einmalig anmelden und automatisch Zugriff auf mehrere verbundene Systeme erhalten, ohne sich erneut authentifizieren zu müssen.
 
 ![](img/image14.png)
 *Anmeldung über Keycloak*
@@ -106,7 +105,7 @@ Nach erfolgreicher Einrichtung können Sie **Elektra** verwenden. Bei zukünftig
 - **Einloggen bei Keycloak**
 - Sie loggen sich gegen **Keycloak** ein. **Keycloak** seinerseits prüft ihre Authentisierung und gibt Ihnen entsprechenden Zugang.
 - In diesem Zusammenhang kann es sein, dass die externen Identity Provider oder das interne **Keycloak**-System von Ihnen weitere Informationen im Rahmen der bereits beschriebenen Zwei-Faktor-Authentifizierung (2FA) abverlangen.
-- Ist stattdessen **Microsoft** **EntraID** als Anmeldeverfahren konfiguriert, läuft die Anmeldung analog ab: Klicken Sie auf die entsprechend benannte Schaltfläche, um zur externen Login-Maske zu gelangen.
+- Ist stattdessen **Microsoft Entra ID** als Anmeldeverfahren konfiguriert, läuft die Anmeldung analog ab: Klicken Sie auf die entsprechend benannte Schaltfläche, um zur externen Login-Maske zu gelangen.
 - **Rollen in Elektra**
 - Mit dem erfolgreichen Login gelangen Sie in das System und erhalten Zugriff entsprechend der gesetzten Rollen und den damit verbundenen Privilegien. **Elektra** kann diesbezüglich frei konfiguriert werden, hat aber von Haus aus mehrere Rollen sinnvoll vorbesetzt. Als Standortverantwortlicher betrifft Sie insbesondere die folgende Rolle:
 - **Standortverantwortliche(r) (Ihre Rolle):** Hauptnutzerrolle in **Elektra**. Standortverantwortliche sind für die operative Umsetzung der Wahl an ihrem Standort zuständig. Sie bearbeiten die im Aufgabenheft definierten Aufgaben, verwalten die standortbezogenen Stammdaten (z. B. Gemeindedaten, Pflege des Wählerverzeichnisses und Erfassung von Kandidaten) und erstellen wahlrelevante Dokumente. Darüber hinaus sind sie für die digitale Dokumentation der Stimmauszählung verantwortlich.

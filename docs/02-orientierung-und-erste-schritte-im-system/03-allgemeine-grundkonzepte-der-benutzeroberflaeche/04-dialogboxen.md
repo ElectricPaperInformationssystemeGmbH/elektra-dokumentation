@@ -59,7 +59,7 @@ Zusätzlich werden Eingabefelder rot hervorgehoben, wenn durch die Eingabe eine 
 
 Sie haben in diesem Kapitel die Grundlagen für die tägliche Arbeit mit Elektra kennengelernt. Zusammengefasst wissen Sie jetzt:
 
-- Wie Sie sich in Elektra anmelden – über die interne Login-Maske, ein Registrierungsformular oder Single Sign-On (Keycloak/Microsoft EntraID) – und wie Sie bei Bedarf Ihr Passwort zurücksetzen oder die Zwei-Faktor-Authentifizierung einrichten.
+- Wie Sie sich in Elektra anmelden – über die interne Login-Maske, ein Registrierungsformular oder Single Sign-On (Keycloak/Microsoft Entra ID) – und wie Sie bei Bedarf Ihr Passwort zurücksetzen oder die Zwei-Faktor-Authentifizierung einrichten.
 - Welche Rolle Sie als Standortverantwortliche Person im System einnehmen und welche weiteren Rollen es in Elektra gibt.
 - Was sich hinter den drei Kacheln des Triptychons verbirgt: die Aufgabenübersicht, der Stammdatenbereich und die nach dem typischen Wahlablauf sortierten Wahlfunktionen.
 - Das wiederkehrende „Menü, Tabelle, Maske"-Prinzip, nach dem alle Funktionen in Elektra einheitlich aufgebaut sind.
