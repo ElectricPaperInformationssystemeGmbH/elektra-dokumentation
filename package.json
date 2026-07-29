@@ -2,6 +2,7 @@
   "name": "elektra-handbuch-standortverantwortliche",
   "version": "1.0.0",
   "private": true,
+  "license": "UNLICENSED",
   "description": "Elektra – Handbuch für Standortverantwortliche (Docusaurus)",
   "scripts": {
     "start": "docusaurus start",

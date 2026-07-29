@@ -69,22 +69,15 @@ docs/
 - Titel, Footer, Farben: `docusaurus.config.js` und `src/css/custom.css`
 - Deployment-URL: `url` und `baseUrl` in `docusaurus.config.js`
 
-## Lizenz
+## Rechtliche Hinweise
 
-Die Inhalte dieser Dokumentation (die Markdown-Dateien in `docs/` und die
-zugehörigen Bilder) stehen unter der Lizenz
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
-(Namensnennung – Nicht kommerziell – Keine Bearbeitungen).
+© Electric Paper Informationssysteme GmbH. Alle Rechte vorbehalten.
 
-Das bedeutet: Weitergabe nur in unveränderter Form, ausschließlich zu
-nicht-kommerziellen Zwecken und mit Namensnennung. Bearbeitungen (abgeleitete
-Werke) und jede kommerzielle Nutzung sind ohne gesonderte Erlaubnis nicht
+Diese Dokumentation dient ausschließlich der Information für Kunden und Nutzer
+unserer Produkte. Eine Vervielfältigung, Bearbeitung oder Weiterverbreitung –
+auch auszugsweise – ist ohne ausdrückliche schriftliche Zustimmung nicht
 gestattet.
 
-Ausgenommen sind Marken, Produktnamen und Logos (u. a. „Elektra" und das
-Electric-Paper-Logo), Software-Screenshots sowie eingebettete Videos; der
-technische Docusaurus-Rahmen (Code/Konfiguration) ist nicht separat
-open-source-lizenziert. Einzelheiten und der vollständige Lizenztext stehen in
-der Datei [`LICENSE`](./LICENSE).
-
-© 2026 Electric Paper Informationssysteme GmbH
+Das Repository ist öffentlich einsehbar; dies stellt jedoch keine Freigabe zur
+Weiterverwendung dar. Es wird bewusst keine Open-Source- oder Creative-Commons-
+Lizenz gewährt (siehe `"license": "UNLICENSED"` in der `package.json`).
