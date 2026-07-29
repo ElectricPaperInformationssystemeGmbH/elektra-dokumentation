@@ -13,8 +13,11 @@ Innerhalb einer Aufgabenphase sind eine oder mehrere Aufgaben enthalten. Diese w
 ## Art
 Hier wird dargestellt, zu welcher **Aufgabenkategorie** die Aufgabe gehört. Dies bieten einen schnellen Überblick, was in etwa bei der Aufgabe zu tun ist. Folgende Aufgabenkategorien sind standardmäßig in **Elektra** vorhanden:
 
-| ![](img/image56.png) | Aushang |
+<div className="fieldTable">
+
+| Symbol | Aufgabenkategorie |
 | --- | --- |
+| ![](img/image56.png) | Aushang |
 | ![](img/image57.png) | Meeting |
 | ![](img/image58.png) | Ankündigung/Bekanntgabe |
 | ![](img/image59.png) | Lesen & Lernen |
@@ -26,6 +29,8 @@ Hier wird dargestellt, zu welcher **Aufgabenkategorie** die Aufgabe gehört. Die
 | ![](img/image65.png) | Feedback |
 | ![](img/image66.png) | Wählerverzeichnis |
 | ![](img/image67.png) | Entscheidung |
+
+</div>
 
 Bitte beachten Sie, dass Icons und deren Hintergrundfarbe seitens der Projektleitung frei definierbar sind und weitere Aufgabenkategorien ergänzt werden können.
 
@@ -46,10 +51,15 @@ Zeigt den aktuellen **Bearbeitungsstatus** als farbiges Symbol sowie die Bezeich
 ## Frist
 Aufgaben in **Elektra** sind immer mit einem Zieldatum versehen, zu welchem die Aufgabe erledigt sein muss. Die Fristenanzeige ändert hierbei ihre Darstellung, je nachdem wie weit die Frist in der Zukunft liegt:
 
-| ![](img/image68.png) | Aufgabe weit in der Zukunft - blau |
+<div className="fieldTable">
+
+| Anzeige | Bedeutung |
 | --- | --- |
-| ![](img/image69.png) | Aufgabe nahend - gelb |
-| ![](img/image70.png) ![](img/image71.png) | Aufgabe diese Woche - rot |
+| ![](img/image68.png) | Aufgabe weit in der Zukunft (blau) |
+| ![](img/image69.png) | Aufgabe nahend (gelb) |
+| ![](img/image70.png) ![](img/image71.png) | Aufgabe diese Woche (rot) |
+
+</div>
 
 ## Felder
 Zeigt, sofern die Aufgabe mit einer Datenabfrage (**Feedback**) hinterlegt ist, den Bearbeitungsstand der Fragen im Format „X von Y*" – also wie viele der vorgesehenen Fragen bereits beantwortet sind.
