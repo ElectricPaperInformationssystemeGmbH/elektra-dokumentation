@@ -22,7 +22,7 @@ Diese Dokumentation kann fiktive Namen für Demonstrationszwecke enthalten; Verw
 
 Aus Gründen der besseren Lesbarkeit wird bei Personenbezeichnungen und personenbezogenen Hauptwörtern in dieser Dokumentation die männliche Form verwendet. Entsprechende Begriffe gelten im Sinne der Gleichbehandlung grundsätzlich für alle Geschlechter.
 
-## Warenmarken
+## Marken
 
 Microsoft®, Windows®, Microsoft Word®, Microsoft Excel®, Microsoft Entra ID® und Microsoft Authenticator sowie weitere Microsoft-Produkte sind Warenzeichen oder eingetragene Warenzeichen der Microsoft Corporation.
 
