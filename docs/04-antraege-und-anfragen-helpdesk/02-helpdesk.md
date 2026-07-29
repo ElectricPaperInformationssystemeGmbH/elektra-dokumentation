@@ -1,6 +1,6 @@
 ---
 title: "Helpdesk"
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Helpdesk
@@ -15,4 +15,4 @@ Wenn von Ihrer Wahlleitung freigeschaltet, gibt es die Möglichkeit, Helpdeskanf
 ![](img/image84.png)
 *Helpdesk-Ticketübersicht*
 
-Da Helpdesk-Tickets Aufgaben sind, die zwischen bestimmten Fachverantwortlichen und den Standort hin- und her fließen, ist die Bearbeitung identisch mit der Bearbeitung von Aufgaben.
+Helpdesk-Tickets werden wie die übrigen [Anträge und Anfragen](./antraege-und-anfragen) bearbeitet – hier zwischen dem Standort und den jeweils zuständigen Fachverantwortlichen.
