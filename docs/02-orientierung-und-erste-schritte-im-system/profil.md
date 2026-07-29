@@ -33,7 +33,7 @@ Die mit einem roten Sternchen gekennzeichneten Felder sind Pflichtfelder und mü
 
 </div>
 
-| **Hinweis** |
+| **Hinweis** ![](img/image9.png) |
 | --- |
 | Fahren Sie mit dem Cursor über das „i“ neben dem Feld **Passwort**, um diese Anforderungen anzuzeigen. |
 
