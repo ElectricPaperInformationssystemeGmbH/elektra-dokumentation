@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # Anträge und Anfragen
 
+**Anträge und Anfragen** sind ein strukturierter Weg, Anliegen zwischen Standort und zentraler Projektleitung zu klären – direkt in **Elektra** statt per E-Mail. Ein **Antrag** ist ein Anliegen, das der Standort an die Zentrale richtet, etwa die Bitte um eine Entscheidung oder Freigabe (beispielsweise zur Änderung der Anzahl zu besetzender Sitze). Eine **Anfrage** läuft in die Gegenrichtung, wenn die Zentrale etwas vom Standort benötigt. Beide werden im selben Bereich gestellt, bearbeitet und nachvollziehbar dokumentiert.
+
 Über das Feld **Nächster Schritt** legen Sie bei jedem Antrag bzw. jeder Anfrage fest, wer als Nächstes „am Zug" ist – so bleibt jederzeit klar, bei wem die Verantwortung für den nächsten Schritt liegt. Zur grundlegenden Funktionsweise dieser hin- und herfließenden Aufgaben siehe die [Kapitelübersicht](./).
 
 ## Anträge an die Zentrale Projektleitung
