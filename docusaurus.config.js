@@ -91,7 +91,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© Electric Paper Wahlsysteme ${new Date().getFullYear()} · Elektra Wahlmanagement`,
+        copyright: `© Electric Paper Informationssysteme GmbH ${new Date().getFullYear()} · Elektra Wahlmanagement<br/>Inhalte lizenziert unter <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank" rel="noopener noreferrer">CC BY-NC-ND 4.0</a>`,
       },
       prism: {
         theme: prismThemes.github,

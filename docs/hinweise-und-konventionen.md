@@ -35,3 +35,11 @@ Vimeo® ist eine Marke von Vimeo, Inc.
 Keycloak ist eine Marke ihrer jeweiligen Rechteinhaber.
 
 Alle anderen Warenzeichen in dieser Dokumentation können Marken und / oder eingetragene Marken ihrer jeweiligen Eigentümer sein.
+
+## Lizenz
+
+Die Inhalte dieser Onlinehilfe stehen unter der Lizenz [Creative Commons Namensnennung – Nicht kommerziell – Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de). Sie dürfen ausschließlich in unveränderter Form, zu nicht-kommerziellen Zwecken und mit Namensnennung weitergegeben werden. Bearbeitungen und kommerzielle Nutzung bedürfen der vorherigen Zustimmung der Electric Paper Informationssysteme GmbH.
+
+Von der Lizenz ausgenommen sind Marken, Produktnamen und Logos (insbesondere **Elektra** und das Electric-Paper-Logo), Software-Screenshots sowie eingebettete Videos.
+
+© 2026 Electric Paper Informationssysteme GmbH
