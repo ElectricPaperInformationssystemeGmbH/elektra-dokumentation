@@ -15,4 +15,6 @@ Wenn von Ihrer Wahlleitung freigeschaltet, gibt es die Möglichkeit, Helpdeskanf
 ![](img/image84.png)
 *Helpdesk-Ticketübersicht*
 
+Sie legen ein neues Helpdesk-Ticket an, indem Sie auf die Schaltfläche **+ Helpdesk-Ticket hinzufügen** klicken.
+
 Helpdesk-Tickets werden wie die übrigen [Anträge und Anfragen](./antraege-und-anfragen) bearbeitet – hier zwischen dem Standort und den jeweils zuständigen Fachverantwortlichen.
