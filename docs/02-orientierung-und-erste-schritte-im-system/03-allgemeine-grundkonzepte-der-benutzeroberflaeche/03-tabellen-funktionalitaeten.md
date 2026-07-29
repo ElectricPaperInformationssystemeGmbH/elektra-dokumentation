@@ -28,7 +28,7 @@ Im oberen Bereich der Tabelle (Tabellenkopf) befinden sich grundlegende Steuerun
 
 7. **Export-Möglichkeiten**: Die Inhalte der Tabelle können in verschiedenen Formaten exportiert werden. Dazu zählen CSV-, XLSX- und PDF-Dateien sowie die Möglichkeit, die Daten in die Zwischenablage zu kopieren.
 
-<div style={{maxWidth: '172px'}}>
+<div style={{maxWidth: '230px', marginLeft: '2rem'}}>
 
 ![](img/image42.png)
 
