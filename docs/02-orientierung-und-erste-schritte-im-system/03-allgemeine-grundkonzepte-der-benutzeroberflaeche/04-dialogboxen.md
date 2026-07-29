@@ -5,11 +5,11 @@ sidebar_position: 4
 
 # Dialogboxen
 
-Dialogboxen (auch Modaldialoge genannt) dienen in **Elektra** der Bearbeitung oder Erfassung von Inhalten innerhalb eines Datensatzes. Sie werden in der Regel über das Stift-Symbol aus einer Tabelle heraus aufgerufen. Obwohl sich die konkreten Inhalte je nach Funktion unterscheiden, folgt der Aufbau stets einem einheitlichen Grundprinzip.
+Dialogboxen (auch Modaldialoge genannt) dienen in **Elektra** der Bearbeitung oder Erfassung von Inhalten innerhalb eines Datensatzes. Sie werden in der Regel über das Stift-Symbol aus einer Tabelle heraus aufgerufen (siehe [Grundlegende Interaktionen](./grundlegende-interaktionen)). Obwohl sich die konkreten Inhalte je nach Funktion unterscheiden, folgt der Aufbau stets einem einheitlichen Grundprinzip.
 
-Beim Öffnen einer Dialogbox wird der Hintergrund der Anwendung abgedunkelt, sodass der Fokus auf dem Dialog im Vordergrund liegt. Die Dialogbox ist fest positioniert und kann nicht verschoben werden. Ein Schließen ist jederzeit über das „**x**“ in der oberen rechten Ecke. In diesem Fall werden keine Änderungen gespeichert. Alternativ kann ebenfalls die Schaltfläche **Abbrechen** verwendet werden.
+Beim Öffnen einer Dialogbox wird der Hintergrund der Anwendung abgedunkelt, sodass der Fokus auf dem Dialog im Vordergrund liegt. Die Dialogbox ist fest positioniert und kann nicht verschoben werden.
 
-Wählen Sie **Speichern** aus, um die Änderungen zu übernehmen.
+Zum Speichern, Abbrechen und Schließen der Dialogbox dienen die Schaltflächen **Speichern**, **Abbrechen** und das „**x**“ in der oberen rechten Ecke; ihre Wirkung ist unter [Grundlegende Interaktionen](./grundlegende-interaktionen) beschrieben.
 
 ![](img/image48.png)
 *Modaldialog (Standort-Details)*
