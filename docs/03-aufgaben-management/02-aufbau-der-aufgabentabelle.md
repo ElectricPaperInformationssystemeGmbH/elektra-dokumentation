@@ -70,5 +70,15 @@ Listet die zur Aufgabe hinterlegten Hilfsmittel auf, jeweils mit Typ und Titel. 
 ![](img/image72.png)
 *PDF-Vorschau eines Hilfsmittels*
 
-- **Letzte Bearbeitung:** Zeigt an, welcher **Nutzer** zu welchem Zeitpunkt die Aufgabe zuletzt bearbeitet hat.
-- **Letzter Kommentar:** Zeigt, sofern vorhanden, den zuletzt zur Aufgabe erfassten Kommentar. Ist noch kein Kommentar hinterlegt, bleibt die Spalte leer.
+## Letzte Bearbeitung
+Zeigt an, welcher **Nutzer** zu welchem Zeitpunkt die Aufgabe zuletzt bearbeitet hat.
+
+![](img/letzte-bearbeitung.png)
+*Letzte Bearbeitung mit Kürzel, Datum und Uhrzeit*
+
+
+## Letzter Kommentar
+Zeigt, sofern vorhanden, den zuletzt zur Aufgabe erfassten Kommentar. Ist noch kein Kommentar hinterlegt, bleibt die Spalte leer.
+
+![](img/letzter-kommentar.png)
+*Letzter Kommentar zur Aufgabe*
