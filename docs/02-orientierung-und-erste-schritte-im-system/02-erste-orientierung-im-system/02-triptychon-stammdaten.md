@@ -14,8 +14,8 @@ Der Stammdatenbereich bietet Einsicht und Zugriff auf die Standort-Details und e
 
 Interessant sind in diesem Zusammenhang folgende Verweise:
 
-- [Standortvorgaben](/stammdaten-pflegen/standort-einstellungen/)
+- [Standort-Einstellungen](/stammdaten-pflegen/standort-einstellungen/)
 - [Wahlbezirke anlegen](/stammdaten-pflegen/bezirke)
 - [Wahlräume anlegen](/stammdaten-pflegen/wahlraeume)
-- [Wahl-Team festlegen](/stammdaten-pflegen/wahlteam)
+- [Wahlteam festlegen](/stammdaten-pflegen/wahlteam)
 - [Kandidaten verwalten](/stammdaten-pflegen/kandidaten/)

@@ -45,13 +45,14 @@ Der Spaltenkopf ist der obere Bereich der Tabelle, in dem die einzelnen Spalten 
 2. **Sortierung**: Über das Sortiersymbol kann die Tabelle nach den Inhalten der jeweiligen Spalte geordnet werden. Ein einmaliges Anklicken sortiert die Einträge in aufsteigender Reihenfolge, ein erneutes Anklicken in absteigender Reihenfolge. Die Sortierung erfolgt alphanumerisch.
 3. **Filter:** Bei ausgewählten Spalten steht ein Dropdown-Feld zur Verfügung, über das die angezeigten Datensätze gefiltert werden können. Diese Funktion wird insbesondere bei Spalten angeboten, deren Inhalte aus vordefinierten Auswahlwerten stammen, beispielsweise Status- oder Bezirksangaben.
 
-![](img/image44.png)
+    Nach Öffnen des Filters wird ein Auswahlfeld mit möglichen Werten angezeigt (2). Diese entsprechen den vordefinierten Optionen der jeweiligen Spalte, beispielsweise verschiedenen Statuswerten. Über ein Eingabefeld im oberen Bereich können Sie die Auswahl zusätzlich eingrenzen, indem Sie einen Begriff eingeben (1). Durch Anklicken eines Eintrags wird der Filter angewendet und die Tabelle entsprechend eingeschränkt.
 
-Nach Öffnen des Filters wird ein Auswahlfeld mit möglichen Werten angezeigt (2). Diese entsprechen den vordefinierten Optionen der jeweiligen Spalte, beispielsweise verschiedenen Statuswerten. Über ein Eingabefeld im oberen Bereich können Sie die Auswahl zusätzlich eingrenzen, indem Sie einen Begriff eingeben (1). Durch Anklicken eines Eintrags wird der Filter angewendet und die Tabelle entsprechend eingeschränkt.
+    ![](img/image44.png)
 
-![](img/image45.png)
+    Zum Entfernen eines gesetzten Filters klicken Sie auf das „**x**“ neben dem entsprechenden Eintrag.
 
-Zum Entfernen eines gesetzten Filters klicken Sie auf das „**x**“ neben dem entsprechenden Eintrag.
+    ![](img/image45.png)
+
 
 ## Tabelleninhalt
 
@@ -60,9 +61,9 @@ Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enth
 ![](img/image46.png)
 *Tabelleninhalt (Kandidatentabelle)*
 
-- **Interaktion mit dem Datensatz**: In der ersten Spalte stehen Schaltflächen zur Bearbeitung des jeweiligen Datensatzes zur Verfügung, in der Regel dargestellt durch ein Stift-Symbol. Durch Anklicken wird ein Absprung in einen anderen Kontext ausgelöst, beispielsweise in eine Bearbeitungsmaske oder eine Detailansicht.
-- **Erweiterte Anzeige von Inhalten**: In Spalten mit umfangreicheren Informationen kann der angezeigte Inhalt bei Bedarf erweitert werden. Über die Schaltfläche „**+ mehr**“ lassen sich zusätzliche Details einblenden, ohne die Tabellenansicht zu verlassen.
-- **Dokumente aus Datensatz erzeugen**: In einigen Tabellen besteht die Möglichkeit, direkt aus einem Datensatz heraus Dokumente zu erzeugen. Über die entsprechende Schaltfläche können beispielsweise Dokumente auf Basis hinterlegter Vorlagen erstellt werden, etwa zur Erstellung eines Schreibens für eine einzelne Person.
+1. **Interaktion mit dem Datensatz**: In der ersten Spalte stehen Schaltflächen zur Bearbeitung des jeweiligen Datensatzes zur Verfügung, in der Regel dargestellt durch ein Stift-Symbol. Durch Anklicken wird ein Absprung in einen anderen Kontext ausgelöst, beispielsweise in eine Bearbeitungsmaske oder eine Detailansicht.
+2. **Erweiterte Anzeige von Inhalten**: In Spalten mit umfangreicheren Informationen kann der angezeigte Inhalt bei Bedarf erweitert werden. Über die Schaltfläche „**+ mehr**“ lassen sich zusätzliche Details einblenden, ohne die Tabellenansicht zu verlassen.
+3. **Dokumente aus Datensatz erzeugen**: In einigen Tabellen besteht die Möglichkeit, direkt aus einem Datensatz heraus Dokumente zu erzeugen. Über die entsprechende Schaltfläche können beispielsweise Dokumente auf Basis hinterlegter Vorlagen erstellt werden, etwa zur Erstellung eines Schreibens für eine einzelne Person.
 
 ## Fußbereich der Tabelle
 
@@ -71,6 +72,6 @@ Der Fußbereich der Tabelle enthält Informationen zur aktuellen Anzeige sowie F
 ![](img/image47.png)
 *Fußbereich der Tabelle*
 
-- **Anzeige der Einträge:** Im linken Bereich wird angezeigt, wie viele Datensätze insgesamt in der Tabelle vorhanden sind und welcher Ausschnitt aktuell dargestellt wird.
-- **Seitennavigation:** Über die Seitennavigation können Sie zwischen den einzelnen Seiten der Tabelle wechseln. Dadurch lassen sich auch größere Datenmengen schrittweise durchblättern.
-- **Horizontale** **Scrollleiste****:** Im unteren Bereich befindet sich eine horizontale Scrollleiste. Diese ermöglicht es, die Tabelle in der Breite zu verschieben, wenn nicht alle Spalten gleichzeitig auf dem Bildschirm dargestellt werden können.
+1. **Anzeige der Einträge:** Im linken Bereich wird angezeigt, wie viele Datensätze insgesamt in der Tabelle vorhanden sind und welcher Ausschnitt aktuell dargestellt wird.
+2. **Seitennavigation:** Über die Seitennavigation können Sie zwischen den einzelnen Seiten der Tabelle wechseln. Dadurch lassen sich auch größere Datenmengen schrittweise durchblättern.
+3. **Horizontale** **Scrollleiste:** Im unteren Bereich befindet sich eine horizontale Scrollleiste. Diese ermöglicht es, die Tabelle in der Breite zu verschieben, wenn nicht alle Spalten gleichzeitig auf dem Bildschirm dargestellt werden können.

@@ -18,7 +18,7 @@ Im Wesentlichen lässt sich die Benutzeroberfläche von **Elektra** in drei Absc
 
 In den folgenden Abschnitten werden die wesentlichen interaktiven Elemente der einzelnen Bereiche vorgestellt.
 
-**Kopfbereich**
+## Kopfbereich
 
 Im oberen Bereich sehen Sie das aktuelle Wahlprojekt und den festgelegten Wahlbeginn. Anschließend folgen diese Interaktionsschaltflächen:
 <div className="tableFit">
@@ -31,7 +31,7 @@ Im oberen Bereich sehen Sie das aktuelle Wahlprojekt und den festgelegten Wahlbe
 
 </div>
 
-**Benachrichtigungsfunktion**
+### Benachrichtigungsfunktion
 
 Die Benachrichtigungsfunktion (Glockensymbol) ermöglicht Ihnen den Zugriff auf alle systemseitigen Hinweise und Ereignisse, die für Ihre Arbeit im Wahlprojekt relevant sind. Sie dient dazu, Sie über aktuelle Entwicklungen zu informieren und einen direkten Zugriff auf zugehörige Inhalte bereitzustellen. <br />
 Klicken Sie auf das **Glockensymbol**, um eine Übersicht der zuletzt eingegangenen Benachrichtigungen zu öffnen. Diese werden in einer Liste dargestellt und enthalten jeweils eine kurze Beschreibung sowie eine zeitliche Einordnung. Innerhalb dieser Liste können Sie beispielsweise generierte Dokumente direkt aufrufen oder zu Aufgaben springen, die in Kürze fällig sind.
@@ -45,7 +45,7 @@ Unterhalb der Liste stehen Ihnen weitere Funktionen zur Verfügung. Mit der Scha
 ![](img/image23.png)
 *Übersicht alle Benachrichtigungen*
 
-**Seitenmenü**
+## Seitenmenü
 
 Der dunkelblaue Bereich links enthält den Menübaum sowie folgende zusätzliche Merkmale:
 
@@ -75,7 +75,7 @@ Der dunkelblaue Bereich links enthält den Menübaum sowie folgende zusätzliche
 </div>
 </div>
 
-**Arbeitsbereich**
+## Arbeitsbereich
 
 Der Arbeitsbereich ist der zentrale Bereich von **Elektra**, in dem alle für die Durchführung der Wahl relevanten Inhalte angezeigt werden. Hier arbeiten Sie mit den Daten Ihres Standorts, erfassen und pflegen Informationen, rufen Übersichten auf und führen die Ihnen zugewiesenen Aufgaben aus. Der dargestellte Inhalt passt sich dabei dem aktuell ausgewählten Kontext sowie Ihrer Rolle und Ihren Berechtigungen an. Da die im Arbeitsbereich dargestellten Inhalte sehr vielfältig sind, wird an dieser Stelle zunächst ausschließlich der Standort-Kopf beschrieben.
 

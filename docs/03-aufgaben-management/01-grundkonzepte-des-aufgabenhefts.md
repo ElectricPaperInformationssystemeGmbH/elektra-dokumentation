@@ -39,7 +39,7 @@ Technisch gibt es zusätzlich den Status **überfällig**, der automatisch verge
 
 1. Die Stati werden je Phase in den Kreisdiagrammen dargestellt.
 2. Schaltflächen erlauben Ihnen die Aufgaben-Anzeige zu filtern:
-- Zeige alle Aufgaben. Nutzen Sie diese Schaltfläche, um zum Ausgangszustand zurückzukehren.
+- Zeige **Alle** Aufgaben. Nutzen Sie diese Schaltfläche, um zum Ausgangszustand zurückzukehren.
 - Zeige Aufgaben, die „**offen oder in Bearbeitung sind**“
 - Zeige Aufgaben, die „**offen sind**“
 - Zeige Aufgaben, die „**in Bearbeitung**“ sind

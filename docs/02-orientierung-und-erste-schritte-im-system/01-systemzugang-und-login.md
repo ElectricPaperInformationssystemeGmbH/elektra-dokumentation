@@ -101,13 +101,13 @@ Alternativ zum internen Login kann Ihre Organisation die Anmeldung über einen e
 ![](img/image14.png)
 *Anmeldung über Keycloak*
 
-- Mit dem Klick auf “Mit **Keycloak** verbinden” springt **Elektra** zur externen Login-Maske.
-- **Einloggen bei Keycloak**
-- Sie loggen sich gegen **Keycloak** ein. **Keycloak** seinerseits prüft ihre Authentisierung und gibt Ihnen entsprechenden Zugang.
-- In diesem Zusammenhang kann es sein, dass die externen Identity Provider oder das interne **Keycloak**-System von Ihnen weitere Informationen im Rahmen der bereits beschriebenen Zwei-Faktor-Authentifizierung (2FA) abverlangen.
-- Ist stattdessen **Microsoft Entra ID** als Anmeldeverfahren konfiguriert, läuft die Anmeldung analog ab: Klicken Sie auf die entsprechend benannte Schaltfläche, um zur externen Login-Maske zu gelangen.
-- **Rollen in Elektra**
-- Mit dem erfolgreichen Login gelangen Sie in das System und erhalten Zugriff entsprechend der gesetzten Rollen und den damit verbundenen Privilegien. **Elektra** kann diesbezüglich frei konfiguriert werden, hat aber von Haus aus mehrere Rollen sinnvoll vorbesetzt. Als Standortverantwortlicher betrifft Sie insbesondere die folgende Rolle:
+Mit dem Klick auf “Mit **Keycloak** verbinden” springt **Elektra** zur externen Login-Maske. Sie loggen sich gegen **Keycloak** ein. **Keycloak** seinerseits prüft ihre Authentisierung und gibt Ihnen entsprechenden Zugang.
+In diesem Zusammenhang kann es sein, dass die externen Identity Provider oder das interne **Keycloak**-System von Ihnen weitere Informationen im Rahmen der bereits beschriebenen Zwei-Faktor-Authentifizierung (2FA) abverlangen.
+
+Ist stattdessen **Microsoft Entra ID** als Anmeldeverfahren konfiguriert, läuft die Anmeldung analog ab: Klicken Sie auf die entsprechend benannte Schaltfläche, um zur externen Login-Maske zu gelangen.
+
+## Rollen in Elektra
+Mit dem erfolgreichen Login gelangen Sie in das System und erhalten Zugriff entsprechend der gesetzten Rollen und den damit verbundenen Privilegien. **Elektra** kann diesbezüglich frei konfiguriert werden, hat aber von Haus aus mehrere Rollen sinnvoll vorbesetzt. Als Standortverantwortlicher betrifft Sie insbesondere die folgende Rolle:
 - **Standortverantwortliche(r) (Ihre Rolle):** Hauptnutzerrolle in **Elektra**. Standortverantwortliche sind für die operative Umsetzung der Wahl an ihrem Standort zuständig. Sie bearbeiten die im Aufgabenheft definierten Aufgaben, verwalten die standortbezogenen Stammdaten (z. B. Gemeindedaten, Pflege des Wählerverzeichnisses und Erfassung von Kandidaten) und erstellen wahlrelevante Dokumente. Darüber hinaus sind sie für die digitale Dokumentation der Stimmauszählung verantwortlich.
 
 Der Vollständigkeit halber sind nachfolgend auch die übrigen Rollen kurz aufgeführt, die es abseits Ihrer eigenen in **Elektra** geben kann:
