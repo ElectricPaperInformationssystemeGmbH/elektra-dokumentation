@@ -36,7 +36,7 @@ Zeigt den aktuellen **Bearbeitungsstatus** als farbiges Symbol sowie die Bezeich
 
 | Symbol | Status | Bedeutung |
 | --- | --- | --- |
-| ![](img/status-nicht-begonnen.png) | **Nicht begonnen** | Die Aufgabe wurde noch nicht bearbeitet. |
+| ![](img/status-nicht-begonnen.png) | **Nicht begonnen** (offen) | Die Aufgabe wurde noch nicht bearbeitet. |
 | ![](img/status-in-bearbeitung.png) | **In Bearbeitung** | Die Aufgabe wird gerade bearbeitet. |
 | ![](img/status-fertig.png) | **Fertig** | Die Aufgabe ist abgeschlossen. |
 | ![](img/status-ueberfaellig.png) | **Überfällig** | Die Frist ist verstrichen, ohne dass die Aufgabe auf **Fertig** gesetzt wurde. |
