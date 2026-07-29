@@ -16,7 +16,11 @@ Um die Angaben zu editieren, klicken Sie auf **Standort-Details bearbeiten**.
 ![](img/image86.png)
 *Standort-Übersicht mit Bearbeiten-Funktion*
 
-Schauen wir die einzelnen Panels im Bearbeitungsmodus einmal an. Der Bearbeitungsdialog besteht aktuell aus **fünf** Unterabschnitten. Bitte beachten Sie, dass an Ihrem Standort ggf. nur zwei Panels angezeigt werden. In diesem Fall werden die übrigen Panels aufgrund der Gegebenheiten des Wahlprojektes nicht benötigt.
+Schauen wir die einzelnen Panels im Bearbeitungsmodus einmal an. Der Bearbeitungsdialog besteht aktuell aus **fünf** Unterabschnitten.
+
+| **Hinweis** ![](img/image9.png) |
+| --- |
+| Es werden nur die Panels angezeigt, die für Ihren Standort relevant sind bzw. für die Ihr Standort Bearbeitungsrechte besitzt. Je nach Wahlprojekt kann Ihnen daher nur ein Teil der Panels angezeigt werden – unter Umständen beispielsweise nur **Stammdaten** und **Wahldaten**. |
 
 <!-- doccards:auto -->
 ## In diesem Kapitel
