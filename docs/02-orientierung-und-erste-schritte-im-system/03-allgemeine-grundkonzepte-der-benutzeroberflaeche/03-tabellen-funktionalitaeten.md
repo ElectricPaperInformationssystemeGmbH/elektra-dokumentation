@@ -7,38 +7,43 @@ sidebar_position: 3
 
 Tabellen sind ein zentrales Element der Benutzeroberfläche und dienen der strukturierten Darstellung und Bearbeitung von Daten. Sie ermöglichen es, Datensätze zu durchsuchen, zu filtern, zu sortieren und in verschiedenen Formaten weiterzuverwenden.
 
-**Tabellenkopf (Steuerungsbereich)**
+## Tabellenkopf (Steuerungsbereich)
 
 Im oberen Bereich der Tabelle (Tabellenkopf) befinden sich grundlegende Steuerungselemente. Hier können Sie festlegen, wie viele Einträge gleichzeitig angezeigt werden, sowie über ein Suchfeld eine Volltextsuche über die angezeigten Inhalte durchführen. Zusätzlich stehen Funktionen zur Auswahl der angezeigten Spalten sowie zum Export der Daten zur Verfügung.
 
 ![](img/image40.png)
 *Tabellenkopf*
 
-- **Überschrift der Tabelle:** Im oberen Bereich der Tabelle wird die Bezeichnung angezeigt. Sie dient der Orientierung und zeigt an, in welchem Kontext Sie sich befinden.
-- **Datensatz zur Tabelle hinzufügen:** Über die entsprechende Schaltfläche können neue Datensätze angelegt werden. Nach dem Aufruf öffnet sich eine Eingabemaske, in der die erforderlichen Informationen erfasst werden.
-- **Dokumente aus Vorlage erzeugen:** Über die entsprechende Schaltfläche öffnet sich eine Maske, in der Sie Dokumente auf Basis hinterlegter Vorlagen erstellen können. Als Standardauswahl wird die Vorlage für alle aktuell angezeigten Datensätze generiert; alternativ können Sie auch einzelne Datensätze gezielt auswählen. Die erzeugten Dokumente stehen anschließend zur weiteren Verwendung zur Verfügung.
+1. **Überschrift der Tabelle:** Im oberen Bereich der Tabelle wird die Bezeichnung angezeigt. Sie dient der Orientierung und zeigt an, in welchem Kontext Sie sich befinden.
+2. **Datensatz zur Tabelle hinzufügen:** Über die entsprechende Schaltfläche können neue Datensätze angelegt werden. Nach dem Aufruf öffnet sich eine Eingabemaske, in der die erforderlichen Informationen erfasst werden.
+3. **Dokumente aus Vorlage erzeugen:** Über die entsprechende Schaltfläche öffnet sich eine Maske, in der Sie Dokumente auf Basis hinterlegter Vorlagen erstellen können. Als Standardauswahl wird die Vorlage für alle aktuell angezeigten Datensätze generiert; alternativ können Sie auch einzelne Datensätze gezielt auswählen. Die erzeugten Dokumente stehen anschließend zur weiteren Verwendung zur Verfügung.
+4. **Anzahl der Einträge pro Seite:** Sie können festlegen, wie viele Datensätze auf einer Seite der Tabelle angezeigt werden.    Hinweis: Beachten Sie, dass eine höhere Anzahl an Einträgen die Ladezeit der Tabelle erhöhen kann.
 
-![](img/image41.png)
+    ![](img/image41.png)
 
-**Anzahl der Einträge pro Seite:** Sie können festlegen, wie viele Datensätze auf einer Seite der Tabelle angezeigt werden.    Hinweis: Beachten Sie, dass eine höhere Anzahl an Einträgen die Ladezeit der Tabelle erhöhen kann.
+5. **Volltextsuche:** Über das Suchfeld können Sie die angezeigten Inhalte durchsuchen. Dabei wird die Suche über mehrere Spalten und Zeilen hinweg durchgeführt, sodass relevante Datensätze schnell gefunden werden können.
+6. **Spalten auswählen:** Über die Funktion „**Spalten auswählen**“ können Sie festlegen, welche Spalten in der Tabelle angezeigt werden. Nicht benötigte Spalten können ausgeblendet und bei Bedarf wieder eingeblendet werden.
 
-- **Volltextsuche:** Über das Suchfeld können Sie die angezeigten Inhalte durchsuchen. Dabei wird die Suche über mehrere Spalten und Zeilen hinweg durchgeführt, sodass relevante Datensätze schnell gefunden werden können.
-- **Spalten auswählen:** Über die Funktion „**Spalten auswählen**“ können Sie festlegen, welche Spalten in der Tabelle angezeigt werden. Nicht benötigte Spalten können ausgeblendet und bei Bedarf wieder eingeblendet werden.
+
+
+7. **Export-Möglichkeiten**: Die Inhalte der Tabelle können in verschiedenen Formaten exportiert werden. Dazu zählen CSV-, XLSX- und PDF-Dateien sowie die Möglichkeit, die Daten in die Zwischenablage zu kopieren.
+
+<div style={{maxWidth: '172px'}}>
 
 ![](img/image42.png)
 
-- **Export-Möglichkeiten**: Die Inhalte der Tabelle können in verschiedenen Formaten exportiert werden. Dazu zählen CSV-, XLSX- und PDF-Dateien sowie die Möglichkeit, die Daten in die Zwischenablage zu kopieren.
+</div>
 
-**Spaltenkopf**
+## Spaltenkopf
 
 Der Spaltenkopf ist der obere Bereich der Tabelle, in dem die einzelnen Spalten benannt sowie Funktionen zur Sortierung und Filterung der angezeigten Daten bereitgestellt werden.
 
 ![](img/image43.png)
 *Spaltenkopf der Tabelle*
 
-- **Spaltenbezeichnung:** Die Spaltenbezeichnung gibt an, welche Art von Informationen in der jeweiligen Spalte dargestellt wird, beispielsweise Kontaktdaten, Status oder Datumsangaben.
-- **Sortierung**: Über das Sortiersymbol kann die Tabelle nach den Inhalten der jeweiligen Spalte geordnet werden. Ein einmaliges Anklicken sortiert die Einträge in aufsteigender Reihenfolge, ein erneutes Anklicken in absteigender Reihenfolge. Die Sortierung erfolgt alphanumerisch.
-- **Filter:** Bei ausgewählten Spalten steht ein Dropdown-Feld zur Verfügung, über das die angezeigten Datensätze gefiltert werden können. Diese Funktion wird insbesondere bei Spalten angeboten, deren Inhalte aus vordefinierten Auswahlwerten stammen, beispielsweise Status- oder Bezirksangaben.
+1. **Spaltenbezeichnung:** Die Spaltenbezeichnung gibt an, welche Art von Informationen in der jeweiligen Spalte dargestellt wird, beispielsweise Kontaktdaten, Status oder Datumsangaben.
+2. **Sortierung**: Über das Sortiersymbol kann die Tabelle nach den Inhalten der jeweiligen Spalte geordnet werden. Ein einmaliges Anklicken sortiert die Einträge in aufsteigender Reihenfolge, ein erneutes Anklicken in absteigender Reihenfolge. Die Sortierung erfolgt alphanumerisch.
+3. **Filter:** Bei ausgewählten Spalten steht ein Dropdown-Feld zur Verfügung, über das die angezeigten Datensätze gefiltert werden können. Diese Funktion wird insbesondere bei Spalten angeboten, deren Inhalte aus vordefinierten Auswahlwerten stammen, beispielsweise Status- oder Bezirksangaben.
 
 ![](img/image44.png)
 
@@ -48,7 +53,7 @@ Nach Öffnen des Filters wird ein Auswahlfeld mit möglichen Werten angezeigt (2
 
 Zum Entfernen eines gesetzten Filters klicken Sie auf das „**x**“ neben dem entsprechenden Eintrag.
 
-**Tabelleninhalt**
+## Tabelleninhalt
 
 Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enthalten sind. Jede Zeile entspricht dabei einem Datensatz und enthält neben den angezeigten Informationen auch verschiedene Interaktionsmöglichkeiten.
 
@@ -59,7 +64,7 @@ Der Tabelleninhalt stellt die einzelnen Datensätze dar, die in der Tabelle enth
 - **Erweiterte Anzeige von Inhalten**: In Spalten mit umfangreicheren Informationen kann der angezeigte Inhalt bei Bedarf erweitert werden. Über die Schaltfläche „**+ mehr**“ lassen sich zusätzliche Details einblenden, ohne die Tabellenansicht zu verlassen.
 - **Dokumente aus Datensatz erzeugen**: In einigen Tabellen besteht die Möglichkeit, direkt aus einem Datensatz heraus Dokumente zu erzeugen. Über die entsprechende Schaltfläche können beispielsweise Dokumente auf Basis hinterlegter Vorlagen erstellt werden, etwa zur Erstellung eines Schreibens für eine einzelne Person.
 
-**Fußbereich der Tabelle**
+## Fußbereich der Tabelle
 
 Der Fußbereich der Tabelle enthält Informationen zur aktuellen Anzeige sowie Funktionen zur Navigation innerhalb der Datensätze.
 
