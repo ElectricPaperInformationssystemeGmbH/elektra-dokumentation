@@ -24,6 +24,14 @@ Aus Gründen der besseren Lesbarkeit wird bei Personenbezeichnungen und personen
 
 ## Warenmarken
 
-Microsoft®, Windows® und andere Microsoft-Produkte sind Warenzeichen oder eingetragene Warenzeichen der Microsoft Corporation.
+Microsoft®, Windows®, Microsoft Word®, Microsoft Excel®, Microsoft Entra ID® und Microsoft Authenticator sowie weitere Microsoft-Produkte sind Warenzeichen oder eingetragene Warenzeichen der Microsoft Corporation.
+
+Google™ und Google Authenticator™ sind Marken von Google LLC.
+
+Adobe® sowie das Dateiformat PDF (Portable Document Format) sind Marken bzw. eingetragene Marken von Adobe Inc.
+
+Vimeo® ist eine Marke von Vimeo, Inc.
+
+Keycloak, uniWAHL und uniWAHL OWS sind Marken ihrer jeweiligen Rechteinhaber.
 
 Alle anderen Warenzeichen in dieser Dokumentation können Marken und / oder eingetragene Marken ihrer jeweiligen Eigentümer sein.
