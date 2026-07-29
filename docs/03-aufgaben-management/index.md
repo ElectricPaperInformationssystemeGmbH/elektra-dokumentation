@@ -15,7 +15,8 @@ Ein wichtiges Herzstück von **Elektra** ist das verteilte Aufgaben-Management. 
 - **Kontinuierliche Verbesserung durch Feedback**: Regelmäßiges Feedback ermöglicht es, den Prozess ständig zu evaluieren und zu verbessern. Anpassungen können im laufenden Projekt vorgenommen werden, um die Abläufe zu optimieren.
 - **Dokumentation und Nachverfolgbarkeit**: Notizen und Kommentare bieten die Möglichkeit, wichtige Informationen festzuhalten, die später nachverfolgt werden können. Dies ist besonders hilfreich bei der Dokumentation von Entscheidungen und deren Begründungen.
 - **Verbesserte Kommunikation**: Die Möglichkeit, Kommentare direkt zu den Aufgaben hinzuzufügen, fördert den Austausch von Ideen und Informationen zwischen den Teammitgliedern. Dies reduziert die Notwendigkeit für zusätzliche Meetings und fördert eine effizientere Kommunikation.
-- Im Folgenden werden die einzelnen Aspekte genauer betrachtet.
+
+Im Folgenden werden die einzelnen Aspekte genauer betrachtet.
 
 <!-- doccards:auto -->
 ## In diesem Kapitel
