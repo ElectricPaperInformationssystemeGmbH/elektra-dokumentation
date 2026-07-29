@@ -14,6 +14,8 @@ Zum Speichern, Abbrechen und Schließen der Dialogbox dienen die Schaltflächen 
 ![](img/image48.png)
 *Modaldialog (Standort-Details)*
 
+## Panels
+
 Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere wenn viele Felder oder umfangreiche Informationen dargestellt werden (bspw. innerhalb des Dialogs zur Bearbeitung der Standort-Details). Jedes Panel kann über ein Pfeilsymbol in der oberen rechten Ecke ein- oder ausgeklappt werden. Zusätzlich steht zu Beginn eines solchen Dialogs die Funktion „**Alle Panels schließen / öffnen**“ zur Verfügung, mit der alle Panels gleichzeitig geöffnet oder geschlossen werden können.
 
 | **Hinweis** ![](img/image9.png) |
@@ -23,27 +25,33 @@ Dialogboxen können in mehrere Bereiche (Panels) unterteilt sein, insbesondere w
 ![](img/image49.png)
 *Modaldialog mit zugeklappten Panels*
 
-**Eingabefelder in den Dialogboxen**
+## Eingabefelder
 
 Innerhalb der **Panels** finden Sie Felder, in denen Sie Daten erfassen können. Hierbei stehen unterschiedliche Eingabetypen zur Verfügung:
 
-- **Dropdown-Felder** zur Auswahl vordefinierter Werte.
-- Auswahlfelder (**Ankreuzfelder**) für eine einfache Auswahl (z. B. Anrede).
+<div className="fieldTable">
+
+| Eingabetyp | Beschreibung |
+| --- | --- |
+| Dropdown-Feld | Auswahl vordefinierter Werte. |
+| Ankreuzfeld | Einfache Auswahl (z. B. Anrede). |
+| Datums- und Zeitfeld | Blendet einen mehrstufigen Kalender zur Auswahl von Uhrzeit, Tag, Monat und Jahr ein (sofern für das Feld verfügbar). Werte lassen sich auch direkt über die Tastatur eingeben. Durch Anklicken wird der Wert in definierten Schritten verändert (z. B. um 30 Minuten, 1 Stunde, 1 Tag, 1 Woche oder 1 Monat); „**H**“ steht dabei für den heutigen Tag. |
+| Freitextfeld | Eingabe individueller Inhalte. |
+
+</div>
 
 ![](img/image50.png)
-
-Datums- und Zeitfelder, bei denen  ein mehrstufiger Kalender eingeblendet wird. So wird die Auswahl von Uhrzeit, Tag, Monat und Jahr ermöglicht (sofern für das Feld verfügbar). Alternativ können Werte auch direkt über die Tastatur eingegeben werden. Zusätzlich können vorhandene Auswahlfelder genutzt werden, um Werte schnell anzupassen.
-
-- Durch Anklicken dieser Felder wird der angezeigte Wert in definierten Schritten verändert (z. B. um 30 Minuten, 1 Stunde, 1 Tag, 1 Woche oder 1 Monat). Die Kennzeichnung „**H**“ steht dabei für den heutigen Tag.
-- Freitextfelder zur Eingabe individueller Inhalte.
+*Eingabefelder in einer Dialogbox*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
 | Die Navigation zwischen den Eingabefeldern kann über die Tabulatortaste (TAB) erfolgen. Alternativ kann ein Eingabefeld mittels des Mauscursors ausgewählt werden. |
 
+### Pflichtfelder
+
 Felder, die mit einem roten Sternchen gekennzeichnet sind, sind Pflichtfelder (bspw. der Kurztitel des Standortes). Der Dialog kann erst gespeichert werden, sobald ein Wert in das Eingabefeld eingetragen wurde.
 
-**Plausibilitätsprüfungen**
+## Plausibilitätsprüfungen
 
 Im oberen Bereich des Dialogs können Plausibilitätsmeldungen angezeigt werden. Diese weisen auf fehlende oder fehlerhafte Eingaben hin und unterstützen bei der vollständigen und korrekten Erfassung der Daten. Diese Meldungen beziehen sich nicht zwingend auf ein einzelnes Eingabefeld, sondern können auch übergreifende Sachverhalte betreffen.
 
