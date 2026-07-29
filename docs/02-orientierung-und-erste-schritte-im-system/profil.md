@@ -11,7 +11,8 @@ sidebar_position: 1.5
 
 Sie erreichen Ihr Profil jederzeit über das Menü am oberen rechten Rand. Klicken Sie dort auf **Profil** (neben **Helpdesk** und **Abmelden**). Es öffnet sich das Panel **Profil** mit dem Abschnitt **Nutzerdaten ändern**.
 
-<!-- ![](img/profil.png) *Profil – Nutzerdaten ändern* -->
+![](img/profil.png)
+*Profil – Nutzerdaten ändern*
 
 ## Nutzerdaten ändern
 
@@ -34,7 +35,7 @@ Die mit einem roten Sternchen gekennzeichneten Felder sind Pflichtfelder und mü
 
 | **Hinweis** |
 | --- |
-| Ihr Passwort muss folgende Anforderungen erfüllen: mindestens 8 Zeichen, Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen. Fahren Sie mit dem Cursor über das „i“ neben dem Feld **Passwort**, um diese Anforderungen anzuzeigen. |
+| Fahren Sie mit dem Cursor über das „i“ neben dem Feld **Passwort**, um diese Anforderungen anzuzeigen. |
 
 ## Zwei-Faktor-Authentifizierung
 
