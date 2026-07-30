@@ -19,16 +19,17 @@ Sofern die Bearbeitung bzw. das Anlegen von Stimmbezirken freigegeben wurde, kö
 ![](img/image94.png)
 *Maske Bezirk ändern*
 
-**Kürzel**: Alphanumerisches Kennzeichen zur Sortierung der Bezirke
+<div className="fieldTable">
 
-**Bezirk**: Kurztext, der den Bezirk beschreibt. In der Regel wird dieser Text in Druckausgaben ergänzt um den Kurztext des Standorts.
+| Feld | Bedeutung |
+| --- | --- |
+| Kürzel | Alphanumerisches Kennzeichen zur Sortierung der Bezirke. |
+| Bezirk | Kurztext, der den Bezirk beschreibt. In Druckausgaben wird dieser Text in der Regel um den Kurztext des Standorts ergänzt. |
+| Org-Einheit-Nr | Information aus dem Stammdatenpool / Meldewesen. |
+| Anzahl Vertretene Mitglieder | Wie viele Mitglieder werden durch den Bezirk repräsentiert. |
+| Vorgesehene Anzahl Sitze | Wie viele Sitze im Gremium sind für diesen Bezirk vorgesehen. |
+| Wahlteam-Mitglieder | Aus der Liste der Wahlteam-Mitglieder können hier diejenigen ausgewählt werden, die für diesen Bezirk zuständig sind. Das ist u. a. bei der Besetzung von Wahlräumen in den Bezirken sinnvoll. |
 
-**Org****-Einheit-****Nr**: Information aus dem Stammdatenpool / Meldewesen
-
-**Anzahl Vertretene Mitglieder**: Wie viele Mitglieder werden durch den Bezirk repräsentiert.
-
-**Vorgesehene Anzahl Sitze**: Wie viele Sitze im Gremium sind für diesen Bezirk vorgesehen.
-
-**Wahlteam-Mitglieder**: Aus der Liste der Wahlteam-Mitglieder können hier diejenigen ausgewählt werden, die für diesen Bezirk zuständig sind. Dieses macht u.a. Sinn bei der Besetzung von Wahlräumen in den Bezirken.
+</div>
 
 Weitere Beziehungen: Neben den für den Standort verantwortlichen Wahlteam-Mitgliedern können zahlreiche weitere Entitäten (Kandidaten, Stimmzettel etc.) mit den hinterlegten Bezirken verbunden werden. Zahlreiche Plausibilitätsprüfungen entlang des Wahlablaufs weisen Sie darauf hin, wenn diese Beziehungen in der Stammdatenbearbeitung nicht ordentlich befüllt wurden (Darstellung von Warnungen und Fehlern in den Wahlfunktionen).

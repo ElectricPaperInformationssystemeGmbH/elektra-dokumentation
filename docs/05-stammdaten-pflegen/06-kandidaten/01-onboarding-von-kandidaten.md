@@ -35,50 +35,60 @@ Welche Status-Werte zur Auswahl stehen und wie sie farblich dargestellt werden, 
 
 Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegeben.
 
-**Anrede**: Auswahl über Radiobuttons zwischen unbekannt, Herr, Frau und Divers.
+<div className="fieldTable">
 
-**Titel**: Ein Textfeld zur Eingabe eines akademischen oder sonstigen Titels (bis zu 30 Zeichen).
+| Feld | Bedeutung |
+| --- | --- |
+| Anrede | Auswahl über Radiobuttons zwischen unbekannt, Herr, Frau und Divers. |
+| Titel | Textfeld für einen akademischen oder sonstigen Titel (bis zu 30 Zeichen). |
+| Vorname | Pflichtfeld zur Eingabe des Vornamens. |
+| Nachname Zusatz | Textfeld für einen Namenszusatz (z. B. „von" oder „van"). |
+| Nachname | Pflichtfeld zur Eingabe des Nachnamens. |
+| Beruf | Textfeld zur Eingabe der Berufsbezeichnung (bis zu 60 Zeichen). |
+| Beruf darf veröffentlicht werden | Kontrollkästchen, das festlegt, ob die Berufsangabe in Wahlunterlagen ausgegeben werden darf. |
+| Geburtsdatum | Pflichtfeld zur Eingabe des Geburtsdatums. Prüft automatisch das für die Wahl erforderliche Mindestalter zum Wahlstichtag und zeigt den spätesten zulässigen Geburtstag als Hinweis an. |
+| Alter darf veröffentlicht werden | Kontrollkästchen, das festlegt, ob das (aus dem Geburtsdatum errechnete) Alter in Wahlunterlagen ausgegeben werden darf. |
+| Motivation | Mehrzeiliges Freitextfeld für eine kurze Motivation zur Kandidatur (bis zu 160 Zeichen). |
 
-**Vorname**: Pflichtfeld zur Eingabe des Vornamens.
-
-**Nachname Zusatz**: Textfeld für einen Namenszusatz (z. B. „von“ oder „van“).
-
-**Nachname**: Pflichtfeld zur Eingabe des Nachnamens.
-
-**Beruf**: Textfeld zur Eingabe der Berufsbezeichnung (bis zu 60 Zeichen).
-
-**Beruf darf veröffentlicht werden**: Ein Kontrollkästchen, das festlegt, ob die Berufsangabe in Wahlunterlagen mit ausgegeben werden darf.
-
-**Geburtsdatum**: Pflichtfeld zur Eingabe des Geburtsdatums. Das Feld prüft automatisch das für die Wahl erforderliche Mindestalter zum Wahlstichtag und zeigt den spätesten zulässigen Geburtstag als Hinweis an.
-
-**Alter darf veröffentlicht werden**: Ein Kontrollkästchen, das festlegt, ob das (aus dem Geburtsdatum errechnete) Alter in Wahlunterlagen mit ausgegeben werden darf.
-
-**Motivation**: Ein mehrzeiliges Freitextfeld zur Eingabe einer kurzen Motivation zur Kandidatur (bis zu 160 Zeichen).
+</div>
 
 ![](img/image116.png)
 *Kandidat ändern: Nutzerbild und interne Notiz*
 
-**Nutzerbild**: Uploadmöglichkeit für ein Kandidatenbild inklusive Zuschneide- und Rotationsfunktion. Unterstützt werden Bilder im JPEG- oder PNG-Format (mit systemseitiger Dateigrößenbeschränkung; alle hochgeladenen Dateien durchlaufen einen Virenscanner). Ein bereits hochgeladenes Bild kann heruntergeladen oder gelöscht werden; wurde kein Bild hochgeladen, zeigt das System stattdessen eine geschlechtsspezifische Ersatzdarstellung (Mann/Frau/Divers/unbekannt) an – diese Bilder bzw. Ersatzbilder werden auch in nachgelagerten Prozessen wie der Erstellung von Stimmzetteln und Wahlvorschlägen verwendet.
+<div className="fieldTable">
 
-**Interne Notiz**: Ein mehrzeiliges, rein internes Freitextfeld, das nicht in Dokumentvorlagen erscheint.
+| Feld | Bedeutung |
+| --- | --- |
+| Nutzerbild | Uploadmöglichkeit für ein Kandidatenbild inklusive Zuschneide- und Rotationsfunktion. Unterstützt werden JPEG- oder PNG-Bilder (mit systemseitiger Dateigrößenbeschränkung; alle Uploads durchlaufen einen Virenscanner). Ein hochgeladenes Bild kann heruntergeladen oder gelöscht werden; ohne Bild zeigt das System eine geschlechtsspezifische Ersatzdarstellung (Mann/Frau/Divers/unbekannt). Diese Bilder bzw. Ersatzbilder werden auch bei der Erstellung von Stimmzetteln und Wahlvorschlägen verwendet. |
+| Interne Notiz | Mehrzeiliges, rein internes Freitextfeld, das nicht in Dokumentvorlagen erscheint. |
+
+</div>
 
 ![](img/image117.png)
 *Kandidat ändern: Adresse*
 
-**Organisation/Institution/Abteilung**: Freitextfeld für eine zusätzliche Adresszeile, sofern der Kandidat einer Organisation, Institution oder Abteilung zugeordnet werden soll.
+<div className="fieldTable">
 
-**Strasse**, **Nummer**, **Nummerzusatz**, **Postleitzahl**, **Stadt**: Felder zur Erfassung der postalischen Anschrift des Kandidaten. Stadt ist ein Pflichtfeld.
+| Feld | Bedeutung |
+| --- | --- |
+| Organisation/Institution/Abteilung | Freitextfeld für eine zusätzliche Adresszeile, sofern der Kandidat einer Organisation, Institution oder Abteilung zugeordnet werden soll. |
+| Straße, Nummer, Nummerzusatz, Postleitzahl, Stadt | Felder zur Erfassung der postalischen Anschrift des Kandidaten. Stadt ist ein Pflichtfeld. |
+| Land | Dropdown-Menü zur Auswahl des Landes, vorbelegt mit Deutschland. |
+| Adresse darf veröffentlicht werden | Kontrollkästchen, das festlegt, ob die Anschrift in Wahlunterlagen ausgegeben werden darf. |
 
-**Land**: Ein Dropdown-Menü zur Auswahl des Landes, vorbelegt mit Deutschland.
-
-**Adresse darf veröffentlicht werden**: Ein Kontrollkästchen, das festlegt, ob die Anschrift in Wahlunterlagen mit ausgegeben werden darf.
+</div>
 
 ![](img/image118.png)
 *Kandidat ändern: Kontakt*
 
-**E-Mail**, **Telefon**, **Fax**, **Mobil**, **Mobil (Privat)**: Felder zur Erfassung der Kontaktdaten des Kandidaten.
+<div className="fieldTable">
 
-**Erreichbar (Tage/Zeiten)**: Ein Freitextfeld zur Angabe, an welchen Tagen und zu welchen Zeiten der Kandidat erreichbar ist.
+| Feld | Bedeutung |
+| --- | --- |
+| E-Mail, Telefon, Fax, Mobil, Mobil (Privat) | Felder zur Erfassung der Kontaktdaten des Kandidaten. |
+| Erreichbar (Tage/Zeiten) | Freitextfeld zur Angabe, an welchen Tagen und zu welchen Zeiten der Kandidat erreichbar ist. |
+
+</div>
 
 ![](img/image119.png)
 *Kandidat ändern: Dokumente*

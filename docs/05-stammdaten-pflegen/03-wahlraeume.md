@@ -16,20 +16,16 @@ Im Bearbeitungsdialog können die folgenden Daten zum Wahlraum gepflegt werden:
 ![](img/image96.png)
 *Wahlraum bearbeiten*
 
-**Kürzel**: Ein Textfeld zur Eingabe eines kurzen Codes oder einer Nummer zur Identifizierung des Wahlraums.
+<div className="fieldTable">
 
-**Kurztitel**: Ein Textfeld für die Eingabe des Namens oder der Bezeichnung des Wahlraums.
+| Feld | Bedeutung |
+| --- | --- |
+| Kürzel | Textfeld zur Eingabe eines kurzen Codes oder einer Nummer zur Identifizierung des Wahlraums. |
+| Kurztitel | Textfeld für den Namen bzw. die Bezeichnung des Wahlraums. |
+| Bezirk | Dropdown-Menü, in dem der Wahlbezirk ausgewählt wird, dem der Wahlraum zugeordnet ist. |
+| Wahlteam-Mitglieder | Feld, in dem die Mitglieder des Wahlteams hinzugefügt bzw. ausgewählt werden können. |
+| Barrierefrei | Kontrollkästchen, das markiert wird, wenn der Wahlraum barrierefrei ist. |
+| Adresse | Verschiedene Felder zur Eingabe der Adresse des Wahlraums: Organisation/Institution/Abteilung, Straße, Hausnummer, Postleitzahl, Stadt sowie ein optionaler Adresszusatz. |
+| Erreichbarkeit (Tage, Zeiten) | Textfeld zur Angabe der Öffnungszeiten bzw. der Erreichbarkeit des Wahlraums. |
 
-**Bezirk**: Ein Dropdown-Menü, in dem der Wahlbezirk ausgewählt wird, dem der Wahlraum zugeordnet ist.
-
-**Wahlteam-Mitglieder**: Ein Feld, in dem die Mitglieder des Wahlteams hinzugefügt oder ausgewählt werden können.
-
-**Barrierefrei**: Ein Kontrollkästchen, das markiert wird, wenn der Wahlraum barrierefrei ist.
-
-**Adresse**: Verschiedene Felder zur Eingabe der Adresse des Wahlraums, einschließlich
-
-Organisation/Institution/Abteilung, Straße, Hausnummer, Postleitzahl, Stadt, und einem optionalen Adresszusatz.
-
-**Erreichbarkeit (Tage, Zeiten)**: Ein Textfeld zur Angabe der Öffnungszeiten oder der Erreichbarkeit des Wahlraums.
-
-Diese Felder bieten eine detaillierte Möglichkeit, relevante Informationen zu einem Wahlraum zu erfassen und zu verwalten.
+</div>
