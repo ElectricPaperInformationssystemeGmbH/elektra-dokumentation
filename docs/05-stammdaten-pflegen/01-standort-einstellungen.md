@@ -7,6 +7,9 @@ sidebar_position: 1
 
 Beim ersten Aufruf werden die Standort-Einstellungen in einer reinen Anzeigeansicht (Read-Only) dargestellt. Eine direkte Bearbeitung ist in diesem Zustand nicht möglich.
 
+![](img/image85.png)
+*Stammdatenpflege am Standort*
+
 Die Inhalte sind in mehrere klappbare Panels gegliedert. Jedes Panel fasst thematisch zusammengehörige Informationen zusammen (z. B. allgemeine Angaben, Wahldaten oder Kontaktdaten).
 
 Die dargestellten Informationen dienen zunächst der Überprüfung der vorhandenen Daten.
