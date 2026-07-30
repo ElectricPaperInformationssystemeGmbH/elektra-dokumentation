@@ -7,6 +7,8 @@ pagination_next: null
 pagination_prev: null
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 <div className="homeHero">
   <div className="homeHero__inner">
     <p className="homeHero__eyebrow">Elektra · Wahlmanagement für verteilte Wahlprojekte</p>
@@ -17,8 +19,8 @@ pagination_prev: null
       vorzubereiten, durchzuführen und auszuwerten – schnell nachzuschlagen und verständlich erklärt.
     </p>
     <div className="homeHero__actions">
-      <a className="button button--primary button--lg" href="/orientierung-und-erste-schritte-im-system/systemzugang-und-login">Erste Schritte</a>
-      <a className="button button--outline button--lg" href="/einleitung/">Zur Einleitung</a>
+      <a className="button button--primary button--lg" href={useBaseUrl('/orientierung-und-erste-schritte-im-system/systemzugang-und-login')}>Erste Schritte</a>
+      <a className="button button--outline button--lg" href={useBaseUrl('/einleitung/')}>Zur Einleitung</a>
     </div>
   </div>
 </div>
@@ -48,19 +50,19 @@ vertraut, mit denen Sie Ihre Wahl organisieren und durchführen:
 
 <div className="row homeCards">
   <div className="col col--4">
-    <a className="card homeCard" href="/aufgaben-management/">
+    <a className="card homeCard" href={useBaseUrl('/aufgaben-management/')}>
       <div className="card__header"><h3>Aufgaben-Management</h3></div>
       <div className="card__body">Organisieren Sie alle Wahlprozesse strukturiert und transparent: Phasen, Aufgaben und Fristen, mit Kommentaren und Notizen zur Abstimmung.</div>
     </a>
   </div>
   <div className="col col--4">
-    <a className="card homeCard" href="/stammdaten-pflegen/">
+    <a className="card homeCard" href={useBaseUrl('/stammdaten-pflegen/')}>
       <div className="card__header"><h3>Stammdaten pflegen</h3></div>
       <div className="card__body">Pflegen Sie Standort-Einstellungen, Bezirke, Wahlräume, das Wahlteam, das Wählerverzeichnis und die Kandidaten – zentral und fehlerfrei.</div>
     </a>
   </div>
   <div className="col col--4">
-    <a className="card homeCard" href="/wahlfunktionen/">
+    <a className="card homeCard" href={useBaseUrl('/wahlfunktionen/')}>
       <div className="card__header"><h3>Wahlfunktionen</h3></div>
       <div className="card__body">Steuern Sie alle Wahlphasen – von der Stimmzettelerstellung über Auszählung bis zur Ergebnismeldung und Gremienverwaltung.</div>
     </a>
@@ -71,13 +73,13 @@ vertraut, mit denen Sie Ihre Wahl organisieren und durchführen:
 
 <div className="row homeCards">
   <div className="col col--4">
-    <a className="card homeCard" href="/orientierung-und-erste-schritte-im-system/">
+    <a className="card homeCard" href={useBaseUrl('/orientierung-und-erste-schritte-im-system/')}>
       <div className="card__header"><h3>Orientierung &amp; erste Schritte</h3></div>
       <div className="card__body">Login, Aufbau des Systems und die grundlegende Bedienung der Oberfläche.</div>
     </a>
   </div>
   <div className="col col--4">
-    <a className="card homeCard" href="/antraege-und-anfragen-helpdesk/">
+    <a className="card homeCard" href={useBaseUrl('/antraege-und-anfragen-helpdesk/')}>
       <div className="card__header"><h3>Anträge &amp; Anfragen, Helpdesk</h3></div>
       <div className="card__body">Anträge an die Zentrale Projektleitung, formale Anträge und der Weg zum Helpdesk.</div>
     </a>
