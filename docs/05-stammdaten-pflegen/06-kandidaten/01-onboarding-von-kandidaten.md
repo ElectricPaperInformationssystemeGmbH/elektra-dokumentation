@@ -87,12 +87,11 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 | --- | --- |
 | E-Mail, Telefon, Fax, Mobil, Mobil (Privat) | Felder zur Erfassung der Kontaktdaten des Kandidaten. |
 | Erreichbar (Tage/Zeiten) | Freitextfeld zur Angabe, an welchen Tagen und zu welchen Zeiten der Kandidat erreichbar ist. |
+| Dokumente | Uploadbereich (per Drag-and-drop oder Dateiauswahl) für beliebige Dokumente zum Kandidaten, inklusive einer Übersichtstabelle (Name/Vorschau/Aktion) der bereits abgelegten Dokumente. Es können maximal 10 Dateien hinterlegt werden. |
 
 </div>
 
 ![](img/image119.png)
 *Kandidat ändern: Dokumente*
-
-**Dokumente**: Ein Uploadbereich (per Drag-and-drop oder Dateiauswahl) für beliebige Dokumente zum Kandidaten, inklusive einer Übersichtstabelle (Name/Vorschau/Aktion) der bereits abgelegten Dokumente. Es können maximal 10 Dateien hinterlegt werden.
 
 Danach wird der Kandidat in der Übersichtstabelle angezeigt.
