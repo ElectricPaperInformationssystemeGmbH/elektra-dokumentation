@@ -13,9 +13,12 @@ const config = {
   tagline: 'Wahlmanagement für verteilte Wahlprojekte',
   favicon: 'img/favicon.svg',
 
-  // Beim Deployment anpassen:
-  url: 'https://example.com',
-  baseUrl: '/',
+  // Deployment auf GitHub Pages (Projekt-Site der Organisation)
+  url: 'https://electricpaperinformationssystemegmbh.github.io',
+  baseUrl: '/elektra-dokumentation/',
+  organizationName: 'ElectricPaperInformationssystemeGmbH',
+  projectName: 'elektra-dokumentation',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
 
