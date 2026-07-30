@@ -9,19 +9,17 @@ Die Wahlfunktion 3) „**Briefwahlunterlagen generieren**“ dient der gebündel
 
 Die generierten Unterlagen umfassen in der Regel einen **Wahlbrief**, gegebenenfalls einen **Wahlschein**, einen **Stimmzettel** oder **Zugangsdaten für die Onlinewahl** sowie die erforderlichen **Briefhüllen** für Versand, Wahlbrief und Rücksendung.
 
-Der Aufbau der Wahlfunktion beginnt wie die meisten Wahlfunktionen mit einer Arbeitshilfe und einer Wiedergabe Ergebnisse der Plausibilitätsprüfungen. Diese Elemente haben dienen nur der Information.
+Wie alle dokumentarischen Wahlfunktionen beginnt WFU3 mit Arbeitshilfen und dem Plausibilitätsmodul (nur zur Information); die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben.
 
 ![](img/image179.png)
+*WFU3: Kopfbereich mit Wählersuche*
 
-Nachdem Sie die Wahlfunktion 3) „**Briefwahlunterlagen generieren**“ aufgerufen haben, finden Sie im oberen Bereich die **Wählersuche**. Die Funktionsweise wurde bereits im Kapitel **6.3** **Wähleranfragen bearbeiten** erläutert.
-
-*WFU3: Wählersuche*
+Nachdem Sie die Wahlfunktion 3) „**Briefwahlunterlagen generieren**" aufgerufen haben, finden Sie im oberen Bereich die **Wählersuche**. Ihre Funktionsweise ist unter [WFU2 Wähleranfragen bearbeiten](/wahlfunktionen/wfu2-waehleranfragen-bearbeiten/) beschrieben.
 
 ![](img/image180.png)
+*WFU3: Wähler markieren*
 
 Nachdem Sie eine Suche ausgelöst haben, werden die Treffer unterhalb der Suchleiste angezeigt. Anschließend können Sie hier eine Aktion für den Wähler auswählen.
-
-*WFU 3: Wähler markieren*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
