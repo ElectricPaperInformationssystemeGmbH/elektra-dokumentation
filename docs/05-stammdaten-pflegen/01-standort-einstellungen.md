@@ -29,10 +29,10 @@ Der Bearbeitungsdialog besteht aktuell aus **fünf** Panels, die im Folgenden de
 
 Das Panel Stammdaten enthält die zentralen Grunddaten des Standorts – von der organisatorischen Zuordnung über die Kontaktangaben bis zur Anschrift und der Ansprechperson für die Wahl. Die hier dargestellten Informationen kommen in der Regel aus zentralen Importen.
 
+### Grunddaten
+
 ![](img/image87.png)
 *Bearbeitungsdialog Standort Stammdaten*
-
-### Grunddaten
 
 <div className="fieldTable">
 
