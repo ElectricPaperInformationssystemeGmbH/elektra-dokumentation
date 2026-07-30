@@ -14,8 +14,8 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Beim Deployment anpassen:
-  url: 'https://example.com',
-  baseUrl: '/',
+  url: 'https://electricpaperinformationssystemegmbh.github.io',
+  baseUrl: '/elektra-dokumentation/',
 
   onBrokenLinks: 'warn',
 
