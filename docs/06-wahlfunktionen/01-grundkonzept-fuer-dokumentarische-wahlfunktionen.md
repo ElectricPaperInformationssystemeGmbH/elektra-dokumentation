@@ -74,9 +74,15 @@ Die unterzeichneten Protokolle sollen für die elektronische Wahlakte gescannt o
 
 Ein Statusnetz bietet folgende Auswahlmöglichkeiten:
 
-- Offen
-- In Bearbeitung
-- Erledigt
+<div className="fieldTable">
+
+| Status | Bedeutung |
+| --- | --- |
+| ![](img/status-offen.png) | Die Wahlfunktion wurde noch nicht bearbeitet. |
+| ![](img/status-in-bearbeitung.png) | Die Wahlfunktion wird gerade bearbeitet. |
+| ![](img/status-erledigt.png) | Die Wahlfunktion ist abgeschlossen. |
+
+</div>
 
 Der Status **Erledigt** sollte nur gesetzt werden, wenn mindestens eine Datei hochgeladen wurde – dies wird systemseitig allerdings nicht erzwungen. Unterhalb der Status-Auswahl befindet sich der Notizbereich, in dem Anmerkungen zum aktuellen Bearbeitungsstatus der Wahlfunktion festgehalten werden können.
 
