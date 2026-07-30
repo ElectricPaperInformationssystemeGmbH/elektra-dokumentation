@@ -11,6 +11,8 @@ Sofern an Ihrem Standort eine Urnenwahl oder eine Briefwahl an Ort und Stelle du
 
 *Wahlräume verwalten*
 
+## Wahlraum bearbeiten
+
 Im Bearbeitungsdialog können die folgenden Daten zum Wahlraum gepflegt werden:
 
 ![](img/image96.png)

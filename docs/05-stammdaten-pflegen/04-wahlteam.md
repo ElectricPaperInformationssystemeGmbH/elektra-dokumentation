@@ -12,6 +12,8 @@ Im Wahlteam werden die Adressdaten und Kontaktdaten von Mitarbeitenden und Ehren
 
 - Die Liste sollte neben einem Standortverantwortlichen auch die Mitglieder des Wahlvorstands umfassen. Auch Wahlhelfer werden hier erfasst
 
+## Wahlteam-Mitglied bearbeiten
+
 Dieser Dialog dient der Bearbeitung der Details eines Mitglieds des Wahlteams. Er ist in verschiedene Abschnitte unterteilt, um unterschiedliche Arten von Informationen zu erfassen:
 
 | ![](img/image98.png) | **Standortleitung:** Ein Kontrollkästchen, das markiert wird, wenn das Mitglied Teil der Standortleitung ist. Die Person muss nicht zwangsweise eine Rolle im Wahlteam haben. **Rolle im Wahlteam:** Ein Dropdown-Menü, in dem die spezifische Rolle des Mitglieds innerhalb des Wahlteams ausgewählt wird. Die Wahlleitung legt die sprachliche Ausformulierung  für die Rollen im Team fest.  Beispielsweise: Wahlvorstand Stv. Wahlvorstand Wahlbeauftragte/r Wahlhelfer … Die Rollen für die Leitung des Wahlteams und sein Vertreter werden in Protokolldokumenten wieder herangezogen. **Bezirk:** Zuordnung zu einem oder mehreren Stimmbezirken **Wahlräume:** Ein Feld, das die Zuordnung des Mitglieds zu bestimmten Wahlräumen ermöglicht. |
