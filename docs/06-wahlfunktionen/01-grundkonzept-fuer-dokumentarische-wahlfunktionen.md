@@ -5,55 +5,87 @@ sidebar_position: 1
 
 # Grundkonzept für dokumentarische Wahlfunktionen
 
-Die meisten Wahlfunktionen (1,4,6,7,8,9) arbeiten nach einem allgemeinen Grundprinzip, dass Sie schon von der Bearbeitung von Aufgaben im Aufgabenheft kennen. Schauen wir uns den Aufbau der einzelnen Sektionen und Arbeitsschritte einmal an:
+Die meisten Wahlfunktionen (1, 4, 6, 7, 8, 9) arbeiten nach einem allgemeinen Grundprinzip, das Sie bereits von der Bearbeitung von Aufgaben im Aufgabenheft kennen. Eine dokumentarische Wahlfunktion ist stets gleich aufgebaut; die folgenden Bausteine begegnen Ihnen in dieser Reihenfolge:
 
-**So geht’s – Angebot von Arbeitshilfen:** Für die Wahlfunktion gibt es eine Erläuterung zum Ausdrucken sowie ggf. Checklisten, damit beim Durchführen der entsprechenden Wahlfunktion keine Fehler entstehen.
+1. Arbeitshilfen
+2. Plausibilitätsmodul (Fehler & Warnungen)
+3. Liste der Protokolle und Dokumente
+4. Dialogbox zur Datenerfassung
+5. PDF- und Word-Vorlagen
+6. Upload gescannter Dokumente
+7. Status & Notiz
+8. Kommentare
+
+## Arbeitshilfen
+
+Für die Wahlfunktion gibt es eine Erläuterung zum Ausdrucken sowie ggf. Checklisten, damit beim Durchführen der entsprechenden Wahlfunktion keine Fehler entstehen.
 
 ![](img/image128.png)
 *Grundkonzept: Kopfbereich einer Wahlfunktion*
 
-**Warnungen, Fehler, Hinweise (Plausibilitätsmodul):** In dieser Sektion listet das Plausibilitäts-Modul alle Fehler und Warnungen auf, die es beim Durchlaufen der Prüfroutinen entdeckt. Dabei wird unterschieden:
+## Plausibilitätsmodul: Fehler & Warnungen
+
+In dieser Sektion listet das Plausibilitätsmodul alle Fehler und Warnungen auf, die es beim Durchlaufen der Prüfroutinen entdeckt:
+
+<div className="fieldTable">
+
+| Meldung | Farbe | Bedeutung |
+| --- | --- | --- |
+| Fehler | rot | Verhindert die Nutzung der Wahlfunktion und muss zwingend vorher behoben werden. |
+| Warnung | gelb | Blockiert die Nutzung nicht, sollte aber eingehend geprüft werden. Wer trotz Warnungen fortfährt, übernimmt die Verantwortung für mögliche Folgeprobleme; nutzen Sie im Zweifel die Hilfestellungen Ihrer Wahlprojektleitung (Helpdesk, Fragestunde etc.). |
+
+</div>
 
 ![](img/image129.png)
-
-**Fehler:** Sie werden in roter Farbe dargestellt und sie verhindern die Nutzung der Wahlfunktion und müssen daher zwingend vorher behoben werden.
-
 *Grundkonzept: Plausibilitätsmeldungen*
 
 ![](img/image130.png)
+*Grundkonzept: Warnungsliste*
 
-**Warnungen:** Sie werden in gelber Farbe dargestellt. Diese blockieren zwar nicht die Verwendung der Wahlfunktion, sollten jedoch trotzdem eingehend geprüft werden. Gehen Sie mit Fehlern weiter voran, übernehmen Sie die Verantwortung für die möglicherweise entstehenden Folgeprobleme. Im Zweifel nutzen Sie die Hilfestellungen und Frage-Möglichkeiten (Helpdesk, Fragestunde, etc.…) Ihrer Wahlprojektleitung.  *Grundkonzept: Warnungsliste*
+## Liste der Protokolle und Dokumente
+
+In den meisten Wahlfunktionen entstehen Protokolle der durchgeführten Tätigkeit. Die Liste enthält Aktionen zum Aufruf des Dialogs zur Datenerfassung sowie zum Generieren von Dokumentvorlagen (unter Verwendung der Werte, die in der Dialogbox eingetragen werden).
 
 ![](img/image131.png)
+*Grundkonzept: Dokumententabelle der Wahlfunktion*
 
-**Liste von Dokument-Einträgen/Protokollen/Bezirken:** In den meisten Wahlfunktionen entstehen Protokolle von der durchgeführten Tätigkeit. Die Liste enthält Aktionen zum Aufruf des Dialogs zur Datenerfassung sowie zum Generieren von Dokumentvorlagen (unter Verwendung der Werte, die in der Dialogbox eintragen werden).  *Grundkonzept: Dokumententabelle der Wahlfunktion*
+## Dialogbox zur Datenerfassung
 
-**Dialogbox zur Datenerfassung:** Die Wahlfunktionen **1, 4 sowie 6 bis 9** basieren auf der Erfassung von Daten in einer Dialogbox. Diese Dialogbox wird über die blaue Schaltfläche mit dem Stift-Symbol geöffnet. Die erfassten Daten bilden die Grundlage für die spätere Generierung von Protokollen und Dokumenten. Die konkrete Ausgestaltung und Nutzung der Dialogbox wird in den jeweiligen Abschnitten zu den einzelnen Wahlfunktionen beschrieben.
+Die Wahlfunktionen **1, 4 sowie 6 bis 9** basieren auf der Erfassung von Daten in einer Dialogbox. Diese Dialogbox wird über die blaue Schaltfläche mit dem Stift-Symbol geöffnet. Die erfassten Daten bilden die Grundlage für die spätere Generierung von Protokollen und Dokumenten. Die konkrete Ausgestaltung und Nutzung der Dialogbox wird in den jeweiligen Abschnitten zu den einzelnen Wahlfunktionen beschrieben.
 
 ![](img/image132.png)
 *Grundkonzept: Aktionsschaltflächen*
 
+## PDF- und Word-Vorlagen
+
+Nach der Eingabe der Daten in der Dialogbox werden die Daten in einer Dokumentvorlage ausgegeben, ggf. in Word bearbeitet, ausgedruckt und unterzeichnet.
+
 ![](img/image133.png)
+*Grundkonzept: Vorlagen innerhalb der Wahlfunktionen*
 
-**Aufruf von PDF oder Word-Vorlagen:** Nach der Eingabe der Daten in der Dialogbox werden die Daten in einer Dokumentvorlage ausgegeben, ggf. in WORD bearbeitet, ausgedruckt und unterzeichnet.
+## Upload gescannter Dokumente
 
-*Vorlagen innerhalb der Wahlfunktionen*
+Die unterzeichneten Protokolle sollen für die elektronische Wahlakte gescannt oder fotografiert und hochgeladen werden. Eine Dropzone nimmt die Dateien auf; ein Klick auf die Dropzone öffnet die Dateiauswahl.
 
 ![](img/image134.png)
+*Grundkonzept: Fertige Dokumente hochladen*
 
-**Upload-Funktion für gescannte Dateien:** Die unterzeichneten Protokolle sollen für die elektronische Wahlakte gescannt oder fotografiert und hochgeladen werden. Eine Dropzone nimmt die Dateien auf. Klickt man die Drop-Zone kann man eine Datei auswählen.  *Grundkonzept: Fertige Dokumente hochladen*
+## Status & Notiz
 
-**Status- und Notiz-Feld:** Ein Statusnetz bietet folgende Auswahlmöglichkeiten:
+Ein Statusnetz bietet folgende Auswahlmöglichkeiten:
 
 - Offen
 - In Bearbeitung
 - Erledigt
 
+Der Status **Erledigt** sollte nur gesetzt werden, wenn mindestens eine Datei hochgeladen wurde – dies wird systemseitig allerdings nicht erzwungen. Unterhalb der Status-Auswahl befindet sich der Notizbereich, in dem Anmerkungen zum aktuellen Bearbeitungsstatus der Wahlfunktion festgehalten werden können.
+
 ![](img/image135.png)
+*Grundkonzept: Status und Notiz*
 
-Der Status erledigt sollte nur gesetzt werden, wenn mindestens eine Datei hochgeladen wurde. Dies wird allerdings systemseitig nicht erzwungen. Unterhalb der Status-Auswahl befindet der Notizbereich, indem Anmerkungen zu dem aktuellen Bearbeitungsstatus der Wahlfunktion festgehalten werden können.   *Grundkonzept: Status und Notiz*
+## Kommentare
 
-**Kommentar-Mechanismus:** Die Kommentarfunktion hält BENUTZER und DATUM eines Kommentares fest.
+Die Kommentarfunktion hält **Benutzer** und **Datum** eines Kommentars fest.
 
 ![](img/image136.png)
 *Grundkonzept: Kommentare*
