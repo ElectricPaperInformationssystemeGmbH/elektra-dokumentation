@@ -27,7 +27,19 @@ Die Liste ist als durchsuch- und sortierbare Tabelle aufgebaut. Über **Zeige ..
 | --- | --- |
 | Aktionen | Über das Stift-Symbol öffnen Sie den Dialog **Kandidat ändern**, der im folgenden Abschnitt beschrieben wird. |
 | Bezirk | Zeigt – sofern für Ihren Standort Stimmbezirke eingerichtet sind – den Bezirk, dem der Kandidat zugeordnet ist, und bietet ein Filter-Dropdown zur Eingrenzung der Liste auf einen bestimmten Bezirk. |
-| Nutzerbild, Anrede, vollständiger Name, vollständige Adresse, Kontaktdaten, Geburtsdatum, Alter zur Wahl, Kandidatenstatus, Dokumentationsstatus, Motivation, Motivation (HTML), Beruf, Interne Notiz | Zeigen die im Abschnitt „Onboarding von Kandidaten" beschriebenen Angaben aus dem Kandidaten-Datensatz. In der Kontaktdaten-Spalte wird nur die E-Mail-Adresse als Link angezeigt; weitere Kontaktwege (Telefon, Fax, Mobil) lassen sich über **+ mehr** ausklappen. Motivation (HTML) zeigt denselben Text in formatierbarer Fassung. Bei Kandidatenstatus steht zusätzlich ein Filter-Dropdown zur Verfügung. |
+| Nutzerbild | Foto des Kandidaten; ohne hinterlegtes Bild wird eine geschlechtsspezifische Ersatzdarstellung angezeigt. |
+| Anrede | Anrede des Kandidaten (unbekannt, Herr, Frau, Divers). |
+| vollständiger Name | Titel sowie Vor- und Nachname (inkl. Namenszusatz). |
+| vollständige Adresse | Postalische Anschrift des Kandidaten. |
+| Kontaktdaten | Kontaktwege des Kandidaten. Angezeigt wird nur die E-Mail-Adresse als Link; weitere Kontaktwege (Telefon, Fax, Mobil) lassen sich über **+ mehr** ausklappen. |
+| Geburtsdatum | Geburtsdatum des Kandidaten. |
+| Alter zur Wahl | Aus dem Geburtsdatum errechnetes Alter zum Wahlstichtag. |
+| Kandidatenstatus | Aktueller Stand der Kandidatur; mit Filter-Dropdown zur Eingrenzung der Liste auf einen bestimmten Status. |
+| Dokumentationsstatus | Bearbeitungsstand der Kandidatur-Unterlagen. |
+| Motivation | Kurze Motivation zur Kandidatur (Freitext). |
+| Motivation (HTML) | Dieselbe Motivation in formatierbarer (HTML-)Fassung. |
+| Beruf | Berufsbezeichnung des Kandidaten. |
+| Interne Notiz | Rein interne Bemerkung; erscheint nicht in Dokumentvorlagen. |
 | Dokumente | Bietet über die Schaltfläche **Dokument generieren** die Erstellung eines Dokuments aus einer projektbezogenen Vorlage (meist Datenschutzerklärungen o. Ä.) für den jeweiligen Kandidaten – zu unterscheiden vom Dokumente-Upload-Bereich im Dialog **Kandidat ändern**. |
 | Kandidaten-Titel Macro, Kandidateninfo Macro | Vorschau, wie der Name bzw. ein Textblock mit Alter, Beruf und Wohnort später auf dem Stimmzettel erscheint (nur in der Übersicht verfügbar). |
 | UUID | Technische Kennung des Datensatzes (nur in der Übersicht verfügbar). |
