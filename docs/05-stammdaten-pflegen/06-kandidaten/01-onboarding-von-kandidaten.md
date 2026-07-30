@@ -15,6 +15,8 @@ In beiden Fällen öffnet sich der Dialog **Kandidat hinzufügen**, welcher im F
 ![](img/image113.png)
 *Kandidat ändern: Status, Person und Motivation*
 
+## Kandidatenstatus und Dokumentationsstatus
+
 **Kandidatenstatus**: Ein Dropdown-Menü zur Kennzeichnung des aktuellen Standes der Kandidatur. Zur Auswahl stehen: Vorgeschlagen, Angefragt, lt. Statuten nicht wählbar, abgesagt und zugesagt.
 
 Der Status **zugesagt** ist mit einer Systemlogik hinterlegt, so dass nur Kandidaten, die diesen Status haben auf Stimmzetteln und Aushängen auftauchen. Jede Option wird zur besseren Übersicht farblich mit einem Symbol hinterlegt.
@@ -35,6 +37,8 @@ Welche Status-Werte zur Auswahl stehen und wie sie farblich dargestellt werden, 
 
 Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegeben.
 
+## Persönliche Angaben
+
 <div className="fieldTable">
 
 | Feld | Bedeutung |
@@ -52,6 +56,8 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 
 </div>
 
+## Bild und Notiz
+
 ![](img/image116.png)
 *Kandidat ändern: Nutzerbild und interne Notiz*
 
@@ -63,6 +69,8 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 | Interne Notiz | Mehrzeiliges, rein internes Freitextfeld, das nicht in Dokumentvorlagen erscheint. |
 
 </div>
+
+## Adresse
 
 ![](img/image117.png)
 *Kandidat ändern: Adresse*
@@ -77,6 +85,8 @@ Auch die Werte für den Dokumentationsstatus werden ebenso projektweit vorgegebe
 | Adresse darf veröffentlicht werden | Kontrollkästchen, das festlegt, ob die Anschrift in Wahlunterlagen ausgegeben werden darf. |
 
 </div>
+
+## Kontakt und Dokumente
 
 ![](img/image118.png)
 *Kandidat ändern: Kontakt*
