@@ -8,8 +8,7 @@ sidebar_position: 1
 - Die Bedienung der Wahlfunktion „**2) Wähleranfragen bearbeiten**“  folgt hierbei immer demselben Muster:
 
 ![](img/image149.png)
-
-Wahlbüro auswählen  WFU2: Bedienschema Wähleranfragen
+*WFU2: Bedienschema Wähleranfragen*
 
 Zu Beginn wählen Sie das **Wahlbüro**, für das die Wähleranfrage bearbeitet werden soll. Sie dient dazu,
 
@@ -21,10 +20,9 @@ Zu Beginn wählen Sie das **Wahlbüro**, für das die Wähleranfrage bearbeitet 
 | Ist keiner der Wähler des Standortes einem Wahlbüro zugeordnet, entfällt diese Auswahl. |
 
 ![](img/image150.png)
+*WFU2: Wählersuche starten*
 
-Suchbegrifflichkeit eingeben und Wähler suchen.
-
-*WFU2: Wählersuche*
+Geben Sie eine Suchbegrifflichkeit ein und suchen Sie den Wähler.
 
 - Um die Suche zu starten, geben Sie **mindestens drei Zeichen** in das Suchfeld ein und bestätigen Sie die Eingabe mit der **Enter-Taste**. Zur Identifikation der gesuchten Person zeigt die Tabelle weitere Merkmale an: die **laufende Nummer (Nr.)**, den **vollständigen Namen**, das **Geburtsdatum** und die **Adresse**.
 

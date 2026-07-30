@@ -17,7 +17,7 @@ Der Wählerservice ist in der Benutzeroberfläche auf zwei Wegen erreichbar:
 
 Die Wahlfunktion **Wähleranfragen bearbeiten** bildet insbesondere folgende Anwendungssituationen ab:
 
-- Durchführung von **Standortwechseln****.**
+- Durchführung von **Standortwechseln**.
 - Auskünfte über das Wählerverzeichnis.
 - Prüfung der Wahlberechtigung.
 - Beantragung von Briefwahlunterlagen.

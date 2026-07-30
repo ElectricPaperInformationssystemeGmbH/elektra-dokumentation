@@ -33,7 +33,7 @@ In der Tabelle können Sie nun die Wählenden auswählen, die ihr Wahlrecht an I
 | Wenn Sie alle angezeigten Personen auf einmal auswählen möchten, klicken Sie auf die **Checkbox** im Kopfbereich der Tabelle. |
 
 ![](img/image162.png)
-*Wahlrechtimport: Merhfachauswahl*
+*Wahlrechtimport: Mehrfachauswahl*
 
 Daraufhin öffnet sich der Übereilungsschutz, welchen Sie mit der Schaltfläche „**Wahlrecht importieren**“ bestätigen können.
 
