@@ -20,8 +20,25 @@ Ober- und Unterhalb der Tabelle finden Sie ggf. mehrere Interaktionsmöglichkeit
 
 Haben Sie das Privileg zur Bearbeitung von vorhandenen Wählern, können Sie die Bearbeitungsmaske eines Wählers über das **Stift-Symbol** aufrufen.
 
-| ![](img/image103.png) | Wähler können einem Wahlbezirk zugeordnet werden, wenn der Standort auf den **Wahlmodus Bezirkswahl** eingestellt ist. Die Angaben im Personenbereich umfassen Anrede, Titel, Vor- und Nachname, Geburtsdatum und Geburtsort. Für das Geburtsdatum findet eine Plausibilisierung der Daten durch die Vorgaben auf Projektebene statt. Flags, die mit weiteren Bedingungen oder Aktivitäten verbunden sind: **Standortwechsel****:** Dieses Flag kann genutzt werden, um Wahlberechtigte zu vermerken, die durch einen dokumentierten Standortwechsel im Wählerverzeichnis hinzugefügt oder gesperrt werden. Diese Einstellung wird automatisch gesetzt, sobald ein Standortwechsel über die **Wahlfunktion 2** durchgeführt wurde. **Nicht zur Wahl zugelassen:** Dieses Flag sieht vor, dass der Wähler am Standort nicht wählen darf. Die Gründe sind in der Internen Notiz zu hinterlegen. **Interne Notiz:** Feld für Bemerkungen zur Sachbearbeitung. Der Adressbereich umfasst die üblichen Felder. Der Kontaktbereich ebenfalls. **Informationen zur Wahlteilnahme** **(URNE,BRIEF,ONLINE)** **Urnenwahl** Wahlberechtigte können im Vorwege Wahlräumen zugeordnet werden. Andererseits: Wenn Sie an einer Urnenwahl teilnehmen und die Teilnahme über den Wählerservice gebucht wird, wird der entsprechende Wahlraum festgehalten. **Briefwahl** Für die Briefwahl gibt es 4 Stati, die alle mit einem Datum für die entsprechende Tätigkeit dokumentiert werden. Antragsstellung Unterlagen-Ausgabe Briefwahl-Rücklauf/Teilnahme Korrekte Teilnahme (Wahlbrief in Urne abgelegt). **Onlinewahl** Für die Onlinewahl gibt es 3 Stati, die vorgehalten werden. Auch sie werden mit Datum protokolliert. Antragstellung Unterlagen-Ausgab e Korrekte Teilnahme (Verbucht über das Online-Wahlsystem). Die Funktion zum Löschen von Kandidaten ist durch Privilegien geschützt und wird in der Regel nicht für Standorte freigegeben. |
+![](img/image103.png)
+*Bearbeitungsmaske eines Wählers*
+
+<div className="fieldTable">
+
+| Feld | Bedeutung |
 | --- | --- |
+| Bezirk | Zuordnung zu einem Wahlbezirk – nur möglich, wenn der Standort auf den **Wahlmodus Bezirkswahl** eingestellt ist. |
+| Person | Anrede, Titel, Vor- und Nachname, Geburtsdatum und Geburtsort. Für das Geburtsdatum erfolgt eine Plausibilisierung anhand der Vorgaben auf Projektebene. |
+| Standortwechsel | Flag zum Vermerken von Wahlberechtigten, die durch einen dokumentierten Standortwechsel im Wählerverzeichnis hinzugefügt oder gesperrt werden. Wird automatisch gesetzt, sobald ein Standortwechsel über die **Wahlfunktion 2** durchgeführt wurde. |
+| Nicht zur Wahl zugelassen | Flag, das festlegt, dass der Wähler am Standort nicht wählen darf. Die Gründe sind in der internen Notiz zu hinterlegen. |
+| Interne Notiz | Feld für Bemerkungen zur Sachbearbeitung. |
+| Adresse | Die üblichen Adressfelder. |
+| Kontakt | Die üblichen Kontaktfelder. |
+| Urnenwahl | Wahlberechtigte können vorab Wahlräumen zugeordnet werden. Nimmt der Wähler an einer Urnenwahl teil und wird die Teilnahme über den Wählerservice gebucht, wird der entsprechende Wahlraum festgehalten. |
+| Briefwahl | Vier Stati, jeweils mit Datum dokumentiert: Antragstellung, Unterlagen-Ausgabe, Briefwahl-Rücklauf/Teilnahme sowie korrekte Teilnahme (Wahlbrief in Urne abgelegt). |
+| Onlinewahl | Drei Stati, jeweils mit Datum protokolliert: Antragstellung, Unterlagen-Ausgabe sowie korrekte Teilnahme (verbucht über das Online-Wahlsystem). |
+
+</div>
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
