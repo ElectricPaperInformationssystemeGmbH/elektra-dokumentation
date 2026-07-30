@@ -10,7 +10,9 @@ Im Wahlteam werden die Adressdaten und Kontaktdaten von Mitarbeitenden und Ehren
 ![](img/image97.png)
 *Wahlteam-Übersicht*
 
-- Die Liste sollte neben einem Standortverantwortlichen auch die Mitglieder des Wahlvorstands umfassen. Auch Wahlhelfer werden hier erfasst
+| **Hinweis** ![](img/image9.png) |
+| --- |
+| Die Liste sollte neben einem Standortverantwortlichen auch die Mitglieder des Wahlvorstands umfassen. Auch Wahlhelfer werden hier erfasst. |
 
 ## Wahlteam-Mitglied bearbeiten
 
