@@ -7,12 +7,12 @@ sidebar_position: 2
 
 Wahlbezirke sind geografische oder sachlogische Einheiten, die bei Wahlen genutzt werden, um die Wahlorganisation zu erleichtern und eine gerechte Stimmverteilung sicherzustellen. Sie ermöglichen es, die Wählerstimmen in kleineren, verwaltbaren Bereichen zu erfassen und deren Repräsentation im Gremium zu sichern. Sie sorgen sie dafür, dass jede Stimme in einem repräsentativen Verhältnis zur Anzahl vertretener Mitglieder  des jeweiligen Bezirks steht, was für die faire Repräsentation in den Gremien wichtig ist.
 
+![](img/image93.png)
+*Wahlbezirke verwalten*
+
 | **Hinweis** ![](img/image9.png) |
 | --- |
 | Wahlbezirke können nur angelegt werden, wenn für den Standort „**Bezirkswahl**“ oder „**unechte Bezirkswahl**“ als Wahlmodus hinterlegt wurde (siehe Standortvorgaben). Ist hingegen Einheitswahl hinterlegt, ist der Bereich „**Bezirke**“ ausgegraut. |
-
-![](img/image93.png)
-*Wahlbezirke verwalten*
 
 ## Bezirk bearbeiten
 
