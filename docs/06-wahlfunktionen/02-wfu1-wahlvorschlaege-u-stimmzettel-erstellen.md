@@ -5,95 +5,93 @@ sidebar_position: 2
 
 # WFU1 Wahlvorschläge u Stimmzettel erstellen
 
-Mit dieser Wahlfunktion erzeugen Sie unter Verwendung des eingebauten Reportgenerators Aushänge für Wahlvorschläge und Stimmzettel. Die Vorgehensweise umfasst die folgenden Schritte:
+Mit dieser Wahlfunktion erzeugen Sie unter Verwendung des eingebauten Reportgenerators Aushänge für Wahlvorschläge und Stimmzettel.
+
+Wie alle dokumentarischen Wahlfunktionen beginnt WFU1 mit Arbeitshilfen und dem Plausibilitätsmodul (Fehler & Warnungen); die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben. Im Folgenden werden die Schritte dieser Wahlfunktion erläutert.
 
 ![](img/image137.png)
+*WFU1: Wahlvorschläge und Stimmzettel erstellen*
 
-Sichten Sie die angebotenen Arbeitshilfen.  *WFU1: Wahlvorschläge und Stimmzettel erstellen*
+## Stimmzettel-Dialog ausfüllen
 
-![](img/image129.png)
-
-Prüfen Sie, ob die gemeldeten Fehler oder Warnungen des Plausibilitätsmoduls beheben können. Fehler werden in roter Farbe dargestellt und verhindern die Nutzung der Wahlfunktion und müssen daher zwingend vorher behoben werden.
-
-*Fehler in Wahlfunktion 1*
-
-![](img/image130.png)
-
-Warnungen werden in gelber Farbe dargestellt. Diese blockieren zwar nicht die Verwendung der Wahlfunktion, sollten jedoch trotzdem eingehend geprüft werden    *WFU1: Plausibilitätsprüfung (Fehler und Warnungen)*
+Wählen Sie den Bezirk (bei Einheitswahl ist nur ein Eintrag vorhanden), für den Sie einen Aushang erzeugen wollen, und befüllen Sie die Dialogbox:
 
 ![](img/image138.png)
-
-Wählen Sie den Bezirk (bei Einheitswahl ist nur ein Eintrag vorhanden), für den Sie einen Aushang erzeugen wollen.
-
 *Dialog Stimmzettel erstellen öffnen*
 
-Und befüllen Sie die Dialogbox:
+<div className="fieldTable">
 
-**Überschrift**: Meist steht hier „Stimmzettel“ oder „Wahlvorschlag“. Der Textvorschlag kann aus dem Projekt übernommen werden, darf aber hier konkret für den Zweck auch verändert werden.
+| Feld | Bedeutung |
+| --- | --- |
+| Überschrift | Meist „Stimmzettel" oder „Wahlvorschlag". Der Textvorschlag kann aus dem Projekt übernommen und hier für den Zweck angepasst werden. |
+| Optionale Unterüberschrift | Wird unterhalb der Hauptüberschrift in fetter Schrift dargestellt. |
+| Text über dem Stimmblock | Erscheint über dem Stimmblock des Papierstimmzettels. Bei Online-Wahlen nicht berücksichtigt, sondern automatisch aus den Vorgaben hergeleitet. |
+| Text unter dem Stimmblock | Wird bei Papierstimmzetteln unter dem Stimmblock wiedergegeben. Wird nicht in das Onlinewahlsystem übertragen. |
+| Wasserzeichen | Grauer Text in großen Lettern hinter dem Stimmblock. **WICHTIG:** Feld leer lassen, wenn Sie den endgültigen Stimmzettel für den Massendruck erzeugen! |
 
-**Optionale Unterüberschrift**: Dieser Text wird unterhalb der Hauptüberschrift in fetter Schrift dargestellt.
-
-**Text über dem Stimmblock**: Dieser Text erscheint über dem Stimmblock des Papierstimmzettels. (Dieser Textblock wird bei Online-Wahlen nicht berücksichtigt, sondern stattdessen automatisch aus den Vorgaben hergeleitet.)
-
-**Text unter dem Stimmblock:** Dieser Text wird bei papierenen Stimmzetteln unter dem Stimmblock wiedergegeben. (Dieser Textblock wird nicht in das Onlinewahlsystem übertragen).
-
-**Wasserzeichen**: Ein Wasserzeichen kann in grauer Farbe in großen Lettern hinter den Stimmblock erscheinen. Hier geben Sie den Text ein. **WICHTIG:** Lassen Sie das Feld leer, wenn Sie den endgültigen Stimmzettel für den Massendruck erzeugen!
+</div>
 
 ![](img/image139.png)
 *Textblöcke im Dialog Stimmzettelentwurf*
 
-Im Feld **Kandidaten** wählen Sie nun die zugesagten Kandidaten Ihres Standortes aus, die auf Briefwahlstimmzettel erscheinen sollen.
+Im Feld **Kandidaten** wählen Sie die zugesagten Kandidaten Ihres Standortes aus, die auf dem Briefwahlstimmzettel erscheinen sollen.
 
 ![](img/image140.png)
 *Kandidatenauswahl*
 
 | **Hinweis** ![](img/image9.png) |
 | --- |
-| Klicken Sie auf den Knopf **Alle Kandidaten auswählen,** um automatisch sämtliche Kandidaten Ihres Standortes zu übernehmen, die den Status **zugesagt** haben. Um einen Kandidaten zu entfernen, klicken Sie auf das Kreuz neben dessen Namen. |
+| Klicken Sie auf **Alle Kandidaten auswählen**, um automatisch alle Kandidaten mit dem Status **zugesagt** zu übernehmen. Um einen Kandidaten zu entfernen, klicken Sie auf das Kreuz neben dessen Namen. |
 
-**Vorlage zum Generieren des Wahlvorschlags/Stimmzettel wählen:** Das Dropdown gibt verschiedene vorbereitete Layouts zur Auswahl. Neben dem Stimmzettel sind hier ebenfalls Vorlagen für Kandidatenvorstellungen oder Aushänge wählbar.
+<div className="fieldTable">
+
+| Feld | Bedeutung |
+| --- | --- |
+| Vorlage zum Generieren des Wahlvorschlags/Stimmzettels | Dropdown mit verschiedenen vorbereiteten Layouts – neben dem Stimmzettel auch Vorlagen für Kandidatenvorstellungen oder Aushänge. |
+| Neue Wahlvorschlag-/Stimmzettel-Entwürfe jetzt erstellen | Legt fest, ob die Daten nur in der Dialogbox eingetragen werden oder ob beim Speichern zusätzlich ein neuer Entwurf erzeugt und der Liste hinzugefügt wird. |
+
+</div>
 
 ![](img/image141.png)
-
-**Neue Wahlvorschlag/Stimmzettel- Entwürfe jetzt erstellen**: Hier entscheiden Sie, ob Sie die Daten nur in der Dialogbox eintragen wollten, oder ob mit Speichern der Daten auch ein neuer Entwurf erzeugt und der Liste hinzugefügt werden soll.
-
-*Neuen Entwurf erstellen*
+*Vorlage auswählen*
 
 ![](img/image142.png)
+*Neuen Entwurf erstellen*
 
-Sie finden den nun frisch erzeugten Entwurf in der Liste wieder. Es kann einen Moment dauern, bis dieser Hintergrundprozess abgeschlossen wurde. Das System zeigt ein Reload-Symbol. Ggf. klicken Sie den Reload-Button.
+## Entwurf prüfen
+
+Sie finden den frisch erzeugten Entwurf in der Liste wieder. Es kann einen Moment dauern, bis der Hintergrundprozess abgeschlossen ist; das System zeigt ein Reload-Symbol – ggf. klicken Sie den Reload-Button.
 
 ![](img/image143.png)
 *WFU1: Liste der Wahlvorschlags- und Stimmzettelentwürfe*
 
-- Sichten Sie den Inhalt, indem Sie die Vorschau aufrufen oder einen Download anfertigen und die Datei mit Ihren Wahlteam-Mitgliedern sorgfältig prüfen.
+Sichten Sie den Inhalt über die Vorschau oder einen Download und prüfen Sie die Datei sorgfältig mit Ihren Wahlteam-Mitgliedern.
 
 ![](img/image144.png)
-*Vorschau aufrufen*
-
 *WFU1: Stimmzettel-Vorschau*
 
-- Wenn Sie Fehler feststellen, korrigieren Sie die entsprechenden Angaben. Kandidatenangaben korrigieren Sie in den Stammdaten für Kandidaten. Überschriften und Texte korrigieren Sie in der Dialogbox (Schritt 3).
-- Einige Dinge, die Sie unbedingt prüfen sollten:
-- Sind alle Kandidaten vorhanden? Sind alle Kandidaten wählbar – also sind Sie aktiv wahlberechtigt? Sind sie alt genug?
-- Stimmen Geschlecht, Bilder, Motivationszitat, Alter?
-- Haben Kandidaten eventuell Einwände bezüglich des Datenschutzes formuliert? Nutzen Kandidaten die Funktion „Anschrift unterdrücken“ und spiegelt der Stimmzettel bzw. Aushang das wider?
-- Stellen Sie sicher, dass der Stimmzettel nur exakt **1 Seite** umfasst! Prüfen Sie, dass die Stimmzettel-Datei wegen eines Seitenumbruchs nicht etwa eine leere Seite angehängt hat.
-- Wenn Sie Fehler festgestellt haben, können Sie den als „Entwurf“ stehen lassen. Alternativ kann der Entwurf über das **Mülleimer-Symbol** gelöscht werden.
+Prüfen Sie insbesondere:
+
+- Sind alle Kandidaten vorhanden und wählbar (aktiv wahlberechtigt, alt genug)?
+- Stimmen Geschlecht, Bilder, Motivationszitat und Alter?
+- Haben Kandidaten Datenschutz-Einwände formuliert bzw. nutzen sie „Anschrift unterdrücken" – und spiegelt der Stimmzettel/Aushang das wider?
+- Umfasst der Stimmzettel exakt **1 Seite** (keine leere Folgeseite durch einen Seitenumbruch)?
+
+Bei Fehlern korrigieren Sie die Angaben: Kandidatenangaben in den Kandidaten-Stammdaten, Überschriften und Texte in der Dialogbox. Einen fehlerhaften Entwurf können Sie als Entwurf stehen lassen oder über das **Mülleimer-Symbol** löschen.
 
 ![](img/image146.png)
-
-Die Listeneinträge sind in einem Status-Netz den folgenden Stati zugeordnet:
-
 *WFU1: Statusleiste der Entwürfe*
 
-  - Nach der Erzeugung haben die PDF-Dateien den Status ‚Entwurf‘.
-  - In der Spalte „**Alle Nächster Status**“ gibt es die Schaltfläche zum Aktivieren des nächsten Status.
-  - Wählen Sie ‚Frei zum Druck‘ erst dann, wenn sämtliche Aushänge und Rückmeldemöglichkeiten erschöpft sind. Dann erzeugen Sie den endgültigen Stimmzettel und setzen diesen Status!
-- Sind Sie mit ihrem Dokument zufrieden, so dass es als Aushang verwendet werden kann, setzen Sie den Status von Entwurf auf „**Verbindlicher Aushang/Wahlvorschlag**“. Dazu klicken Sie in die Spalte ‚Alle nächsten Status‘ auf die Schaltfläche.
+## Status der Entwürfe
+
+Die Listeneinträge durchlaufen ein Statusnetz:
+
+- Nach der Erzeugung haben die PDF-Dateien den Status **Entwurf**.
+- Über die Spalte **Alle Nächster Status** aktivieren Sie den jeweils nächsten Status.
+- Setzen Sie **Verbindlicher Aushang/Wahlvorschlag**, sobald das Dokument als Aushang verwendet werden kann.
+- Setzen Sie **Frei zum Druck** erst, wenn alle Aushänge und Rückmeldemöglichkeiten erschöpft sind und der endgültige Stimmzettel erzeugt ist.
 
 ![](img/image147.png)
 *Status setzen*
 
-- Wiederholen Sie diesen Schritte 3-7 nach Ende der Rückmeldefristen. **Erst dann** gilt es den endgültigen Stimmzettel zu erzeugen und im Statusnetz auf „**Frei zum Druck**“ zu stellen!
-- Nun erst können Sie den Status für die Wahlfunktion WFU1 auf FERTIG stellen.
+Wiederholen Sie diese Schritte nach Ende der Rückmeldefristen. **Erst dann** erzeugen Sie den endgültigen Stimmzettel und stellen ihn auf **Frei zum Druck**. Anschließend setzen Sie den Status der Wahlfunktion WFU1 auf **Fertig**.
