@@ -8,6 +8,7 @@ sidebar_position: 5
 Das Panel Kontakt & Adressen enthält die Lieferadressen für Werbematerial und Wahlbriefe sowie einen allgemeinen Dokumenten-Upload.
 
 ![](img/image92.png)
+*Kontakt & Adressen*
 
 <div className="fieldTable">
 

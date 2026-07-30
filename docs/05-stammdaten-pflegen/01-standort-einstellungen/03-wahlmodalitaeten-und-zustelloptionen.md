@@ -6,10 +6,9 @@ sidebar_position: 3
 # Wahlmodalitäten & Zustelloptionen
 
 ![](img/image90.png)
+*Wahlmodalitäten & Zustelloptionen*
 
 Das Panel Wahlmodalitäten & Zustelloptionen legt fest, welche Wahlkanäle an Ihrem Standort angeboten werden und auf welchen Wegen die Zugänge zur Onlinewahl zugestellt werden.
-
-*Wahlmodalitäten & Zustelloptionen*
 
 <div className="fieldTable">
 

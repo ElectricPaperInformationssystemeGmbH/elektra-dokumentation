@@ -18,6 +18,7 @@ Wenn Sie die Vorlage auswählen, folgt ein Dialog, in dem Sie wählen können, o
 Mit **Generieren** startet der Vorlagenprozess im Hintergrund. Er baut nun entweder PDF-Dateien auf Basis des integrierten Report-Generators oder er erstellt DOCX/ZIP-Dateien mit Word-Dokumenten. Ist dieser asynchron ablaufende Generierprozess abgeschlossen, erscheint ein grüner Balken und Sie können die Datei aus dem Downloadbereich ihres Browsers herunterladen. Bei sehr lang laufenden Generierungen erhalten Sie eine Benachrichtigung.
 
 ![](img/image122.png)
+*Erfolgsmeldung nach der Dokumentgenerierung*
 
 ![](img/image123.png)
 *Ergebnis der Dokumentgenerierung*
@@ -40,8 +41,7 @@ Schleifen über die Einträge in der Tabelle können je nach Vorlage aufgelöst 
 ![](img/image125.png)
 *Serienbrief-Ergebnis (Word je Kandidat)*
 
-![](img/image126.png)
-
 Wollen Sie ein Dokument nur für eine Person generieren, finden Sie ebenfalls in der Spalte **Dokumente** die Schaltfläche **Dokument generieren**.
 
+![](img/image126.png)
 *Dokument für einen Datensatz generieren*

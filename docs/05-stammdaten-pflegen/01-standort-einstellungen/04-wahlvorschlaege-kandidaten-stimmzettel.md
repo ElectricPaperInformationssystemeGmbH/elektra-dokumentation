@@ -6,6 +6,7 @@ sidebar_position: 4
 # Wahlvorschläge, Kandidaten, Stimmzettel
 
 ![](img/image91.png)
+*Wahlvorschläge, Kandidaten, Stimmzettel*
 
 Das Panel Wahlvorschläge, Kandidaten, Stimmzettel steuert, welche Angaben zu Kandidatinnen und Kandidaten erhoben und wie diese auf Stimmzetteln und Aushängen dargestellt werden.
 

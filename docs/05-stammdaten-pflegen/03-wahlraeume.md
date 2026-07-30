@@ -6,6 +6,7 @@ sidebar_position: 3
 # Wahlräume
 
 ![](img/image95.png)
+*Wahlräume-Übersicht*
 
 Sofern an Ihrem Standort eine Urnenwahl oder eine Briefwahl an Ort und Stelle durchgeführt wird, sind Wahlräume notwendig, um Wählern einen physischen Ort zur Stimmabgabe zu bieten. Sie ermöglichen es, die Wahl ordnungsgemäß durchzuführen, Stimmen sicher zu erfassen und eine zugängliche, barrierefreie Wahlteilnahme für der Wahlberechtigten zu gewährleisten. Ebenso lässt sich hier eine Unterstützung für die Onlinewahl anbieten, etwa in Form eines Wahlraums mit Internetzugang für Wählerinnen und Wähler ohne eigenes Endgerät. Die hinterlegten Angaben zu den Wahlräumen können außerdem auf der Wahlbenachrichtigung mit abgedruckt werden.
 
