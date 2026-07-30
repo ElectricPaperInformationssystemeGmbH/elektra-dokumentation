@@ -106,9 +106,3 @@ Abschließende Dokumentation und Übermittlung der Wahlergebnisse.
 <Vimeo id="1095852942" title="Dokumente" />
 
 Alle erzeugten und hochgeladenen Dokumente des Standorts mit Filterfunktionen.
-
-### Tutorial: Standortwechsel
-
-<Vimeo id="1099893207" title="Tutorial: Standortwechsel" />
-
-Standortwechsel eines Wählers korrekt durchführen.

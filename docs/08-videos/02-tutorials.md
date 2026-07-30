@@ -18,9 +18,3 @@ Wenn Sie **Elektra** zum ersten Mal nutzen, gibt Ihnen dieses Video in rund elf 
 <Vimeo id="1099893188" title="Registrierungsantrag" />
 
 Wie Sie als Standortverantwortliche(r) einen Registrierungsantrag für die Wahlteam-Mitglieder erstellen.
-
-## Standortwechsel
-
-<Vimeo id="1099893207" title="Standortwechsel" />
-
-Wie der Standortwechsel eines Wählers korrekt durchgeführt wird – hilfreich bei Wunschwählern.
