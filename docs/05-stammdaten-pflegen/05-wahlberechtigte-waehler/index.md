@@ -20,8 +20,12 @@ Ober- und Unterhalb der Tabelle finden Sie ggf. mehrere Interaktionsmöglichkeit
 
 Haben Sie das Privileg zur Bearbeitung von vorhandenen Wählern, können Sie die Bearbeitungsmaske eines Wählers über das **Stift-Symbol** aufrufen.
 
+<div style={{maxWidth: '500px'}}>
+
 ![](img/image103.png)
 *Bearbeitungsmaske eines Wählers*
+
+</div>
 
 <div className="fieldTable">
 
