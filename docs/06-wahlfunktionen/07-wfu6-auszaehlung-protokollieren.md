@@ -5,7 +5,7 @@ sidebar_position: 7
 
 # WFU6 Auszählung protokollieren
 
-Diese Wahlfunktion dokumentiert die Öffnung der Wahlurnen und den anschließenden Auszählungsprozess.
+Diese Wahlfunktion dokumentiert die Öffnung der Wahlurnen und den anschließenden Auszählungsprozess. Der Arbeitsschritt ist für Urnen-, Brief- und Hybridwahlen gleichermaßen relevant.
 
 Wie alle dokumentarischen Wahlfunktionen beginnt WFU6 mit Arbeitshilfen und dem Plausibilitätsmodul; die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben.
 
@@ -16,12 +16,12 @@ Im Anschluss wird eine **Liste** angezeigt, über die die **Niederschriften** �
 
 ## Auszählung protokollieren
 
-Wählen Sie den Standort bzw. Bezirk aus und klicken Sie auf den blauen Stift, um den Dialog zu öffnen.
+Wählen Sie den Standort bzw. Bezirk aus und klicken Sie auf das **Stift-Symbol**, um den Dialog zu öffnen.
 
-![](img/image201.png)
-*WFU6: Eintrag zur Bearbeitung öffnen*
+![](img/image.png)
+*WFU6: Bearbeitungsdialog öffnen*
 
-Füllen Sie den Dialog aus:
+Innerhalb des Dialogs finden Sie folgende Angaben:
 
 ![](img/image202.png)
 *WFU6: Bearbeitungsdialog Auszählung*
@@ -39,21 +39,26 @@ Füllen Sie den Dialog aus:
 
 Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bearbeitung**.
 
-![](img/image203.png)
-*WFU6: Dokumentenliste und Drop-Zone*
-
-![](img/image204.png)
-![](img/image205.png)
+![](img/image-1.png)
+*WFU6: Statuswechsel*
 
 Wählen Sie **Vorlage generieren**, um die Vorlage auszuwählen und ein personalisiertes Dokument zu erhalten. Bearbeiten Sie das Dokument, drucken Sie es aus und unterzeichnen Sie es. Laden Sie das gescannte oder fotografierte Dokument anschließend hoch.
 
-![](img/image206.png)
-*WFU6: Auszählungsprotokoll generieren und hochladen*
+![](img/image-2.png)
+*WFU6: Vorlage des Protokolls auswählen*
+
+![](img/image205.png)
+*WFU6: Auszählungsprotokoll (Beispiel)*
 
 Der Status in der Liste ändert sich dadurch automatisch. Wiederholen Sie diesen Schritt ggf. für alle Bezirke und ziehen Sie die Ergebnisse zusammen.
 
-![](img/image207.png)
-*WFU6: Ergebnisse aller Bezirke zusammenführen*
+![](img/image-3.png)
+*WFU6: Statuswechsel "fertig"*
+
+
+| **Hinweis** ![](img/image9.png) |
+| --- |
+| Sofern die Option von der Projektleitung freigeschaltet wurde, können Sie alternativ die Option **Dokument liegt vor (papierbasiert)** auswählen um den Status des Wahltages auf **fertig** zu stellen. |
 
 Wie bei den meisten Wahlfunktionen können **Status** und **Kommentare** gesetzt werden (siehe [Grundkonzept](./grundkonzept-fuer-dokumentarische-wahlfunktionen)).
 
