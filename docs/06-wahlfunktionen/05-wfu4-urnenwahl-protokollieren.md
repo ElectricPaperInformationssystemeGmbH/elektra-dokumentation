@@ -18,9 +18,9 @@ In der Matrix sind Grün, Orange und Rot Status-Informationen; Dunkelblau sind d
 
 ## Protokoll erzeugen und speichern
 
-Wählen Sie einen Eintrag aus der Matrix, indem Sie auf den blauen Stift klicken.
+Wählen Sie einen Eintrag aus der Matrix, indem Sie auf das **Stift-Symbol** klicken.
 
-![](img/image188.png)
+![](img/image1871.png)
 *WFU4: Eintrag zur Bearbeitung öffnen*
 
 Bearbeiten Sie den Inhalt im Dialog:
@@ -33,9 +33,10 @@ Bearbeiten Sie den Inhalt im Dialog:
 | Feld | Bedeutung |
 | --- | --- |
 | Wahllokal an dem Tag | Legt fest, ob für diesen Tag ein Protokoll entstehen soll, um die Wahlhandlung im Wahlraum zu protokollieren. |
-| GESCHLOSSEN | Wählen Sie diesen Eintrag, wenn an diesem Tag keine Wahlhandlung stattfinden kann. |
+| Datum | Zeigt das Datum an, für welches die Wahlhandlung im Wahllokal protokolliert werden soll (nicht veränderbar) |
+| Wahlraum | Zeigt den Wahlraum an, für den das Protokoll angelegt werden soll (nicht veränderbar) |
 | Wahlteam-Mitglieder | Welche Vertreter des Wahlvorstands sind mit Durchführung und Protokollierung beauftragt? |
-| Notizen / besondere Vorkommnisse | Raum zum Festhalten besonderer Begebenheiten. |
+| Notizen / besondere Vorkommnisse | Freitextfeld zum Festhalten besonderer Begebenheiten. |
 | Wie wurde mit der Wahlurne am Ende des Wahltags verfahren? | Dokumentieren Sie, wie mit der Wahlurne umgegangen wurde. |
 | Fertige Dokumente | Drop-Zone für das Hochladen fertig unterzeichneter Protokolle. |
 
@@ -43,20 +44,30 @@ Bearbeiten Sie den Inhalt im Dialog:
 
 Speichern Sie den Inhalt des Dialogs. Entsprechend Ihren Angaben ändert sich der Status des Eintrags in der Matrix.
 
-![](img/image190.png)
-![](img/image191.png)
-![](img/image192.png)
+Erzeugen Sie anschließend das Protokoll, in dem Sie auf die Schaltfläche **Protokoll erstellen klicken**. Es öffnet sich ein Dropdown-Menü, aus dem Sie die gewünschte Vorlage auswählen können.
+
+![](img/image1921.png)
+*WFU4: Auswahl der Vorlage*
+
+Daraufhin öffnet sich ein Dialog. Wählen Sie die Schaltfläche **Generieren** aus.
+
+<div style={{maxWidth: '900px'}}>
 ![](img/image193.png)
-![](img/image194.png)
+*WFU4: Generierungsdialog*
+</div>
 
-Erzeugen Sie anschließend das Protokoll: Klicken Sie auf das Dropdown und wählen Sie die Protokollvorlage aus. Es erscheint ein Dialog, der ggf. weitere Variablen abfragt; klicken Sie dort auf **Generieren**.
-
-Ergänzen und unterzeichnen Sie das Protokoll, wo nötig, und fügen Sie notfalls Anlagen hinzu. Scannen oder fotografieren Sie das unterzeichnete Protokoll, klicken Sie erneut auf den Stift und laden Sie das Dokument hoch. Speichern Sie die Eingaben.
-
-![](img/image195.png)
-*WFU4: Protokoll erzeugen und hochladen*
+Ergänzen und unterzeichnen Sie das Protokoll, wo nötig, und fügen Sie notfalls Anlagen hinzu. Scannen oder fotografieren Sie das unterzeichnete Protokoll, klicken Sie erneut auf das **Stift-Symbol** und laden Sie das Dokument hoch. Speichern Sie die Eingaben.
 
 Durch das Hochladen der Datei stellt sich der Status des Feldes in der Matrix automatisch auf **fertig**.
+
+<div style={{maxWidth: '900px'}}>
+![](img/image1951.png)
+*WFU4: Abgeschlossener Urnenwahltag*
+</div>
+
+| **Hinweis** ![](img/image9.png) |
+| --- |
+| Sofern die Option von der Projektleitung freigeschaltet wurde, können Sie alternativ die Option **Dokument liegt vor (papierbasiert)** auswählen um den Status des Wahltages auf **fertig** zu stellen. |
 
 ## Gesamtstatus, Notizen und Kommentare
 
