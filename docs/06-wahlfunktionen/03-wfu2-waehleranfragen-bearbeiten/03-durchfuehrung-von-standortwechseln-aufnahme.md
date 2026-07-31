@@ -5,8 +5,8 @@ sidebar_position: 3
 
 # Durchführung von Standortwechseln – Aufnahme
 
-- Wurde dem Antrag eines Wählenden, das Wahlrecht an Ihrem Standort auszuüben, stattgegeben, muss die Person in das **Wählerverzeichnis** Ihres Standortes aufgenommen werden.
-- Scrollen Sie innerhalb des **Wählerservices** nach unten, bis Sie den Abschnitt **Wahlrecht exportieren** sehen.
+Wurde dem Antrag eines Wählenden, das Wahlrecht an Ihrem Standort auszuüben, stattgegeben, muss die Person in das **Wählerverzeichnis** Ihres Standortes aufgenommen werden.
+Scrollen Sie innerhalb des **Wählerservices** nach unten, bis Sie den Abschnitt **Wahlrecht exportieren** sehen.
 
 ![](img/image158.png)
 *Wahlrecht importieren*
@@ -37,5 +37,9 @@ In der Tabelle können Sie nun die Wählenden auswählen, die ihr Wahlrecht an I
 
 Daraufhin öffnet sich der Übereilungsschutz, welchen Sie mit der Schaltfläche „**Wahlrecht importieren**“ bestätigen können.
 
+<div style={{maxWidth: '400px'}}>
+
 ![](img/image163.png)
 *Wahlrechtimport: Übereilungsschutz*
+
+</div>

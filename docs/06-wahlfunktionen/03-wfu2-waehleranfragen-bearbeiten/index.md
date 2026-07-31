@@ -12,8 +12,8 @@ Die Wahlfunktion **2) „Wähleranfragen bearbeiten“**, im Folgenden auch **W�
 
 Der Wählerservice ist in der Benutzeroberfläche auf zwei Wegen erreichbar:
 
-- Über den Menüpunkt **Wählerservice** im Seitenmenü, werden **alle Wahlbüros angezeigt, auf die der Benutzer Zugriffsrechte besitzt**. Dies kann ebenfalls unterschiedliche Wahlprojekte umfassen. Auf diese Weise wird ein **schneller Wechsel zwischen Wahlbüros** ermöglicht, beispielsweise wenn mehrere Gremien zeitgleich gewählt werden.
-- Um den Wählerservice für Ihren aktuellen Standort aufzurufen, wechseln Sie in den Bereich der **Wahlfunktionen** und rufen hier **2) Wähleranfragen** bearbeiten auf. In diesem Fall werden **ausschließlich die Wahlbüros des aktuell ausgewählten Standorts** angezeigt.
+1. Über den Menüpunkt **Wählerservice** im Seitenmenü, werden **alle Wahlbüros angezeigt, auf die der Benutzer Zugriffsrechte besitzt**. Dies kann ebenfalls unterschiedliche Wahlprojekte umfassen. Auf diese Weise wird ein **schneller Wechsel zwischen Wahlbüros** ermöglicht, beispielsweise wenn mehrere Gremien zeitgleich gewählt werden.
+2. Um den Wählerservice für Ihren aktuellen Standort aufzurufen, wechseln Sie in den Bereich der **Wahlfunktionen** und rufen hier **2) Wähleranfragen** bearbeiten auf. In diesem Fall werden **ausschließlich die Wahlbüros des aktuell ausgewählten Standorts** angezeigt.
 
 Die Wahlfunktion **Wähleranfragen bearbeiten** bildet insbesondere folgende Anwendungssituationen ab:
 
