@@ -26,7 +26,7 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 
 </div>
 
-- Unterhalb dessen finden Sie die Übersicht, in der Sie weitere Daten zu der Onlinewahl finden. Dieser Bereich ist vor allem relevant nachdem die Onlinewahl bereits ausgezählt wurde.
+Unterhalb dessen finden Sie die Übersicht, in der Sie weitere Daten zu der Onlinewahl finden. Dieser Bereich ist vor allem relevant nachdem die Onlinewahl bereits ausgezählt wurde.
 
 ![](img/image198.png)
 *WFU5: Detaildaten der Onlinewahl*
@@ -45,7 +45,7 @@ Onlinewahlen werden in **Elektra** zentralseitig bearbeitet. Standortverantwortl
 
 </div>
 
-- Am Seitenende finden Sie eine Übersicht der auf die einzelnen Kandidaten verteilten Online-Stimmen.
+Am Seitenende finden Sie eine Übersicht der auf die einzelnen Kandidaten verteilten Online-Stimmen.
 
 ![](img/image199.png)
 *WFU5: Stimmenverteilung je Kandidat*
