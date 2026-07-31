@@ -70,6 +70,13 @@ Die unterzeichneten Protokolle sollen für die elektronische Wahlakte gescannt o
 ![](img/image134.png)
 *Grundkonzept: Fertige Dokumente hochladen*
 
+Ein Bearbeitungsdialog innerhalb der Wahlfunktionen wird automatisch auf **fertig** gesetzt, sobald eine Datei hochgeladen wurde. Ohne hochgeladene Datei lässt sich der Dialog nicht auf **fertig** stellen.
+
+Hat die Projektleitung die entsprechende Option freigeschaltet, steht alternativ die Funktion **Dokument liegt vor (papierbasiert)** zur Verfügung. Damit bestätigen Sie anstelle des Datei-Uploads, dass das Dokument in Papierform vorliegt – ein Upload ist dann nicht erforderlich.
+
+![](img/image1341.png)
+*Grundkonzept: Alternative zum Datei-Upload; Dokument liegt vor (papierbasiert)*
+
 ## Status & Notiz
 
 Ein Statusnetz bietet folgende Auswahlmöglichkeiten:
