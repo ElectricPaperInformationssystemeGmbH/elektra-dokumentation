@@ -61,7 +61,7 @@ Hier erfassen Sie die Grundlagen der Auszählung: die Zahl der Wahlberechtigten,
 | Sitze | Zunächst leer; später der Name des Standorts/Bezirks sowie die Anzahl der Gremiensitze. |
 | Wahlberechtigte | Anzahl der Wahlberechtigten laut Wählerverzeichnis (abweichende Angaben möglich). |
 | Externe Wähler mit eidesstattl. Erklärung | Sofern die Wahlordnung es erlaubt, können hier Wähler aufgenommen werden, die z. B. durch Umzug glaubhaft erklären, wahlberechtigt zu sein, und dazu eine eidesstattliche Erklärung unterschreiben. |
-| Abgegebene Stimmzettel | Gezählte Anzahl der Stimmzettel inklusive ungültiger. |
+| Abgegebene Stimmzettel | Gezählte Anzahl der Stimmzettel (inklusive ungültiger) in der Spalte **Urne/Brief**. Die Spalte **Online** wird automatisch aus dem Online-Wahlsystem befüllt und kann nicht bearbeitet werden. |
 | Ungültige Stimmzettel | Anzahl der ungültigen Stimmzettel. Bei großen Mengen ggf. einen Kommentar im Protokoll ergänzen. |
 | Gültige Stimmzettel (Summe) | Für die Auszählung zugrunde gelegte Summe. |
 
