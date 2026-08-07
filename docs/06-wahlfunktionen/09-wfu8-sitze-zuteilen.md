@@ -28,6 +28,9 @@ Wählen Sie in der Liste der Wahlniederschriften den Standort bzw. Bezirk und kl
 
 Füllen Sie den Dialog aus. Neben den Angaben zu beteiligten Personen und dem Notizfeld für besondere Vorkommnisse, finden Sie die Liste der Kandidaten. Für jeden Kandidaten ist bereits der **natürliche Rang** eingetragen, welcher sich aus den Stimmen der [WFU 7](./08-wfu7-stimmen-erfassen.md) ergibt.
 
+![](img/wfu8-kandidatenliste-rang.png)
+*WFU8: Kandidatenliste mit natürlichem Rang*
+
 ![](img/image214.png)
 *WFU8: Bearbeitungsdialog Sitzzuteilung*
 
