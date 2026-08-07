@@ -19,10 +19,10 @@ Zentral ist die Liste der Standorte/Bezirke mit Status, dem Aufruf des Dialogs u
 
 ## Sitze zuteilen
 
-Wählen Sie den Standort bzw. Bezirk aus und klicken Sie auf den blauen Stift, um den Dialog zu öffnen.
+Wählen Sie in der Liste der Wahlniederschriften den Standort bzw. Bezirk und klicken Sie auf **Wahlniederschrift vorbereiten / hochladen**, um den Dialog zu öffnen.
 
-![](img/image201.png)
-*WFU8: Eintrag zur Bearbeitung öffnen*
+![](img/wfu8-niederschrift-liste.png)
+*WFU8: Wahlniederschrift Sitzverteilung (Übersicht)*
 
 Füllen Sie den Dialog aus:
 
