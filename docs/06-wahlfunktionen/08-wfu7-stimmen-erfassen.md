@@ -32,6 +32,11 @@ Füllen Sie den Dialog aus:
 
 ### Allgemeine Angaben
 
+Im oberen Teil des Dialogs halten Sie fest, wann und durch wen die Stimmenerfassung erfolgt, und dokumentieren besondere Vorkommnisse.
+
+![](img/wfu7-allgemeine-angaben.png)
+*WFU7: Allgemeine Angaben im Bearbeitungsdialog*
+
 <div className="fieldTable">
 
 | Feld | Bedeutung |
