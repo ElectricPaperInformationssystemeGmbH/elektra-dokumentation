@@ -69,6 +69,11 @@ Hier erfassen Sie die Grundlagen der Auszählung: die Zahl der Wahlberechtigten,
 
 ### Stimmen-Block: Kandidaten
 
+Hier tragen Sie je Kandidatin bzw. Kandidat die aus Urne und Briefwahl gezählten Stimmen ein. Die Online-Stimmen werden automatisch befüllt; Summe und Rang berechnet das System selbstständig.
+
+![](img/wfu7-stimmen-block-kandidaten.png)
+*WFU7: Stimmen-Block – Kandidaten*
+
 <div className="fieldTable">
 
 | Feld | Bedeutung |
