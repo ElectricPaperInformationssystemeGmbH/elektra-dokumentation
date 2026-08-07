@@ -31,9 +31,6 @@ Füllen Sie den Dialog aus. Neben den Angaben zu beteiligten Personen und dem No
 ![](img/wfu8-kandidatenliste-rang.png)
 *WFU8: Kandidatenliste mit natürlichem Rang*
 
-![](img/image214.png)
-*WFU8: Bearbeitungsdialog Sitzzuteilung*
-
 <div className="fieldTable">
 
 | Spalte | Bedeutung |
