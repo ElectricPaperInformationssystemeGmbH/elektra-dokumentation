@@ -9,6 +9,8 @@ Die Wahlfunktion **WFU8 Sitze zuteilen** gibt Ihnen eine Übersicht über die na
 
 Wie alle dokumentarischen Wahlfunktionen beginnt WFU8 mit Arbeitshilfen und dem Plausibilitätsmodul; die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben. Zentrale Regeln für die Sitzzuteilung kann die Wahlleitung als Arbeitshilfe einblenden.
 
+Beim ersten Aufruf der Wahlfunktionen 7, 8 oder 9 muss der Beginn der Auszählung einmalig bestätigt werden (siehe [Auszählung starten](./wfu7-stimmen-erfassen#auszählung-starten) in WFU7). Ist dies bereits in einer der Wahlfunktionen erfolgt, entfällt der Schritt hier.
+
 ![](img/image212.png)
 *WFU8: Arbeitshilfen zur Sitzzuteilung*
 
