@@ -49,6 +49,11 @@ Im oberen Teil des Dialogs halten Sie fest, wann und durch wen die Stimmenerfass
 
 ### Stimmen-Block: Grundlage
 
+Hier erfassen Sie die Grundlagen der Auszählung: die Zahl der Wahlberechtigten, die abgegebenen und die ungültigen Stimmzettel. Das System berechnet daraus automatisch die gültigen, für die Auszählung zugrunde gelegten Stimmen.
+
+![](img/wfu7-stimmen-block-grundlage.png)
+*WFU7: Stimmen-Block – Grundlage*
+
 <div className="fieldTable">
 
 | Feld | Bedeutung |
