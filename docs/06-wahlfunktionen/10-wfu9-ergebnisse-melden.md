@@ -18,23 +18,10 @@ Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** öffnen Sie die Dialogb
 ![](img/wfu9-ergebnis-vorbereiten.png)
 *WFU9: Ergebnis vorbereiten / hochladen*
 
-<div className="fieldTable">
+Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidaten- und Wähler-Statistik sowie eine demografische Wähleranalyse. Diese entsprechen den Daten, die Sie ebenfalls im weiteren Verlauf der Seite sehen.
 
-| Feld | Bedeutung |
-| --- | --- |
-| Tag der Niederschrift | Datum der Niederschrift. |
-| Wahlteam-Mitglieder | Die anwesenden Mitglieder, die das Protokoll unterzeichnen. |
-| Notizen / besondere Vorkommnisse | Textblock für besondere Begebenheiten. |
-
-</div>
-
-Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidaten- und Wähler-Statistik sowie eine demografische Wähleranalyse.
-
-![](img/image220.png)
-*WFU9: Sitzverteilung (Einheitswahl)*
-
-![](img/image221.png)
-*WFU9: Sitzverteilung (Bezirkswahl)*
+![](img/image229.png)
+*WFU9: Sitzverteilung – Sitzzuteilung*
 
 ![](img/image222.png)
 *WFU9: Kandidaten-Statistik*
@@ -45,25 +32,7 @@ Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokume
 ![](img/image223.png)
 *WFU9: Demografische Wähleranalyse*
 
-Bearbeiten Sie das Word-Dokument nach Belieben. Die Seiten des Ergebnisdokuments sehen wie folgt aus:
-
-![](img/image224.png)
-*WFU9: Ergebnisdokument bearbeiten (Seite 1)*
-
-![](img/image225.png)
-*WFU9: Ergebnisdokument bearbeiten (Seite 2)*
-
-![](img/image226.png)
-*WFU9: Ergebnisdokument bearbeiten (Seite 3)*
-
-Drucken Sie das Dokument aus, unterzeichnen Sie es und laden Sie es in der Dialogbox **Ergebnis vorbereiten/hochladen** hoch.
-
-## Gewählte ins Gremium übernehmen
-
-Über die Sitzverteilung übernehmen Sie die gewählten Kandidatinnen und Kandidaten in das Gremium. Mit **Ins Gremium übernehmen** übernehmen Sie eine einzelne Person, mit **Alle ins Gremium übernehmen** alle auf einmal. Die Farbe des definierten Rangs zeigt dabei an, wer einen Sitz erhalten hat (grün) und wer als **Ersatz** geführt wird (dunkelrot).
-
-![](img/image229.png)
-*WFU9: Sitzverteilung – Gewählte ins Gremium übernehmen*
+Drucken Sie das Dokument aus, unterzeichnen Sie es und laden Sie es in der Dialogbox **Ergebnis vorbereiten/hochladen** hoch. Der Status in der Liste ändert sich dadurch automatisch. 
 
 ## Status und Kommentare
 
