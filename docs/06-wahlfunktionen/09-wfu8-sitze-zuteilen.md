@@ -51,11 +51,6 @@ Sobald die Sitze in die Spalte **Rang** übernommen wurden, kennzeichnet die Far
 ![](img/wfu8-kandidatenliste-farben.png)
 *WFU8: Kandidatenliste nach Übernahme der Sitze (grün = Sitz erhalten, gelb = kein Sitz)*
 
-Wurde ein Sitz doppelt vergeben, erscheint eine Fehlermeldung. Bearbeiten Sie in diesem Fall den tatsächlichen Rang und hinterlegen Sie einen Kommentar.
-
-![](img/image215.png)
-*WFU8: Fehlermeldung bei doppelt vergebenem Rang*
-
 Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bearbeitung**.
 
 ![](img/image203.png)
@@ -65,8 +60,6 @@ Wählen Sie **Vorlage generieren**, um ein personalisiertes Dokument zu erhalten
 
 ![](img/image216.png)
 *WFU8: Sitzzuteilungsvorlage generieren*
-
-![](img/image206.png)
 
 Der Status in der Liste ändert sich dadurch automatisch. Wiederholen Sie diesen Schritt ggf. für alle Bezirke; das System fasst die Ergebnisse in einem Panel zusammen.
 
