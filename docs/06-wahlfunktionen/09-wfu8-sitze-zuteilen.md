@@ -36,12 +36,13 @@ Füllen Sie den Dialog aus. Neben den Angaben zu beteiligten Personen und dem No
 
 <div className="fieldTable">
 
-| Feld | Bedeutung |
+| Spalte | Bedeutung |
 | --- | --- |
-| Tag der Niederschrift | Bestätigen Sie das Tagesdatum oder wählen Sie das korrekte Datum. |
-| Wahlteam-Mitglieder | Wählen Sie die anwesenden Vertreter des Wahlvorstands aus. |
-| Notizen / besondere Vorkommnisse | Dokumentieren Sie ggf. besondere Begebenheiten. |
-| Fertige Dokumente | Dokumenten-Liste und Drop-Zone für die Dateiauswahl. |
+| Kandidat*in | Name der Kandidatin bzw. des Kandidaten. |
+| Stimmen | Gesamtzahl der auf die Person entfallenen Stimmen (aus WFU7). |
+| Natürlicher Rang | Aus der Stimmenzahl abgeleitete Rangfolge. Über **übernehmen** wird sie in die Spalte **Rang** übertragen. Bei Stimmgleichheit erscheint ein orangefarbenes Warnsymbol. |
+| Rang | Eingabefeld für den endgültigen Rang. Über **Sitze sortieren** ordnet das System nach den eingetragenen Rängen; oben wird die Zahl der zu vergebenden Sitze angezeigt (z. B. „Sitze: 5"). |
+| Kommentar | Freitextfeld je Kandidat, z. B. zur Dokumentation eines Losentscheids bei Stimmgleichheit. |
 
 </div>
 
