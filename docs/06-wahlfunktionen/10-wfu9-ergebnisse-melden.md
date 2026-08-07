@@ -9,6 +9,8 @@ Die Wahl ist beendet. Nun müssen zusammenfassende Meldungen und die Wahlstatist
 
 Wie alle dokumentarischen Wahlfunktionen beginnt WFU9 mit Arbeitshilfen und dem Plausibilitätsmodul; die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben. Anschließend folgt die Liste der erstellten Protokolle – in der Regel nur eines.
 
+Beim ersten Aufruf der Wahlfunktionen 7, 8 oder 9 muss der Beginn der Auszählung einmalig bestätigt werden (siehe [Auszählung starten](./wfu7-stimmen-erfassen#auszählung-starten) in WFU7). Ist dies bereits in einer der Wahlfunktionen erfolgt, entfällt der Schritt hier.
+
 ## Ergebnisprotokoll erstellen
 
 Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** füllen Sie die Dialogbox mit Angaben:
@@ -29,10 +31,10 @@ Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** füllen Sie die Dialogb
 Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidatenstatistik und eine demografische Wähleranalyse.
 
 ![](img/image220.png)
-*WFU9: Ergebnis-Word-Dokument (Einheitswahl)*
+*WFU9: Sitzverteilung (Einheitswahl)*
 
 ![](img/image221.png)
-*WFU9: Ergebnis-Dokument (Bezirkswahl)*
+*WFU9: Sitzverteilung (Bezirkswahl)*
 
 ![](img/image222.png)
 *WFU9: Kandidaten-Statistik*
