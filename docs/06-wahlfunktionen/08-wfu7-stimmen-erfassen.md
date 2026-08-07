@@ -82,7 +82,7 @@ Hier tragen Sie je Kandidatin bzw. Kandidat die aus Urne und Briefwahl gezählte
 | Urne/Brief | Anzahl der per Strichliste erhobenen Stimmen aus Zählprotokoll/Zählhilfe. |
 | Online | Wird automatisch befüllt. |
 | Summe | Wird automatisch befüllt. |
-| Rang | Wird automatisch berechnet. Stehen Kandidaten auf demselben natürlichen Rang, wird dies farbig und mit einem Achtung-Symbol dargestellt. |
+| Rang | Wird automatisch berechnet. Stehen mehrere Kandidaten auf demselben natürlichen Rang (Stimmgleichheit), wird dies orange und mit einem Ausrufezeichen dargestellt – im Screenshot bei zwei Kandidaten auf **Rang 3**. Diese Stimmgleichheit wird in der Wahlfunktion **8 Sitze zuteilen** aufgelöst. |
 
 </div>
 
