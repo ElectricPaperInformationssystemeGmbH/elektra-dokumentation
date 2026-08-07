@@ -20,10 +20,10 @@ Damit bestätigen Sie, dass die Wahlhandlung beendet ist und mit der Auszählung
 
 ## Stimmen erfassen
 
-Wählen Sie den Standort bzw. Bezirk aus und klicken Sie auf den blauen Stift, um den Dialog zu öffnen.
+Wählen Sie in der Liste der Stimmenerfassungs-Protokolle den gewünschten Eintrag (Standort bzw. Bezirk) und klicken Sie auf **Stimmenerfassung vorbereiten / hochladen**, um den Dialog zu öffnen.
 
-![](img/image201.png)
-*WFU7: Eintrag zur Bearbeitung öffnen*
+![](img/wfu7-stimmenerfassung-liste.png)
+*WFU7: Stimmenerfassung-Protokolle (Übersicht)*
 
 Füllen Sie den Dialog aus:
 
