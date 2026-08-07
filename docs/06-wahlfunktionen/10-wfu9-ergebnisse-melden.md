@@ -13,7 +13,10 @@ Beim ersten Aufruf der Wahlfunktionen 7, 8 oder 9 muss der Beginn der Auszählun
 
 ## Ergebnisprotokoll erstellen
 
-Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** füllen Sie die Dialogbox mit Angaben:
+Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** öffnen Sie die Dialogbox, um die allgemeinen Daten des Protokolls festzuhalten.
+
+![](img/wfu9-ergebnis-vorbereiten.png)
+*WFU9: Ergebnis vorbereiten / hochladen*
 
 <div className="fieldTable">
 
@@ -24,9 +27,6 @@ Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** füllen Sie die Dialogb
 | Notizen / besondere Vorkommnisse | Textblock für besondere Begebenheiten. |
 
 </div>
-
-![](img/image219.png)
-*WFU9: Ergebnismeldung (Übersicht)*
 
 Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidaten- und Wähler-Statistik sowie eine demografische Wähleranalyse.
 
