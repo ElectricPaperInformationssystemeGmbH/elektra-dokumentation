@@ -28,7 +28,7 @@ Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** füllen Sie die Dialogb
 ![](img/image219.png)
 *WFU9: Ergebnismeldung (Übersicht)*
 
-Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidatenstatistik und eine demografische Wähleranalyse.
+Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidaten- und Wähler-Statistik sowie eine demografische Wähleranalyse.
 
 ![](img/image220.png)
 *WFU9: Sitzverteilung (Einheitswahl)*
@@ -38,6 +38,9 @@ Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokume
 
 ![](img/image222.png)
 *WFU9: Kandidaten-Statistik*
+
+![](img/image228.png)
+*WFU9: Wähler-Statistik*
 
 ![](img/image223.png)
 *WFU9: Demografische Wähleranalyse*
@@ -54,6 +57,15 @@ Bearbeiten Sie das Word-Dokument nach Belieben. Die Seiten des Ergebnisdokuments
 *WFU9: Ergebnisdokument bearbeiten (Seite 3)*
 
 Drucken Sie das Dokument aus, unterzeichnen Sie es und laden Sie es in der Dialogbox **Ergebnis vorbereiten/hochladen** hoch.
+
+## Gewählte ins Gremium übernehmen
+
+Über die Sitzverteilung übernehmen Sie die gewählten Kandidatinnen und Kandidaten in das Gremium. Mit **Ins Gremium übernehmen** übernehmen Sie eine einzelne Person, mit **Alle ins Gremium übernehmen** alle auf einmal. Die Farbe des definierten Rangs zeigt dabei an, wer einen Sitz erhalten hat (grün) und wer als **Ersatz** geführt wird (dunkelrot).
+
+![](img/image229.png)
+*WFU9: Sitzverteilung – Gewählte ins Gremium übernehmen*
+
+## Status und Kommentare
 
 Abschließend können Sie wie immer **Status** und **Kommentare** setzen (siehe [Grundkonzept](./grundkonzept-fuer-dokumentarische-wahlfunktionen)).
 
