@@ -86,7 +86,7 @@ Hier tragen Sie je Kandidatin bzw. Kandidat die aus Urne und Briefwahl gezählte
 Im unteren Bereich des Dialogs finden Sie außerdem **Fertige Dokumente** (Liste der hochgeladenen Dateien) und den **Dokument-Upload** (Dropzone).
 Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bearbeitung**.
 
-### Protokoll generieren
+### Protokoll generieren & Wahlfunktion abschließen
 
 Wählen Sie **Vorlage generieren**, um ein personalisiertes Protokoll zu erhalten, und laden Sie es anschließend hoch. Der Status ändert sich dadurch automatisch. Wiederholen Sie diesen Schritt ggf. für alle Bezirke; das System zieht die Ergebnisse zusammen.
 
