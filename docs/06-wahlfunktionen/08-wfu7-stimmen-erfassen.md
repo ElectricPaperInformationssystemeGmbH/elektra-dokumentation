@@ -97,6 +97,9 @@ Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bear
 
 Wählen Sie **Vorlage generieren**, um ein personalisiertes Protokoll zu erhalten, und laden Sie es anschließend hoch. Der Status ändert sich dadurch automatisch. Wiederholen Sie diesen Schritt ggf. für alle Bezirke; das System zieht die Ergebnisse zusammen.
 
+![](img/wfu7-vorlage-generieren.png)
+*WFU7: Protokollvorlage auswählen*
+
 ![](img/image206.png)
 
 ![](img/image210.png)
