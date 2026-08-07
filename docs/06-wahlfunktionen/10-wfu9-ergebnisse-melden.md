@@ -20,13 +20,13 @@ Mit der Schaltfläche **Ergebnis vorbereiten/hochladen** öffnen Sie die Dialogb
 
 Rufen Sie anschließend **Vorlage generieren** auf und laden Sie das Word-Dokument. Es enthält alle Angaben zur Sitzverteilung, die Kandidaten- und Wähler-Statistik sowie eine demografische Wähleranalyse. Diese entsprechen den Daten, die Sie ebenfalls im weiteren Verlauf der Seite sehen.
 
-![](img/image229.png)
+![](img/wfu9-sitzverteilung.png)
 *WFU9: Sitzverteilung – Sitzzuteilung*
 
 ![](img/image222.png)
 *WFU9: Kandidaten-Statistik*
 
-![](img/image228.png)
+![](img/wfu9-waehler-statistik.png)
 *WFU9: Wähler-Statistik*
 
 ![](img/image223.png)
