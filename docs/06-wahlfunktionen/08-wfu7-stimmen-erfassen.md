@@ -25,10 +25,7 @@ Wählen Sie in der Liste der Stimmenerfassungs-Protokolle den gewünschten Eintr
 ![](img/wfu7-stimmenerfassung-liste.png)
 *WFU7: Stimmenerfassung-Protokolle (Übersicht)*
 
-Füllen Sie den Dialog aus:
-
-![](img/image209.png)
-*WFU7: Bearbeitungsdialog Stimmenerfassung*
+Füllen Sie den Dialog aus.
 
 ### Allgemeine Angaben
 
@@ -87,11 +84,14 @@ Hier tragen Sie je Kandidatin bzw. Kandidat die aus Urne und Briefwahl gezählte
 </div>
 
 Im unteren Bereich des Dialogs finden Sie außerdem **Fertige Dokumente** (Liste der hochgeladenen Dateien) und den **Dokument-Upload** (Dropzone).
+Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bearbeitung**.
+
+### Protokoll generieren
 
 ![](img/image203.png)
 *WFU7: Dokument-Upload (Dropzone)*
 
-Speichern Sie die Angaben. Der Status wechselt dadurch automatisch auf **In Bearbeitung**.
+
 
 ![](img/image204.png)
 
