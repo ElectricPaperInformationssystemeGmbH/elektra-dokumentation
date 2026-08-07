@@ -46,6 +46,11 @@ Füllen Sie den Dialog aus. Neben den Angaben zu beteiligten Personen und dem No
 
 </div>
 
+Sobald die Sitze in die Spalte **Rang** übernommen wurden, kennzeichnet die Farbe der Zeile das Ergebnis: Hat eine Kandidatin bzw. ein Kandidat einen Sitz erhalten, wird die Zeile **grün** eingefärbt; wurde kein Sitz vergeben, ist sie **gelb**.
+
+![](img/wfu8-kandidatenliste-farben.png)
+*WFU8: Kandidatenliste nach Übernahme der Sitze (grün = Sitz erhalten, gelb = kein Sitz)*
+
 Wurde ein Sitz doppelt vergeben, erscheint eine Fehlermeldung. Bearbeiten Sie in diesem Fall den tatsächlichen Rang und hinterlegen Sie einen Kommentar.
 
 ![](img/image215.png)
