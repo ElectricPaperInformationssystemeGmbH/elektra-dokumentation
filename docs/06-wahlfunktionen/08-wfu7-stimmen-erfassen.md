@@ -9,6 +9,15 @@ Die Wahlfunktion **WFU7 – Stimmen erfassen** trägt die Stimmen für den Stand
 
 Wie alle dokumentarischen Wahlfunktionen beginnt WFU7 mit Arbeitshilfen und dem Plausibilitätsmodul; die allgemeine Bedienung ist im [Grundkonzept für dokumentarische Wahlfunktionen](./grundkonzept-fuer-dokumentarische-wahlfunktionen) beschrieben.
 
+## Auszählung starten
+
+Wenn Sie eine der Wahlfunktionen **7**, **8** oder **9** zum ersten Mal aufrufen, müssen Sie zunächst den Beginn der Auszählung bestätigen. Geben Sie dazu die angezeigte Zahlenfolge in das Eingabefeld ein und klicken Sie auf **Bestätigen**.
+
+![](img/captcha-auszaehlung.png)
+*WFU7: Auszählung starten*
+
+Damit bestätigen Sie, dass die Wahlhandlung beendet ist und mit der Auszählung begonnen wird. Der Vorgang wird im **Audit-Log** vermerkt und kann von der Projektleitung eingesehen werden. Die Bestätigung ist nur einmal nötig: Sobald Sie sie bei einer der drei Wahlfunktionen eingegeben haben, sind auch die übrigen freigeschaltet.
+
 ## Stimmen erfassen
 
 Wählen Sie den Standort bzw. Bezirk aus und klicken Sie auf den blauen Stift, um den Dialog zu öffnen.
