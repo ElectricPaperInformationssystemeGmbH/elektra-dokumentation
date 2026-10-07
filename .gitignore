@@ -20,3 +20,9 @@ yarn-error.log*
 
 # Obsidian (Editor-Konfiguration)
 .obsidian/
+
+# Nicht Teil der Dokumentation - liegen unter ../_Arbeitsdateien/
+/testplan
+/chatbot
+*.docx
+_gitlocks/
